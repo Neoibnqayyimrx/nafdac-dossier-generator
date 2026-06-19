@@ -1,22 +1,22 @@
 """
 NAFDAC Dossier Generator — CLI Entry Point
 """
-from nafdac_validator import (
+from validators.nafdac_validator import (
     validate_submission, save_validation_report,
     run_integration_test, NAFDAC_CHECKLIST,
 )
-from web_scrapers import (
+from scrapers.web_scrapers import (
     nafdac_search, nafdac_verify_registration_number,
     who_prequal_check, drugbank_lookup, openfda_lookup,
     fetch_all_external, scraper_cache_stats, clear_scraper_cache,
 )
-from ai_narrative import (
+from ai.ai_narrative import (
     tweak_narrative, tweak_docx_section,
     compute_diff, diff_to_terminal, diff_stats, save_diff_docx,
     fill_spec_gaps, apply_gap_fills_to_spec,
     TWEAK_MODES,
 )
-from pdf_exporter import (
+from exporters.pdf_exporter import (
     convert_docx_to_pdf,
     convert_submission_to_pdf,
     find_soffice,
@@ -24,28 +24,28 @@ from pdf_exporter import (
     PDFExportError,
     BatchResult,
 )
-from nafdac_structure import (
+from core.nafdac_structure import (
     SubmissionConfig, build_submission_folder,
     load_manifest, list_submissions, config_from_manifest,
 )
-from structure_fetcher import (
+from scrapers.structure_fetcher import (
     fetch_structure, fetch_all_structures,
     get_structure_path, structure_exists,
 )
-from pubchem_api import (
+from scrapers.pubchem_api import (
     query_pubchem, map_to_dossier_fields,
     enrich_bp_database, cache_stats, clear_cache
 )
 
-from spec_resolver import (
+from core.spec_resolver import (
     resolve_spec, get_flat_spec,
     get_provenance_report, save_resolved_spec,
 )
 import re
 import json
 import typer
-from module_generators import generate_all_modules
-from smpc_pil_generator import generate_smpc, generate_pil
+from core.module_generators import generate_all_modules
+from exporters.smpc_pil_generator import generate_smpc, generate_pil
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
@@ -53,7 +53,7 @@ from rich.text import Text
 from rich import print as rprint
 from pathlib import Path
 from typing import Optional
-from pharmacopoeia_db_builder import build_db, add_single, lookup, db_stats, rebuild_index
+from core.pharmacopoeia_db_builder import build_db, add_single, lookup, db_stats, rebuild_index
 
 app = typer.Typer(
     name="nafdac",
@@ -384,7 +384,7 @@ def draw_structure(
     rprint(f"[bold cyan]Drawing structure: {drug}[/bold cyan]")
 
     # Check cache for CID
-    from pubchem_api import _load_cache
+    from scrapers.pubchem_api import _load_cache
     cached = _load_cache(drug)
     cid = cached.get("cid") if cached else None
 
@@ -837,7 +837,7 @@ def export_pdf(
     Example:
       python cli.py export-pdf submissions/Amlodipine_Besylate_10mg_Tablets/Module1/1.3_Product_Information/1.3.1_SmPC/smpc.docx
     """
-    from pdf_exporter import convert_docx_to_pdf, PDFExportError
+    from exporters.pdf_exporter import convert_docx_to_pdf, PDFExportError
     _banner()
     rprint(f"[bold cyan]Exporting to PDF[/bold cyan]")
     rprint(f"  Source: [cyan]{docx}[/cyan]")
@@ -883,7 +883,7 @@ def export_pdf_batch(
       python cli.py export-pdf-batch submissions/Amlodipine_Besylate_10mg_Tablets
       python cli.py export-pdf-batch submissions/Amlodipine_Besylate_10mg_Tablets --no-mirror
     """
-    from pdf_exporter import (
+    from exporters.pdf_exporter import (
         convert_submission_to_pdf, find_soffice,
         libreoffice_version, PDFExportError, BatchResult
     )
@@ -1123,7 +1123,7 @@ def drugbank_lookup_cmd(
       python cli.py drugbank-lookup amlodipine
       python cli.py drugbank-lookup "metformin hydrochloride" --no-interactions
     """
-    from web_scrapers import openfda_lookup
+    from scrapers.web_scrapers import openfda_lookup
     _banner()
     rprint(f"[bold cyan]OpenFDA Lookup: {drug}[/bold cyan]")
     rprint(f"[dim]Source: api.fda.gov/drug/label.json[/dim]")
@@ -1390,7 +1390,7 @@ def tweak_narrative_cmd(
  
     # Terminal diff
     if diff:
-        from ai_narrative import compute_diff, diff_to_terminal, diff_stats
+        from ai.ai_narrative import compute_diff, diff_to_terminal, diff_stats
         diffs = compute_diff(result["original"], result["rewritten"])
         stats = diff_stats(diffs)
         rprint(f"\n[bold]Diff[/bold]  [dim](chars added: {stats['added']}  removed: {stats['removed']})[/dim]")
@@ -1527,7 +1527,7 @@ def fill_spec_gaps_cmd(
     rprint(f"[bold cyan]AI Spec Gap Filler: {drug}[/bold cyan]")
  
     # Load resolved spec
-    from spec_resolver import resolve_spec, save_resolved_spec
+    from core.spec_resolver import resolve_spec, save_resolved_spec
     drug_slug = re.sub(r"[^\w]", "_", drug.lower()).strip("_")
     spec_path = Path("pharmacopoeia_db") / "resolved" / f"{drug_slug}.json"
  
@@ -1541,7 +1541,7 @@ def fill_spec_gaps_cmd(
         rprint(f"  Loaded: [cyan]{spec_path}[/cyan]")
  
     # Count what needs filling
-    from ai_narrative import FILLABLE_FIELDS, LOW_CONFIDENCE_SOURCES
+    from ai.ai_narrative import FILLABLE_FIELDS, LOW_CONFIDENCE_SOURCES
     empty  = [f for f in FILLABLE_FIELDS if not fields.get(f, {}).get("value")]
     low_c  = [f for f in FILLABLE_FIELDS
                if fields.get(f, {}).get("value")
@@ -1824,7 +1824,7 @@ def integration_test_cmd(
  
     # ── Save DOCX validation report if requested ───────────────────────────
     if save_report:
-        from nafdac_validator import validate_submission, save_validation_report
+        from validators.nafdac_validator import validate_submission, save_validation_report
         val_result  = validate_submission(submission)
         report_path = save_validation_report(val_result, Path(save_report))
         rprint(f"\n[green]✓ DOCX report saved:[/green] {report_path}")

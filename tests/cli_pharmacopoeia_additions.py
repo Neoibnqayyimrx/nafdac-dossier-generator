@@ -5,7 +5,7 @@ Paste these 4 commands into your existing cli.py.
 
 STEP 1 — Add this import near the top of cli.py (with other imports):
 ─────────────────────────────────────────────────────────────────────
-from pharmacopoeia_db_builder import (
+from core.pharmacopoeia_db_builder import (
     build_db, add_single, lookup, db_stats, rebuild_index
 )
 

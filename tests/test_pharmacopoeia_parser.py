@@ -18,7 +18,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-import pharmacopoeia_parser as pp
+from core import pharmacopoeia_parser as pp
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
