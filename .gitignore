@@ -1,4 +1,4 @@
-﻿# Pharmacopoeia databases (too large for GitHub)
+﻿# Pharmacopoeia databases
 pharmacopoeia_db/BP/
 pharmacopoeia_db/USP/
 
@@ -11,12 +11,18 @@ venv/
 .venv/
 *.egg-info/
 
-# Outputs / generated dossiers
+# Runtime / generated
 output/
-generated/
+drafts/
+scrapers_cache/
+scraped_data/
 *.docx
 *.pdf
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Node (not used)
+node_modules/
+package-lock.json
