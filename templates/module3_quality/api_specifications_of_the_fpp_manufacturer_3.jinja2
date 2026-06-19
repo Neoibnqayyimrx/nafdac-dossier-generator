@@ -1,0 +1,44 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Glibenclamide 5mg
+  Module: module3_quality
+  Vars  : 2
+#}
+
+## {{ drug.molecular_formula }} specifications of the {{ drug.molecular_formula }} manufacturer:
+
+{# TABLE #}
+| Standard (e.g. Ph. Int., Ph. Eur., BP, USP, in-house) | Standard (e.g. Ph. Int., Ph. Eur., BP, USP, in-house) | B.P |
+| --- | --- | --- |
+|  |  | SP/RM/{{ drug.molecular_formula }}/03 |
+| Acceptance criteria | Acceptance criteria | Analytical procedure
+(Type/Source/Version) |
+| White or almost white, crystalline powder. | White or almost white, crystalline powder. | According to B.P |
+| Practically insoluble in water, sparingly soluble in methylene chloride, slightly soluble in alcohol and in methanol. | Practically insoluble in water, sparingly soluble in methylene chloride, slightly soluble in alcohol and in methanol. | According to B.P |
+|  |  |  |
+| {{ storage.temperature }} to {{ storage.temperature }}. | {{ storage.temperature }} to {{ storage.temperature }}. | N/A |
+| Absorption maxima :    At 300nm and at 275nm
+Specific absorbance :    At 300nm -  61 to 65 
+                                       At 275nm -  27 to 32 | Absorption maxima :    At 300nm and at 275nm
+Specific absorbance :    At 300nm -  61 to 65 
+                                       At 275nm -  27 to 32 | N/A |
+| Comparison – {{ drug.name }} {{ drug.molecular_formula }} | Comparison – {{ drug.name }} {{ drug.molecular_formula }} | N/A |
+| The principal spot in the chromatogram obtained with the test {{ drug.dosage_form }} is similar in position and size to the principal spot in the chromatogram obtained with the reference {{ drug.dosage_form }}. | The principal spot in the chromatogram obtained with the test {{ drug.dosage_form }} is similar in position and size to the principal spot in the chromatogram obtained with the reference {{ drug.dosage_form }}. | N/A |
+| Fluorescence: The {{ drug.dosage_form }} is colourless and shows blue fluorescence in ultraviolet light at 365 nm. 
+Colour: The colour changes to deep yellow and, after about 20 min, develops a brownish tinge. | Fluorescence: The {{ drug.dosage_form }} is colourless and shows blue fluorescence in ultraviolet light at 365 nm. 
+Colour: The colour changes to deep yellow and, after about 20 min, develops a brownish tinge. |  |
+| Limits: 
+ - Impurity A: not more than the area of the corresponding peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.5 per cent), 
+- Impurity B: not more than the area of the corresponding peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.5 per cent), 
+- Any other impurity: not more than the area of the principal peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.2 per cent), and not more  than 2 such peaks have an area greater than half the area of the principal peak in  the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.1 per cent), 
+- Total of other impurities: not more than 2.5 times the area of the principal peak  in the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.5 per cent), 
+- Disregard limit: 0.25 times the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.05 per cent). | Limits: 
+ - Impurity A: not more than the area of the corresponding peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.5 per cent), 
+- Impurity B: not more than the area of the corresponding peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.5 per cent), 
+- Any other impurity: not more than the area of the principal peak in the  chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.2 per cent), and not more  than 2 such peaks have an area greater than half the area of the principal peak in  the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.1 per cent), 
+- Total of other impurities: not more than 2.5 times the area of the principal peak  in the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.5 per cent), 
+- Disregard limit: 0.25 times the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (b) (0.05 per cent). |  |
+| Maximum 20ppm | Maximum 20ppm |  |
+| Maximum 1.0% | Maximum 1.0% |  |
+| Maximum 0.1% | Maximum 0.1% |  |
+| 99.0% to 101.0% (dry basis) | 99.0% to 101.0% (dry basis) |  |

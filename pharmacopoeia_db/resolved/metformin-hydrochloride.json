@@ -1,0 +1,188 @@
+{
+  "drug_name": "metformin hydrochloride",
+  "fields": {
+    "drug_name": {
+      "value": "Metformin Hydrochloride",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "molecular_formula": {
+      "value": "C4H12ClN5 165.6 1115-70-4",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "molecular_weight": {
+      "value": 165.62,
+      "source": "BP",
+      "confidence": "high"
+    },
+    "iupac_name": {
+      "value": "3-(diaminomethylidene)-1,1-dimethylguanidine;hydrochloride",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "smiles": {
+      "value": "CN(C)C(=N)N=C(N)N.Cl",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "inchikey": {
+      "value": "OETHQSJEHLVLGH-UHFFFAOYSA-N",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "description": {
+      "value": "White or almost white crystals.",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "melting_point": {
+      "value": "232 °C",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "solubility": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "logp": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "pka": {
+      "value": "pKa = 12.4 /Metformin hydrochloride/",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "assay": {
+      "value": {
+        "method": "Titration",
+        "limits": {
+          "min": 98.5,
+          "max": 101.0
+        },
+        "units": "%w/w",
+        "raw": "ASSAY Dissolve 0.100 g in 4 mL of anhydrous formic acid R. Add 80 mL of acetonitrile R. Carry out the titration immediately. Titrate with 0.1 M perchloric acid, determining the end-point potentiometrically (2.2.20). 1 mL of 0.1 M perchloric acid is equivalent to 16.56 mg of C4H12ClN5."
+      },
+      "source": "BP",
+      "confidence": "high"
+    },
+    "identification": {
+      "value": [
+        {
+          "test": "A",
+          "method": "Melting point",
+          "criterion": "Melting point (2.2.14): 222 °C to 226 °C."
+        },
+        {
+          "test": "B",
+          "method": "IR spectrophotometry",
+          "criterion": "Infrared absorption spectrophotometry (2.2.24)."
+        },
+        {
+          "test": "C",
+          "method": "TLC",
+          "criterion": "Thin-layer chromatography (2.2.27)."
+        },
+        {
+          "test": "D",
+          "method": "Chemical test",
+          "criterion": "Dissolve about 5 mg in water R and dilute to 100 mL with the same solvent. To 2 mL of the solution add 0.25 mL of strong sodium hydroxide solution R and 0.10 mL of α-naphthol solution R. Mix and allow to stand in iced water for 15 min. Add 0.5 mL of sodium hypobromite solution R and mix. A pink colour develops."
+        },
+        {
+          "test": "E",
+          "method": "Chemical test",
+          "criterion": "It gives reaction (a) of chlorides (2.3.1)."
+        }
+      ],
+      "source": "BP",
+      "confidence": "high"
+    },
+    "related_substances": {
+      "value": [
+        {
+          "name": "Impurity F Liquid chromatography (2.2.29). Derivatisation solution Prepare the s",
+          "limit": 0.05,
+          "limit_unit": "%",
+          "rrt": null,
+          "method": "HPLC"
+        }
+      ],
+      "source": "BP",
+      "confidence": "high"
+    },
+    "loss_on_drying": {
+      "value": {
+        "limit_pct": 0.5,
+        "temperature_c": 105,
+        "method": "Gravimetric (Ph. Eur. 2.2.32)"
+      },
+      "source": "BP",
+      "confidence": "high"
+    },
+    "water_content": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "storage": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "dissolution": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "uniformity": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "microbial_limits": {
+      "value": {
+        "TAMC": null,
+        "TYMC": null,
+        "pathogens": [],
+        "method": null,
+        "raw": null
+      },
+      "source": "BP",
+      "confidence": "high"
+    },
+    "structure_image_path": {
+      "value": "pharmacopoeia_db\\structures\\metformin-hydrochloride.png",
+      "source": "local",
+      "confidence": "high"
+    }
+  },
+  "summary": {
+    "total": 21,
+    "filled": 15,
+    "empty": 6,
+    "empty_fields": [
+      "solubility",
+      "logp",
+      "water_content",
+      "storage",
+      "dissolution",
+      "uniformity"
+    ],
+    "by_source": {
+      "BP": 14,
+      "unresolved": 6,
+      "local": 1
+    }
+  },
+  "warnings": [
+    "Field 'solubility' could not be resolved from any source.",
+    "Field 'logp' could not be resolved from any source.",
+    "Field 'water_content' could not be resolved from any source.",
+    "Field 'storage' could not be resolved from any source.",
+    "Field 'dissolution' could not be resolved from any source.",
+    "Field 'uniformity' could not be resolved from any source."
+  ]
+}

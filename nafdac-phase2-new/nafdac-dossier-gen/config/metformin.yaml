@@ -1,0 +1,68 @@
+# NAFDAC Dossier Generator — Drug Profile
+# Drug: Metformin Hydrochloride
+# Fill in all required fields before running: nafdac generate
+# Required fields: drug.name/brand_name/strength/dosage_form/route/class/atc_code,
+#                   manufacturer.name/address, applicant.* (all), storage_and_stability.*
+# ─────────────────────────────────────────────────────────────────────
+
+drug:
+  name: Metformin Hydrochloride
+  brand_name: ''
+  strength: ''
+  dosage_form: ''
+  route_of_administration: ''
+  therapeutic_class: ''
+  atc_code: ''
+  pharmacopoeia_standard: BP
+  description: ''
+manufacturer:
+  name: ''
+  address: ''
+  country: Nigeria
+  nafdac_number: ''
+  gmp_certificate: ''
+  contact_person: ''
+  email: ''
+  phone: ''
+applicant:
+  name: ''
+  address: ''
+  country: Nigeria
+  contact_person: ''
+  email: ''
+  phone: ''
+registration:
+  application_type: New Product
+  product_category: Finished Product
+  target_market: Nigeria
+  nafdac_registration_number: ''
+  previous_submission_date: ''
+storage_and_stability:
+  shelf_life: ''
+  storage_conditions: ''
+  pack_size: ''
+  container_type: ''
+specifications:
+  description: ''
+  identification: ''
+  assay_limit: ''
+  dissolution: ''
+  related_substances: ''
+  water_content: ''
+  microbial_limit: ''
+  particle_size: ''
+  hardness: ''
+  disintegration: ''
+supporting_documents:
+  bioequivalence_study: ''
+  stability_data: ''
+  certificate_of_analysis: ''
+  gmp_certificate: ''
+  drug_master_file: ''
+  site_master_file: ''
+references:
+  who_prequalified: false
+  who_pq_number: ''
+  pubchem_cid: ''
+  bp_monograph_ref: ''
+  usp_monograph_ref: ''

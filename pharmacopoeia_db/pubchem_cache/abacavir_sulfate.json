@@ -1,0 +1,28 @@
+{
+  "drug_name": "Abacavir Sulfate",
+  "cid": 441384,
+  "molecular_formula": "C28H38N12O6S",
+  "molecular_weight": "670.7",
+  "iupac_name": "bis([(1S,4R)-4-[2-amino-6-(cyclopropylamino)purin-9-yl]cyclopent-2-en-1-yl]methanol);sulfuric acid",
+  "smiles": "C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO.C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO.OS(=O)(=O)O",
+  "inchikey": "WMHSRBZIJNQHKT-FFKFEZPRSA-N",
+  "logp": null,
+  "melting_point": "25 °C",
+  "solubility": "In water, 77,000 mg/l @ 25 °C",
+  "pka": null,
+  "synonyms": [
+    "Abacavir sulfate",
+    "188062-50-2",
+    "Abacavir sulphate",
+    "1592U89 sulfate",
+    "Abacavir Hemisulfate",
+    "Abamune",
+    "Abacavir (as sulfate)",
+    "Abacaviri sulfas",
+    "DRG-0257",
+    "J220T4J9Q2"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/441384",
+  "query_status": "found",
+  "cached": false
+}

@@ -1,0 +1,28 @@
+{
+  "drug_name": "amlodipine besylate",
+  "cid": 60496,
+  "molecular_formula": "C26H31ClN2O8S",
+  "molecular_weight": "567.1",
+  "iupac_name": "benzenesulfonic acid;3-O-ethyl 5-O-methyl 2-(2-aminoethoxymethyl)-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate",
+  "smiles": "CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN.C1=CC=C(C=C1)S(=O)(=O)O",
+  "inchikey": "ZPBWCRDSRKPIDG-UHFFFAOYSA-N",
+  "logp": null,
+  "melting_point": null,
+  "solubility": null,
+  "pka": null,
+  "synonyms": [
+    "AMLODIPINE BESYLATE",
+    "111470-99-6",
+    "Amlodipine besilate",
+    "Amlodipine benzenesulfonate",
+    "Monopina",
+    "Antacal",
+    "Norvas",
+    "Lodipressin",
+    "NORLIQVA",
+    "DTXSID2043909"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/60496",
+  "query_status": "found",
+  "cached": false
+}

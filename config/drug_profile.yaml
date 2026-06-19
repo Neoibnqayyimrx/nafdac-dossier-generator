@@ -1,0 +1,83 @@
+# ══════════════════════════════════════════════════════════════════
+# NAFDAC Dossier Generator — Drug Profile
+# ══════════════════════════════════════════════════════════════════
+# Fill in every field before running: nafdac generate --drug-profile
+# Fields marked [REQUIRED] will cause validation to fail if empty.
+# Fields marked [OPTIONAL] can be left blank or removed.
+# ══════════════════════════════════════════════════════════════════
+
+drug:
+  name: ""                        # [REQUIRED] e.g. "Metformin Hydrochloride"
+  brand_name: ""                  # [REQUIRED] e.g. "Glucomet"
+  strength: ""                    # [REQUIRED] e.g. "850mg"
+  dosage_form: ""                 # [REQUIRED] e.g. "Film-coated Tablets"
+  route_of_administration: ""     # [REQUIRED] e.g. "Oral"
+  therapeutic_class: ""           # [REQUIRED] e.g. "Antidiabetic – Biguanide"
+  atc_code: ""                    # [REQUIRED] e.g. "A10BA02"
+  pharmacopoeia_standard: "BP"    # [REQUIRED] BP | USP | BP/USP | In-house
+  description: ""                 # [OPTIONAL] Brief physical description of dosage form
+  smiles: ""                      # SMILES string — auto-fetched from PubChem if left blank
+
+manufacturer:
+  name: ""                        # [REQUIRED] e.g. "HealthPlus Nigeria Ltd"
+  address: ""                     # [REQUIRED] Full manufacturing site address
+  country: "Nigeria"              # [REQUIRED]
+  nafdac_number: ""               # [OPTIONAL] Existing NAFDAC manufacturer number
+  gmp_certificate: ""             # [OPTIONAL] File path to GMP certificate PDF
+  contact_person: ""              # [OPTIONAL]
+  email: ""                       # [OPTIONAL]
+  phone: ""                       # [OPTIONAL]
+
+applicant:
+  # The company submitting to NAFDAC (may differ from manufacturer)
+  name: ""                        # [REQUIRED]
+  address: ""                     # [REQUIRED]
+  country: "Nigeria"              # [REQUIRED]
+  contact_person: ""              # [REQUIRED]
+  email: ""                       # [REQUIRED]
+  phone: ""                       # [REQUIRED]
+
+registration:
+  application_type: "New Product"       # [REQUIRED] New Product | Renewal | Variation
+  product_category: "Finished Product"  # [REQUIRED] Finished Product | API | Medical Device
+  target_market: "Nigeria"              # [REQUIRED]
+  nafdac_registration_number: ""        # [OPTIONAL] Fill if renewal/variation
+  previous_submission_date: ""          # [OPTIONAL] Format: YYYY-MM-DD
+
+storage_and_stability:
+  shelf_life: ""                  # [REQUIRED] e.g. "24 months"
+  storage_conditions: ""          # [REQUIRED] e.g. "Store below 30°C, protect from light and moisture"
+  pack_size: ""                   # [REQUIRED] e.g. "Blister pack of 10 tablets x 10 strips"
+  container_type: ""              # [REQUIRED] e.g. "PVC/Aluminium blister"
+
+specifications:
+  # These will be auto-populated from pharmacopoeia DB and PubChem in Phase 3/4.
+  # You can pre-fill any field here to override the auto-populated value.
+  description: ""                 # Physical appearance
+  identification: ""              # Identification test method reference
+  assay_limit: ""                 # e.g. "98.0% - 102.0%"
+  dissolution: ""                 # e.g. "NLT 75% in 45 minutes (900ml, 0.1N HCl, Apparatus II)"
+  related_substances: ""          # e.g. "Any individual impurity: NMT 0.2%"
+  water_content: ""               # e.g. "NMT 0.5%"
+  microbial_limit: ""             # e.g. "Complies with BP limits for oral solid dosage forms"
+  particle_size: ""               # [OPTIONAL]
+  hardness: ""                    # [OPTIONAL]
+  disintegration: ""              # [OPTIONAL]
+
+supporting_documents:
+  # Provide file paths to supporting study documents.
+  # These will be referenced or parsed during dossier generation.
+  bioequivalence_study: ""        # [OPTIONAL] Path to BE study report PDF
+  stability_data: ""              # [OPTIONAL] Path to stability data file (xlsx or PDF)
+  certificate_of_analysis: ""     # [OPTIONAL] Path to COA PDF
+  gmp_certificate: ""             # [OPTIONAL] Path to GMP cert PDF
+  drug_master_file: ""            # [OPTIONAL] Path to DMF document
+  site_master_file: ""            # [OPTIONAL] Path to SMF document
+
+references:
+  # Auto-filled by scrapers in Phase 5. Can be pre-filled manually.
+  who_prequalified: false         # true | false
+  who_pq_number: ""               # e.g. "PQ002-eS-3.1"
+  pubchem_cid: ""                 # Will be auto-fetched
+  bp_monograph_ref: ""            # e.g. "BP 2023, Vol II, p. 1540"
+  usp_monograph_ref: ""           # e.g. "USP 47, <616>"

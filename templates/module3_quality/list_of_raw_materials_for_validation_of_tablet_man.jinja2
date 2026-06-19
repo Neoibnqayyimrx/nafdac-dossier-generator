@@ -1,0 +1,45 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Glibenclamide 5mg
+  Module: module3_quality
+  Vars  : 7
+#}
+
+## {{ drug.molecular_formula }} OF {{ drug.molecular_formula }} {{ drug.molecular_formula }} {{ drug.molecular_formula }} {{ drug.molecular_formula }} OF {{ drug.dosage_form }} {{ drug.molecular_formula }}
+
+Attachment i.
+
+{# TABLE #}
+| Batch No. | GB 01 Trial 1 | GB 01 Trial 2 | GB 01 Trial 3 |
+| --- | --- | --- | --- |
+| Manufacturing Date | {{ submission_date }} |  |  |
+
+{# TABLE #}
+| MFG. STEPS | NAME OF RM | STANDARD.                        SPECIFICATION | ANALYTICAL RESULTS &  No.
+   GB 01 Trial      GB 01 Trial 2           GB 01 Trial 3 |
+| --- | --- | --- | --- |
+| {{ drug.molecular_formula }} | {{ drug.name }} | {{ drug.pharmacopoeia_standard }} | 99.05%                    99.05%                       99.05%
+RM1/{{ submission_date }}     RM1/{{ submission_date }}          RM1/{{ submission_date }} |
+| {{ drug.molecular_formula }} {{ drug.molecular_formula }} | Step No.1 |  |  |
+| Dry Mixing | Step No. 2 |  |  |
+| Granulation | Step No. 3 |  |  |
+| Semi Drying | Step No. 4a |  |  |
+| Multi Milling | Step No. 4b |  |  |
+| Final Drying | Step No. {{ storage.temperature }} |  |  |
+| Sifting/
+Lubrication | Step No. 5
+Step No.6
+ Magnesium Stearate, Talcum, {{ drug.molecular_formula }}. | {{ drug.pharmacopoeia_standard }} |  |
+| Compression | Step No. 7 |  |  |
+| Coating | Step No. 8 |  |  |
+| Visual Inspection/Sorting | Step No. 9 |  |  |
+| Packing | Step No. 10 |  |  |
+
+{# TABLE #}
+| col_0 | col_1 | col_2 | col_3 |
+| --- | --- | --- | --- |
+|  | {{ drug.molecular_formula }} BY | {{ drug.molecular_formula }} BY | {{ drug.molecular_formula }} BY |
+| {{ drug.molecular_formula }} |  |  |  |
+| {{ drug.molecular_formula }} |  |  |  |
+| {{ drug.molecular_formula }} |  |  |  |
+| {{ drug.molecular_formula }} |  |  |  |

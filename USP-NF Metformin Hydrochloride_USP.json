@@ -1,0 +1,73 @@
+{
+  "drug_name": "Metformin Hydrochloride",
+  "source": "USP",
+  "edition": "USP 43-NF38",
+  "molecular_formula": null,
+  "description": null,
+  "identification": [],
+  "assay": {
+    "method": "IR spectrophotometry",
+    "limits": {
+      "min": 115.0,
+      "max": 70.0
+    },
+    "units": "%w/w",
+    "raw": "11/3/2020 USP-NF Metformin Hydrochloride Printed on: Tue Nov 03 2020, 13:43:16 pm Printed by: Shruti Kharidia O\u0000cial Status: Currently O\u0000cial on 03-Nov-2020 O\u0000cial Date: O\u0000cial as of 1-Nov-2020 Document Type: USP DocId: 1_GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US Printed from: https://online.uspnf.com/uspnf/document/1_GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US © 2020 USPC Metformin "
+  },
+  "related_substances": [
+    {
+      "name": "Individual impurities:NMT 0.02% for metformin related compound A",
+      "limit": 0.02,
+      "limit_unit": "%",
+      "rrt": null,
+      "method": "HPLC"
+    },
+    {
+      "name": "NMT 0.1% for any other impurity Total impurities:NMT 0.5%",
+      "limit": 0.1,
+      "limit_unit": "%",
+      "rrt": null,
+      "method": "HPLC"
+    }
+  ],
+  "dissolution": {
+    "apparatus": null,
+    "medium": null,
+    "rpm": null,
+    "time_min": null,
+    "limit_pct": null,
+    "method": null,
+    "raw": null
+  },
+  "storage": "Preserve in well-closed containers. Store at room temperature. Change to read:",
+  "microbial_limits": {
+    "TAMC": null,
+    "TYMC": null,
+    "pathogens": [],
+    "method": null,
+    "raw": null
+  },
+  "loss_on_drying": {
+    "limit_pct": 0.5,
+    "temperature_c": null,
+    "method": "Gravimetric (USP <731>)"
+  },
+  "water_content": null,
+  "uniformity": null,
+  "impurities": [],
+  "residue_on_ignition": {
+    "limit_pct": 0.1,
+    "method": "USP <281>"
+  },
+  "raw_sections": {
+    "DEFINITION": "Change to read:\nMetformin Hydrochloride contains ▲NLT 98.0% and NMT 102.0% of metformin hydrochloride (CH N · HCl),\n▲ (USP 1-May-2020) 4 11 5\ncalculated on the dried basis.",
+    "IDENTIFICATION": "Change to read:\n•▲A. SPECTROSCOPIC IDENTIFICATION TESTS 〈197〉, Infrared Spectroscopy:197K or 197A\n▲ (USP 1-May-202\nL\n0)\n•B. IDENTIFICATION TESTS—GENERAL 〈191〉, Chemical Identification Tests, Chloride:Meets the requirements\nAdd the following: A\n▲•C. The retention time of the major peak of the Sample solution corresponds to that of the Standard solution, as obtained in the\nAssay.\n▲ (USP 1-May-2020)\nI",
+    "ASSAY": "C\nChange to read:\n•PROCEDURE\n▲Buffer:9.8 g/L of monobasic ammonium phosphate in water\nI\nMobile phase:Buffer and acetonitrile (95:5). Adjust with phosphoric acid to a pH of 3.0.\nStandard solution:0.05 mg/mL of USP Metformin HydrochloFride RS in Mobile phase. Sonication may be used to promote dissolution.\nAllow the solution to equilibrate to ambient temperature.\nSample solution:0.05 mg/mL of Metformin Hydrochloride in Mobile phase. Sonication may be used to promote dissolution. Allow the\nF\nsolution to equilibrate to ambient temperature.\n[NOTE—Silanized HPLC vials may be used.]\nChromatographic system O\n(See Chromatography 〈621〉, System Suitability.)\nMode:LC\nDetector:UV 215 nm\nColumn:4.6-mm × 25-cm; 10-µm packing L9\nFlow rate:1.5 mL/min\nInjection volume:20 µL\nSystem suitability\nSample:Standard solution\nSuitability requirements\nTailing factor:NMT 2\nRelative standard deviation:NMT 0.73%\nAnalysis\nSamples:Standard solution and Sample solution\nCalculate the percentage of metformin hydrochloride (CH N · HCl) in the portion of Metformin Hydrochloride taken:\n4 11 5\nResult = (r /r ) × (C /C ) × 100\nU S S U\nr = peak response of metformin from the Sample solution\nU\nr = peak response of metformin from the Standard solution\nS\nC = concentration of USP Metformin Hydrochloride RS in the Standard solution (mg/mL)\nS\nhttps://online.uspnf.com/uspnf/document/1_GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US?source=TOC 1/3\f11/3/2020 USP-NF Metformin Hydrochloride\nC = concentration of Metformin Hydrochloride in the Sample solution (mg/mL)\nU\nAcceptance criteria:98.0%–102.0% on the dried basis\n▲ (USP 1-May-2020)",
+    "IMPURITIES": "•RESIDUE ON IGNITION 〈281〉:NMT 0.1%\nChange to read:\n•ORGANIC IMPURITIES\nMobile phase:17 g/L of monobasic ammonium phosphate in water; adjusted with phosphoric acid to a pH of 3.0\nSystem suitability stock solution:0.25 mg/mL of ▲USP Metformin Hydrochloride RS and 0.1 mg/mL of ▲USP\n▲ (USP 1-May-2020)\nMelamine RS in water\n▲ (USP 1-May-2020)\nSystem suitability solution:▲5 µg/mL of USP Metformin Hydrochloride RS and 2 µg/mL of USP Melamine RS from System suitability\nstock solution in Mobile phase\n▲ (USP 1-May-2020)\nStandard stock solution:0.2 mg/mL of USP Metformin Related Compound A RS in water\nStandard solution:0.001 mg/mL of USP Metformin Related Compound A RS from Standard stock solution in Mobile phase\nSample solution:5 mg/mL of Metformin Hydrochloride in Mobile phase\nDiluted sample solution:0.005 mg/mL of Metformin Hydrochloride in Mobile phase from the Sample solution\nChromatographic system\n(See Chromatography 〈621〉, System Suitability.)\nMode:LC\nDetector:UV 218 nm\nColumn:4.6-mm × 25-cm; packing L9\nFlow rate:1.0–1.7 mL/min\nInjection volume:20 µL L\nRun time:NLT 2 times the retention time of metformin\nSystem suitability\nA\nSample:System suitability solution\nSuitability requirements\nResolution:NLT 10 between melamine and metformin\nI\nAnalysis\nSamples:Standard solution, Sample solution, and Diluted sample solutioCn\nCalculate the percentage of metformin related compound A in the portion of Metformin Hydrochloride taken:\nResult = (r /r ) × (C /C ) × 100\nU SIS U\nr = peak response of metformin related compouFnd A from the Sample solution\nU\nr = peak response of metformin related compound A from the Standard solution\nS\nF\nC = concentration of USP Metformin Related Compound A RS in the Standard solution (mg/mL)\nS\nC = concentration of MetforminO Hydrochloride in the Sample solution (mg/mL)\nU\nCalculate the percentage of any other impurity in the portion of Metformin Hydrochloride taken:\nResult = (r /r ) × D × 100\nU S\nr = peak response of any individual impurity from the Sample sol",
+    "SPECIFIC TESTS": "•LOSS ON DRYING 〈731〉\nAnalysis:Dry at 105° for 5 h.\nAcceptance criteria:NMT 0.5%",
+    "ADDITIONAL REQUIREMENTS": "•PACKAGING AND STORAGE:Preserve in well-closed containers. Store at room temperature.\nChange to read:\n•USP REFERENCE STANDARDS 〈11〉\nhttps://online.uspnf.com/uspnf/document/1_GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US?source=TOC 2/3\f11/3/2020 USP-NF Metformin Hydrochloride\n▲USP Melamine RS\n2,4,6-Triamino-1,3,5-triazine.\nCHN 126.12\n3 6 6 ▲ (USP 1-May-2020)\nUSP Metformin Hydrochloride RS\nUSP Metformin Related Compound A RS\n1-Cyanoguanidine.\nCHN 84.08\n2 4 4\nAuxiliary Information- Please check for your question in the FAQs before contacting USP.\nTopic/Question Contact Expert Committee\nMETFORMIN HYDROCHLORIDE Andrea F. Carney SM32020 Small Molecules 3\nScienti\u0000c Liaison\nChromatographic Database Information: Chromatographic Database\nMost Recently Appeared In:\nPharmacopeial Forum: Volume No. 44(6)\nPage Information:\nUSP43-NF38 - 2821\nUSP42-NF37 - 2778\nUSP41-NF36 - 2614 L\nCurrent DocID: GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US\nA\nI\nC\nI\nF\nF\nO\nhttps://online.uspnf.com/uspnf/document/1_GUID-B4D16448-3C0C-46EA-A174-5C81E31DA438_4_en-US?source=TOC 3/3"
+  },
+  "parse_warnings": [
+    "INFO: USP page 1 is image-rendered. DEFINITION/IDENTIFICATION/ASSAY limits will be filled by PubChem via spec_resolver (step 3.4)."
+  ]
+}

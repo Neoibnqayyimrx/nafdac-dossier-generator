@@ -1,0 +1,5482 @@
+{
+  "generated": "2026-06-06T21:52:08",
+  "bp_count": 1825,
+  "usp_count": 0,
+  "entries": {
+    "(s)-lactic acid maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\-s--lactic-acid.json"
+    },
+    "2,4-dichlorobenzyl alcohol maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\2-4-dichlorobenzyl-alcohol.json"
+    },
+    "3-o-desacyl-4′-monophosphoryl lipid a": {
+      "bp": "pharmacopoeia_db\\BP\\json\\3-o-desacyl-4--monophosphoryl-lipid-a.json"
+    },
+    "abacavir sulfate maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\abacavir-sulfate.json"
+    },
+    "acacia maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acacia.json"
+    },
+    "acamprosate calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acamprosate-calcium.json"
+    },
+    "acarbose maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acarbose.json"
+    },
+    "acebutolol hydrochloride maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acebutolol-hydrochloride.json"
+    },
+    "aceclofenac maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aceclofenac.json"
+    },
+    "acemetacin maximise": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acemetacin.json"
+    },
+    "acenocoumarol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acenocoumarol.json"
+    },
+    "acesulfame potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acesulfame-potassium.json"
+    },
+    "acetazolamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetazolamide.json"
+    },
+    "acetic acid 33 per cent": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetic-acid--33-per-cent-.json"
+    },
+    "acetic acid 6 per cent": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetic-acid--6-per-cent-.json"
+    },
+    "acetone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetone.json"
+    },
+    "acetylcholine chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetylcholine-chloride.json"
+    },
+    "acetylcysteine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetylcysteine.json"
+    },
+    "acetyldigoxin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetyldigoxin.json"
+    },
+    "acetylene intermix (1 per cent) in nitrogen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetylene-intermix--1-per-cent--in-nitrogen.json"
+    },
+    "acetyltryptophan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetyltryptophan.json"
+    },
+    "acetyltyrosine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acetyltyrosine.json"
+    },
+    "aciclovir": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aciclovir.json"
+    },
+    "acitretin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\acitretin.json"
+    },
+    "activated attapulgite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\activated-attapulgite.json"
+    },
+    "activated charcoal": {
+      "bp": "pharmacopoeia_db\\BP\\json\\activated-charcoal.json"
+    },
+    "adapalene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adapalene.json"
+    },
+    "adenine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adenine.json"
+    },
+    "adenosine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adenosine.json"
+    },
+    "adipic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adipic-acid.json"
+    },
+    "adrenaline / epinephrine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adrenaline---epinephrine.json"
+    },
+    "adrenaline acid tartrate / epinephrine acid tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\adrenaline-acid-tartrate---epinephrine-acid-tartrate.json"
+    },
+    "agar": {
+      "bp": "pharmacopoeia_db\\BP\\json\\agar.json"
+    },
+    "alanine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alanine.json"
+    },
+    "albendazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\albendazole.json"
+    },
+    "alcuronium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alcuronium-chloride.json"
+    },
+    "alfacalcidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alfacalcidol.json"
+    },
+    "alfadex": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alfadex.json"
+    },
+    "alfentanil hydrochloride hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alfentanil-hydrochloride.json"
+    },
+    "alfuzosin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alfuzosin-hydrochloride.json"
+    },
+    "alginic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alginic-acid.json"
+    },
+    "alimemazine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alimemazine-tartrate.json"
+    },
+    "all-rac-alpha-tocopherol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\all-rac-alpha-tocopherol.json"
+    },
+    "all-rac-alpha-tocopheryl acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\all-rac-alpha-tocopheryl-acetate.json"
+    },
+    "allantoin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\allantoin.json"
+    },
+    "allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\allergen-products.json"
+    },
+    "allopurinol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\allopurinol.json"
+    },
+    "almagate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\almagate.json"
+    },
+    "almotriptan malate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\almotriptan-malate.json"
+    },
+    "alpha tocopheryl acetate concentrate (powder form)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alpha-tocopheryl-acetate-concentrate--powder-form-.json"
+    },
+    "alpha tocopheryl hydrogen succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alpha-tocopheryl-hydrogen-succinate.json"
+    },
+    "alprazolam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alprazolam.json"
+    },
+    "alprenolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alprenolol-hydrochloride.json"
+    },
+    "alprostadil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alprostadil.json"
+    },
+    "alteplase for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alteplase-for-injection.json"
+    },
+    "altizide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\altizide.json"
+    },
+    "alum": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alum.json"
+    },
+    "aluminium chloride hexahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-chloride-hexahydrate.json"
+    },
+    "aluminium glycinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-glycinate.json"
+    },
+    "aluminium magnesium silicate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-magnesium-silicate.json"
+    },
+    "aluminium phosphate gel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-phosphate-gel.json"
+    },
+    "aluminium powder": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-powder.json"
+    },
+    "aluminium sodium silicate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-sodium-silicate.json"
+    },
+    "aluminium stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-stearate.json"
+    },
+    "aluminium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aluminium-sulfate.json"
+    },
+    "alverine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\alverine-citrate.json"
+    },
+    "amantadine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amantadine-hydrochloride.json"
+    },
+    "ambroxol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ambroxol-hydrochloride.json"
+    },
+    "amfetamine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amfetamine-sulfate.json"
+    },
+    "amidotrizoic acid dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amidotrizoic-acid-dihydrate.json"
+    },
+    "amikacin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amikacin-sulfate.json"
+    },
+    "amikacin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amikacin.json"
+    },
+    "amiloride hydrochloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amiloride-hydrochloride-dihydrate.json"
+    },
+    "aminobenzoic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aminobenzoic-acid.json"
+    },
+    "aminocaproic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aminocaproic-acid.json"
+    },
+    "aminophylline hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aminophylline-hydrate.json"
+    },
+    "aminophylline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aminophylline.json"
+    },
+    "amiodarone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amiodarone-hydrochloride.json"
+    },
+    "amisulpride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amisulpride.json"
+    },
+    "amitriptyline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amitriptyline-hydrochloride.json"
+    },
+    "amlodipine besilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amlodipine-besilate.json"
+    },
+    "ammonio methacrylate copolymer (type a)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonio-methacrylate-copolymer--type-a-.json"
+    },
+    "ammonio methacrylate copolymer (type b)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonio-methacrylate-copolymer--type-b-.json"
+    },
+    "ammonium bicarbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonium-bicarbonate.json"
+    },
+    "ammonium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonium-bromide.json"
+    },
+    "ammonium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonium-chloride.json"
+    },
+    "ammonium glycyrrhizinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ammonium-glycyrrhizinate.json"
+    },
+    "amorolfine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amorolfine-hydrochloride.json"
+    },
+    "amoxicillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amoxicillin-sodium.json"
+    },
+    "amoxicillin trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amoxicillin-trihydrate.json"
+    },
+    "amphotericin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amphotericin.json"
+    },
+    "ampicillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ampicillin-sodium.json"
+    },
+    "ampicillin trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ampicillin-trihydrate.json"
+    },
+    "ampicillin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ampicillin.json"
+    },
+    "amylmetacresol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\amylmetacresol.json"
+    },
+    "anastrozole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\anastrozole.json"
+    },
+    "anhydrous calcium gluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\anhydrous-calcium-gluconate.json"
+    },
+    "anhydrous sodium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\anhydrous-sodium-sulfate.json"
+    },
+    "animal epithelia and outgrowths for allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\animal-epithelia-and-outgrowths-for-allergen-products.json"
+    },
+    "antazoline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\antazoline-hydrochloride.json"
+    },
+    "apomorphine hydrochloride hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\apomorphine-hydrochloride-hemihydrate.json"
+    },
+    "aprepitant": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aprepitant.json"
+    },
+    "aprotinin concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aprotinin-concentrated-solution.json"
+    },
+    "aprotinin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aprotinin.json"
+    },
+    "arachis oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\arachis-oil.json"
+    },
+    "arginine aspartate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\arginine-aspartate.json"
+    },
+    "arginine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\arginine-hydrochloride.json"
+    },
+    "arginine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\arginine.json"
+    },
+    "argon": {
+      "bp": "pharmacopoeia_db\\BP\\json\\argon.json"
+    },
+    "aripiprazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aripiprazole.json"
+    },
+    "articaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\articaine-hydrochloride.json"
+    },
+    "ascorbic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ascorbic-acid.json"
+    },
+    "ascorbyl palmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ascorbyl-palmitate.json"
+    },
+    "asparagine monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\asparagine-monohydrate.json"
+    },
+    "aspartame": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aspartame.json"
+    },
+    "aspartic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aspartic-acid.json"
+    },
+    "aspirin lysine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aspirin-lysine.json"
+    },
+    "aspirin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\aspirin.json"
+    },
+    "atazanavir sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atazanavir-sulfate.json"
+    },
+    "atenolol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atenolol.json"
+    },
+    "atomoxetine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atomoxetine-hydrochloride.json"
+    },
+    "atorvastatin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atorvastatin-calcium-trihydrate.json"
+    },
+    "atovaquone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atovaquone.json"
+    },
+    "atracurium besilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atracurium-besilate.json"
+    },
+    "atropine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atropine-sulfate.json"
+    },
+    "atropine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\atropine.json"
+    },
+    "attapulgite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\attapulgite.json"
+    },
+    "azathioprine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\azathioprine.json"
+    },
+    "azelastine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\azelastine-hydrochloride.json"
+    },
+    "azithromycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\azithromycin.json"
+    },
+    "bacampicillin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bacampicillin-hydrochloride.json"
+    },
+    "bacitracin zinc": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bacitracin-zinc.json"
+    },
+    "bacitracin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bacitracin.json"
+    },
+    "baclofen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\baclofen.json"
+    },
+    "bambuterol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bambuterol-hydrochloride.json"
+    },
+    "barium sulfate for suspension": {
+      "bp": "pharmacopoeia_db\\BP\\json\\barium-sulfate-for-suspension.json"
+    },
+    "barium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\barium-sulfate.json"
+    },
+    "basic butylated methacrylate copolymer": {
+      "bp": "pharmacopoeia_db\\BP\\json\\basic-butylated-methacrylate-copolymer.json"
+    },
+    "beclometasone dipropionate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\beclometasone-dipropionate-monohydrate.json"
+    },
+    "beclometasone dipropionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\beclometasone-dipropionate.json"
+    },
+    "benazepril hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benazepril-hydrochloride.json"
+    },
+    "bendroflumethiazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bendroflumethiazide.json"
+    },
+    "benperidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benperidol.json"
+    },
+    "benserazide hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benserazide-hydrochloride.json"
+    },
+    "bentonite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bentonite.json"
+    },
+    "benzaldehyde": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzaldehyde.json"
+    },
+    "benzalkonium chloride solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzalkonium-chloride-solution.json"
+    },
+    "benzalkonium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzalkonium-chloride.json"
+    },
+    "benzathine benzylpenicillin tetrahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzathine-benzylpenicillin.json"
+    },
+    "benzatropine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzatropine-mesilate.json"
+    },
+    "benzbromarone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzbromarone.json"
+    },
+    "benzethonium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzethonium-chloride.json"
+    },
+    "benzocaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzocaine.json"
+    },
+    "benzoic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzoic-acid.json"
+    },
+    "benzydamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzydamine-hydrochloride.json"
+    },
+    "benzyl alcohol1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzyl-alcohol.json"
+    },
+    "benzyl benzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzyl-benzoate.json"
+    },
+    "benzyl hydroxybenzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzyl-hydroxybenzoate.json"
+    },
+    "benzylpenicillin potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzylpenicillin-potassium.json"
+    },
+    "benzylpenicillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\benzylpenicillin-sodium.json"
+    },
+    "betacarotene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betacarotene.json"
+    },
+    "betadex": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betadex.json"
+    },
+    "betahistine dihydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betahistine-dihydrochloride.json"
+    },
+    "betahistine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betahistine-mesilate.json"
+    },
+    "betamethasone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betamethasone-acetate.json"
+    },
+    "betamethasone dipropionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betamethasone-dipropionate.json"
+    },
+    "betamethasone sodium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betamethasone-sodium-phosphate.json"
+    },
+    "betamethasone valerate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betamethasone-valerate.json"
+    },
+    "betamethasone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betamethasone.json"
+    },
+    "betaxolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\betaxolol-hydrochloride.json"
+    },
+    "bezafibrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bezafibrate.json"
+    },
+    "bicalutamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bicalutamide.json"
+    },
+    "bifonazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bifonazole.json"
+    },
+    "biotin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\biotin.json"
+    },
+    "biperiden hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\biperiden-hydrochloride.json"
+    },
+    "bisacodyl": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bisacodyl.json"
+    },
+    "bismuth subcarbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bismuth-subcarbonate.json"
+    },
+    "bismuth subgallate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bismuth-subgallate.json"
+    },
+    "bismuth subsalicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bismuth-subsalicylate.json"
+    },
+    "bisoprolol fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bisoprolol-fumarate.json"
+    },
+    "bleomycin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bleomycin-sulfate.json"
+    },
+    "boldine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\boldine.json"
+    },
+    "borax": {
+      "bp": "pharmacopoeia_db\\BP\\json\\borax.json"
+    },
+    "boric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\boric-acid.json"
+    },
+    "botulinum toxin type a for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\botulinum-toxin-type-a-for-injection.json"
+    },
+    "botulinum toxin type b for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\botulinum-toxin-type-b-for-injection.json"
+    },
+    "bovine serum": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bovine-serum.json"
+    },
+    "brimonidine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\brimonidine-tartrate.json"
+    },
+    "bromazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bromazepam.json"
+    },
+    "bromhexine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bromhexine-hydrochloride.json"
+    },
+    "bromocriptine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bromocriptine-mesilate.json"
+    },
+    "bromperidol decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bromperidol-decanoate.json"
+    },
+    "bromperidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bromperidol.json"
+    },
+    "brompheniramine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\brompheniramine-maleate.json"
+    },
+    "bronopol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bronopol.json"
+    },
+    "brotizolam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\brotizolam.json"
+    },
+    "buclizine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buclizine-hydrochloride.json"
+    },
+    "budesonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\budesonide.json"
+    },
+    "bufexamac": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bufexamac.json"
+    },
+    "buflomedil hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buflomedil-hydrochloride.json"
+    },
+    "bumetanide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bumetanide.json"
+    },
+    "bupivacaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bupivacaine-hydrochloride.json"
+    },
+    "bupivacaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\bupivacaine.json"
+    },
+    "buprenorphine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buprenorphine-hydrochloride.json"
+    },
+    "buprenorphine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buprenorphine.json"
+    },
+    "buserelin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buserelin.json"
+    },
+    "buspirone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\buspirone-hydrochloride.json"
+    },
+    "busulfan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\busulfan.json"
+    },
+    "butyl hydroxybenzoate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\butyl-hydroxybenzoate.json"
+    },
+    "butylated hydroxyanisole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\butylated-hydroxyanisole.json"
+    },
+    "butylated hydroxytoluene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\butylated-hydroxytoluene.json"
+    },
+    "cabergoline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cabergoline.json"
+    },
+    "caffeine hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\caffeine-hydrate.json"
+    },
+    "caffeine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\caffeine.json"
+    },
+    "calamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calamine.json"
+    },
+    "calcifediol monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcifediol.json"
+    },
+    "calcipotriol monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcipotriol-monohydrate.json"
+    },
+    "calcipotriol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcipotriol.json"
+    },
+    "calcitonin (salmon)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcitonin--salmon-.json"
+    },
+    "calcitriol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcitriol.json"
+    },
+    "calcium acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-acetate.json"
+    },
+    "calcium ascorbate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-ascorbate.json"
+    },
+    "calcium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-carbonate.json"
+    },
+    "calcium chloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-chloride-dihydrate.json"
+    },
+    "calcium chloride hexahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-chloride-hexahydrate.json"
+    },
+    "calcium dobesilate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-dobesilate-monohydrate.json"
+    },
+    "calcium folinate hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-folinate.json"
+    },
+    "calcium glucoheptonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-glucoheptonate.json"
+    },
+    "calcium gluconate for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-gluconate-for-injection.json"
+    },
+    "calcium gluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-gluconate.json"
+    },
+    "calcium glycerophosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-glycerophosphate.json"
+    },
+    "calcium hydrogen phosphate dihydrate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-hydrogen-phosphate-dihydrate.json"
+    },
+    "calcium hydrogen phosphate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-hydrogen-phosphate.json"
+    },
+    "calcium hydroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-hydroxide.json"
+    },
+    "calcium lactate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-lactate-monohydrate.json"
+    },
+    "calcium lactate pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-lactate-pentahydrate.json"
+    },
+    "calcium lactate trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-lactate-trihydrate.json"
+    },
+    "calcium lactate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-lactate.json"
+    },
+    "calcium levofolinate hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-levofolinate-pentahydrate.json"
+    },
+    "calcium levulinate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-levulinate-dihydrate.json"
+    },
+    "calcium pantothenate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-pantothenate.json"
+    },
+    "calcium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-phosphate.json"
+    },
+    "calcium polystyrene sulfonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-polystyrene-sulfonate.json"
+    },
+    "calcium stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-stearate.json"
+    },
+    "calcium sulfate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\calcium-sulfate-dihydrate.json"
+    },
+    "candesartan cilexetil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\candesartan-cilexetil.json"
+    },
+    "capecitabine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\capecitabine.json"
+    },
+    "caprylocaproyl macrogolglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\caprylocaproyl-macrogolglycerides.json"
+    },
+    "captopril": {
+      "bp": "pharmacopoeia_db\\BP\\json\\captopril.json"
+    },
+    "carbachol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbachol.json"
+    },
+    "carbamazepine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbamazepine.json"
+    },
+    "carbasalate calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbasalate-calcium.json"
+    },
+    "carbidopa": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbidopa.json"
+    },
+    "carbimazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbimazole.json"
+    },
+    "carbocisteine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbocisteine.json"
+    },
+    "carbomers": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbomers.json"
+    },
+    "carbon dioxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbon-dioxide.json"
+    },
+    "carbon monoxide intermix (5 per cent) in nitrogen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbon-monoxide-intermix--5-per-cent--in-nitrogen.json"
+    },
+    "carbon monoxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carbon-monoxide.json"
+    },
+    "carboplatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carboplatin.json"
+    },
+    "carboprost trometamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carboprost-trometamol.json"
+    },
+    "carmellose calcium1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carmellose-calcium.json"
+    },
+    "carmellose sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carmellose-sodium.json"
+    },
+    "carmellose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carmellose1.json"
+    },
+    "carmustine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carmustine.json"
+    },
+    "carnauba wax": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carnauba-wax.json"
+    },
+    "carrageenan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carrageenan.json"
+    },
+    "carteolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carteolol-hydrochloride.json"
+    },
+    "carvedilol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\carvedilol.json"
+    },
+    "cefaclor": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefaclor.json"
+    },
+    "cefadroxil monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefadroxil-monohydrate.json"
+    },
+    "cefalexin monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefalexin-monohydrate.json"
+    },
+    "cefalotin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefalotin-sodium.json"
+    },
+    "cefamandole nafate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefamandole-nafate.json"
+    },
+    "cefapirin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefapirin-sodium.json"
+    },
+    "cefatrizine propylene glycol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefatrizine-propylene-glycol.json"
+    },
+    "cefazolin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefazolin-sodium.json"
+    },
+    "cefepime hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefepime-hydrochloride-monohydrate.json"
+    },
+    "cefixime": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefixime.json"
+    },
+    "cefoperazone sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefoperazone-sodium.json"
+    },
+    "cefotaxime sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefotaxime-sodium.json"
+    },
+    "cefoxitin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefoxitin-sodium.json"
+    },
+    "cefpodoxime proxetil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefpodoxime-proxetil.json"
+    },
+    "cefprozil monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefprozil-monohydrate.json"
+    },
+    "cefradine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefradine.json"
+    },
+    "ceftazidime pentahydrate with sodium carbonate for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ceftazidime-pentahydrate-with-sodium-carbonate-for-injection.json"
+    },
+    "ceftazidime pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ceftazidime-pentahydrate.json"
+    },
+    "ceftriaxone sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ceftriaxone-sodium.json"
+    },
+    "cefuroxime axetil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefuroxime-axetil.json"
+    },
+    "cefuroxime sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cefuroxime-sodium.json"
+    },
+    "celecoxib": {
+      "bp": "pharmacopoeia_db\\BP\\json\\celecoxib.json"
+    },
+    "celiprolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\celiprolol-hydrochloride.json"
+    },
+    "cellacefate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cellacefate1.json"
+    },
+    "cellulose acetate butyrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cellulose-acetate-butyrate.json"
+    },
+    "cellulose acetate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cellulose-acetate1.json"
+    },
+    "cetirizine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetirizine-hydrochloride.json"
+    },
+    "cetostearyl alcohol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetostearyl-alcohol.json"
+    },
+    "cetostearyl isononanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetostearyl-isononanoate.json"
+    },
+    "cetrimide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetrimide.json"
+    },
+    "cetyl alcohol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetyl-alcohol.json"
+    },
+    "cetyl palmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetyl-palmitate.json"
+    },
+    "cetylpyridinium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cetylpyridinium-chloride.json"
+    },
+    "chalk": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chalk.json"
+    },
+    "chenodeoxycholic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chenodeoxycholic-acid.json"
+    },
+    "chitosan hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chitosan-hydrochloride.json"
+    },
+    "chloral hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloral-hydrate.json"
+    },
+    "chlorambucil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorambucil.json"
+    },
+    "chloramphenicol palmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloramphenicol-palmitate.json"
+    },
+    "chloramphenicol sodium succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloramphenicol-sodium-succinate.json"
+    },
+    "chloramphenicol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloramphenicol.json"
+    },
+    "chlorcyclizine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorcyclizine-hydrochloride.json"
+    },
+    "chlordiazepoxide hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlordiazepoxide-hydrochloride.json"
+    },
+    "chlordiazepoxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlordiazepoxide.json"
+    },
+    "chlorhexidine acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorhexidine-acetate.json"
+    },
+    "chlorhexidine gluconate solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorhexidine-gluconate-solution.json"
+    },
+    "chlorhexidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorhexidine-hydrochloride.json"
+    },
+    "chlorinated lime": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorinated-lime.json"
+    },
+    "chlormadinone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlormadinone-acetate.json"
+    },
+    "chlorobutanol hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorobutanol-hemihydrate.json"
+    },
+    "chlorobutanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorobutanol.json"
+    },
+    "chlorocresol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorocresol.json"
+    },
+    "chloroquine phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloroquine-phosphate.json"
+    },
+    "chloroquine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloroquine-sulfate.json"
+    },
+    "chloroxylenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chloroxylenol.json"
+    },
+    "chlorphenamine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorphenamine-maleate.json"
+    },
+    "chlorpromazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorpromazine-hydrochloride.json"
+    },
+    "chlorpromazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorpromazine.json"
+    },
+    "chlorprothixene hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlorprothixene-hydrochloride.json"
+    },
+    "chlortalidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlortalidone.json"
+    },
+    "chlortetracycline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chlortetracycline-hydrochloride.json"
+    },
+    "cholesterol for parenteral use": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cholesterol-for-parenteral-use.json"
+    },
+    "cholesterol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cholesterol.json"
+    },
+    "choline salicylate solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\choline-salicylate-solution.json"
+    },
+    "choline theophyllinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\choline-theophyllinate.json"
+    },
+    "chondroitin sulfate sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chondroitin-sulfate-sodium.json"
+    },
+    "chorionic gonadotrophin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chorionic-gonadotrophin.json"
+    },
+    "chymotrypsin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\chymotrypsin.json"
+    },
+    "ciclesonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciclesonide.json"
+    },
+    "ciclopirox olamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciclopirox-olamine.json"
+    },
+    "ciclopirox": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciclopirox.json"
+    },
+    "ciclosporin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciclosporin.json"
+    },
+    "cilastatin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cilastatin-sodium.json"
+    },
+    "cilazapril": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cilazapril.json"
+    },
+    "cimetidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cimetidine-hydrochloride.json"
+    },
+    "cimetidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cimetidine.json"
+    },
+    "cinchocaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cinchocaine-hydrochloride.json"
+    },
+    "cineole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cineole.json"
+    },
+    "cinnamic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cinnamic-acid.json"
+    },
+    "cinnarizine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cinnarizine.json"
+    },
+    "ciprofibrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciprofibrate.json"
+    },
+    "ciprofloxacin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciprofloxacin-hydrochloride.json"
+    },
+    "ciprofloxacin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ciprofloxacin.json"
+    },
+    "cisatracurium besilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cisatracurium-besilate.json"
+    },
+    "cisplatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cisplatin.json"
+    },
+    "citalopram hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\citalopram-hydrobromide.json"
+    },
+    "citalopram hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\citalopram-hydrochloride.json"
+    },
+    "citric acid monohydrate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\citric-acid-monohydrate1.json"
+    },
+    "citric acid1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\citric-acid1.json"
+    },
+    "cladribine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cladribine.json"
+    },
+    "clarithromycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clarithromycin.json"
+    },
+    "clebopride malate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clebopride-malate.json"
+    },
+    "clemastine fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clemastine-fumarate.json"
+    },
+    "clenbuterol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clenbuterol-hydrochloride.json"
+    },
+    "clindamycin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clindamycin-hydrochloride.json"
+    },
+    "clindamycin phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clindamycin-phosphate.json"
+    },
+    "clioquinol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clioquinol.json"
+    },
+    "clobazam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clobazam.json"
+    },
+    "clobetasol propionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clobetasol-propionate.json"
+    },
+    "clobetasone butyrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clobetasone-butyrate.json"
+    },
+    "clofazimine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clofazimine.json"
+    },
+    "clofibrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clofibrate.json"
+    },
+    "clomifene citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clomifene-citrate.json"
+    },
+    "clomipramine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clomipramine-hydrochloride.json"
+    },
+    "clonazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clonazepam.json"
+    },
+    "clonidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clonidine-hydrochloride.json"
+    },
+    "clopamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clopamide.json"
+    },
+    "clopidogrel besilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clopidogrel-besilate.json"
+    },
+    "clopidogrel hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clopidogrel-hydrochloride.json"
+    },
+    "clopidogrel hydrogen sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clopidogrel-hydrogen-sulfate.json"
+    },
+    "clotrimazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clotrimazole.json"
+    },
+    "cloxacillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cloxacillin-sodium.json"
+    },
+    "clozapine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\clozapine.json"
+    },
+    "coal tar": {
+      "bp": "pharmacopoeia_db\\BP\\json\\coal-tar.json"
+    },
+    "cocaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cocaine-hydrochloride.json"
+    },
+    "cocaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cocaine.json"
+    },
+    "cochineal": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cochineal.json"
+    },
+    "coconut oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\coconut-oil.json"
+    },
+    "cocoyl caprylocaprate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cocoyl-caprylocaprate.json"
+    },
+    "cod-liver oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cod-liver-oil--type-a-.json"
+    },
+    "codeine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\codeine-hydrochloride.json"
+    },
+    "codeine monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\codeine-monohydrate.json"
+    },
+    "codeine phosphate sesquihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\codeine-phosphate-sesquihydrate.json"
+    },
+    "codeine phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\codeine-phosphate.json"
+    },
+    "codergocrine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\codergocrine-mesilate.json"
+    },
+    "colchicine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colchicine.json"
+    },
+    "colecalciferol concentrate (oily form)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colecalciferol-concentrate--oily-form-.json"
+    },
+    "colecalciferol concentrate (powder form)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colecalciferol-concentrate--powder-form-.json"
+    },
+    "colecalciferol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colecalciferol.json"
+    },
+    "colestyramine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colestyramine.json"
+    },
+    "colistimethate sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colistimethate-sodium.json"
+    },
+    "colistin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colistin-sulfate.json"
+    },
+    "colloidal anhydrous silica": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colloidal-anhydrous-silica.json"
+    },
+    "colloidal hydrated silica": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colloidal-hydrated-silica.json"
+    },
+    "colloidal silver": {
+      "bp": "pharmacopoeia_db\\BP\\json\\colloidal-silver-for-external-use.json"
+    },
+    "compressible sugar": {
+      "bp": "pharmacopoeia_db\\BP\\json\\compressible-sugar.json"
+    },
+    "conjugated estrogens": {
+      "bp": "pharmacopoeia_db\\BP\\json\\conjugated-estrogens.json"
+    },
+    "copovidone1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\copovidone.json"
+    },
+    "copper sulfate pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\copper-sulfate-pentahydrate.json"
+    },
+    "copper sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\copper-sulfate.json"
+    },
+    "cortisone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cortisone-acetate.json"
+    },
+    "cresol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cresol.json"
+    },
+    "croscarmellose sodium1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\croscarmellose-sodium1.json"
+    },
+    "crospovidone1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\crospovidone1.json"
+    },
+    "crotamiton": {
+      "bp": "pharmacopoeia_db\\BP\\json\\crotamiton.json"
+    },
+    "crude cresol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\crude-cresol.json"
+    },
+    "cyanocobalamin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyanocobalamin.json"
+    },
+    "cyclizine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyclizine-hydrochloride.json"
+    },
+    "cyclizine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyclizine.json"
+    },
+    "cyclopenthiazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyclopenthiazide.json"
+    },
+    "cyclopentolate hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyclopentolate-hydrochloride.json"
+    },
+    "cyclophosphamide monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyclophosphamide.json"
+    },
+    "cyproheptadine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyproheptadine-hydrochloride.json"
+    },
+    "cyproterone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cyproterone-acetate.json"
+    },
+    "cysteine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cysteine-hydrochloride.json"
+    },
+    "cystine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cystine.json"
+    },
+    "cytarabine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\cytarabine.json"
+    },
+    "dabigatran etexilate mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dabigatran-etexilate-mesilate.json"
+    },
+    "dacarbazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dacarbazine.json"
+    },
+    "dalteparin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dalteparin-sodium.json"
+    },
+    "danaparoid sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\danaparoid-sodium.json"
+    },
+    "dantrolene sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dantrolene-sodium.json"
+    },
+    "dantron": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dantron.json"
+    },
+    "dapsone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dapsone.json"
+    },
+    "daunorubicin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\daunorubicin-hydrochloride.json"
+    },
+    "decyl oleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\decyl-oleate.json"
+    },
+    "deferasirox": {
+      "bp": "pharmacopoeia_db\\BP\\json\\deferasirox.json"
+    },
+    "deferiprone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\deferiprone.json"
+    },
+    "demeclocycline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\demeclocycline-hydrochloride.json"
+    },
+    "dental-type silica": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dental-type-silica.json"
+    },
+    "deptropine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\deptropine-citrate.json"
+    },
+    "dequalinium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dequalinium-chloride.json"
+    },
+    "desferrioxamine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desferrioxamine-mesilate.json"
+    },
+    "desflurane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desflurane.json"
+    },
+    "desipramine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desipramine-hydrochloride.json"
+    },
+    "deslanoside": {
+      "bp": "pharmacopoeia_db\\BP\\json\\deslanoside.json"
+    },
+    "desloratadine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desloratadine.json"
+    },
+    "desmopressin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desmopressin.json"
+    },
+    "desogestrel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\desogestrel.json"
+    },
+    "dexamethasone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexamethasone-acetate.json"
+    },
+    "dexamethasone isonicotinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexamethasone-isonicotinate.json"
+    },
+    "dexamethasone sodium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexamethasone-sodium-phosphate.json"
+    },
+    "dexamethasone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexamethasone.json"
+    },
+    "dexamfetamine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexamfetamine-sulfate.json"
+    },
+    "dexchlorpheniramine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexchlorpheniramine-maleate.json"
+    },
+    "dexpanthenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dexpanthenol.json"
+    },
+    "dextran 1 for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextran-1-for-injection.json"
+    },
+    "dextran 40 for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextran-40-for-injection.json"
+    },
+    "dextran 60 for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextran-60-for-injection.json"
+    },
+    "dextran 70 for injection": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextran-70-for-injection.json"
+    },
+    "dextranomer": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextranomer.json"
+    },
+    "dextrin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextrin.json"
+    },
+    "dextromethorphan hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextromethorphan-hydrobromide.json"
+    },
+    "dextromoramide tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextromoramide-tartrate.json"
+    },
+    "dextropropoxyphene hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dextropropoxyphene-hydrochloride.json"
+    },
+    "diacerein": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diacerein.json"
+    },
+    "diamorphine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diamorphine-hydrochloride.json"
+    },
+    "diazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diazepam.json"
+    },
+    "diazoxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diazoxide.json"
+    },
+    "dibrompropamidine isetionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dibrompropamidine-isetionate.json"
+    },
+    "dibutyl phthalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dibutyl-phthalate.json"
+    },
+    "dichloromethane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dichloromethane.json"
+    },
+    "dichlorophen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dichlorophen.json"
+    },
+    "diclofenac diethylamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diclofenac-diethylamine.json"
+    },
+    "diclofenac potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diclofenac-potassium.json"
+    },
+    "diclofenac sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diclofenac-sodium.json"
+    },
+    "dicloxacillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dicloxacillin-sodium.json"
+    },
+    "dicycloverine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dicycloverine-hydrochloride.json"
+    },
+    "didanosine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\didanosine.json"
+    },
+    "dienogest": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dienogest.json"
+    },
+    "diethyl phthalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diethyl-phthalate.json"
+    },
+    "diethylamine salicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diethylamine-salicylate.json"
+    },
+    "diethylcarbamazine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diethylcarbamazine-citrate.json"
+    },
+    "diethylene glycol monoethyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diethylene-glycol-monoethyl-ether.json"
+    },
+    "diethylene glycol palmitostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diethylene-glycol-palmitostearate.json"
+    },
+    "digitoxin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\digitoxin.json"
+    },
+    "digoxin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\digoxin.json"
+    },
+    "dihydrocodeine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dihydrocodeine-tartrate.json"
+    },
+    "dihydroergocristine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dihydroergocristine-mesilate.json"
+    },
+    "dihydroergotamine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dihydroergotamine-mesilate.json"
+    },
+    "dihydrotachysterol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dihydrotachysterol.json"
+    },
+    "diltiazem hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diltiazem-hydrochloride.json"
+    },
+    "dilute ethanols": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dilute-ethanols.json"
+    },
+    "dilute hydrochloric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dilute-hydrochloric-acid.json"
+    },
+    "dilute phosphoric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dilute-phosphoric-acid.json"
+    },
+    "dilute sulfuric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dilute-sulfuric-acid.json"
+    },
+    "diluted isosorbide dinitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diluted-isosorbide-dinitrate.json"
+    },
+    "diluted isosorbide mononitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diluted-isosorbide-mononitrate.json"
+    },
+    "diluted pentaerythrityl tetranitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diluted-pentaerythrityl-tetranitrate.json"
+    },
+    "diluted potassium clavulanate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diluted-potassium-clavulanate.json"
+    },
+    "dimenhydrinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimenhydrinate.json"
+    },
+    "dimercaprol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimercaprol.json"
+    },
+    "dimethyl phthalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimethyl-phthalate.json"
+    },
+    "dimethyl sulfoxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimethyl-sulfoxide.json"
+    },
+    "dimethylacetamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimethylacetamide.json"
+    },
+    "dimeticone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimeticone.json"
+    },
+    "dimetindene maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dimetindene-maleate.json"
+    },
+    "dinoprost trometamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dinoprost-trometamol.json"
+    },
+    "dinoprostone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dinoprostone.json"
+    },
+    "diosmin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diosmin.json"
+    },
+    "diphenhydramine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diphenhydramine-hydrochloride.json"
+    },
+    "diphenoxylate hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diphenoxylate-hydrochloride.json"
+    },
+    "diphenylpyraline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diphenylpyraline-hydrochloride.json"
+    },
+    "dipivefrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dipivefrine-hydrochloride.json"
+    },
+    "dipotassium clorazepate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dipotassium-clorazepate.json"
+    },
+    "dipotassium hydrogen phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dipotassium-hydrogen-phosphate.json"
+    },
+    "diprophylline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\diprophylline.json"
+    },
+    "dipyridamole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dipyridamole.json"
+    },
+    "dipyrone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dipyrone.json"
+    },
+    "dirithromycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dirithromycin.json"
+    },
+    "disodium edetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disodium-edetate.json"
+    },
+    "disodium hydrogen phosphate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disodium-hydrogen-phosphate-dihydrate.json"
+    },
+    "disodium hydrogen phosphate dodecahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disodium-hydrogen-phosphate-dodecahydrate.json"
+    },
+    "disodium hydrogen phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disodium-hydrogen-phosphate.json"
+    },
+    "disopyramide phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disopyramide-phosphate.json"
+    },
+    "disopyramide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disopyramide.json"
+    },
+    "dispersible cellulose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dispersible-cellulose.json"
+    },
+    "disulfiram": {
+      "bp": "pharmacopoeia_db\\BP\\json\\disulfiram.json"
+    },
+    "dithranol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dithranol.json"
+    },
+    "dl-methionine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dl-methionine.json"
+    },
+    "dobutamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dobutamine-hydrochloride.json"
+    },
+    "docetaxel trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\docetaxel-trihydrate.json"
+    },
+    "docetaxel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\docetaxel.json"
+    },
+    "docusate sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\docusate-sodium.json"
+    },
+    "dodecyl gallate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dodecyl-gallate.json"
+    },
+    "domiphen bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\domiphen-bromide.json"
+    },
+    "domperidone maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\domperidone-maleate.json"
+    },
+    "domperidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\domperidone.json"
+    },
+    "donepezil hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\donepezil-hydrochloride-monohydrate.json"
+    },
+    "donepezil hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\donepezil-hydrochloride.json"
+    },
+    "dopamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dopamine-hydrochloride.json"
+    },
+    "dopexamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dopexamine-hydrochloride.json"
+    },
+    "dorzolamide hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dorzolamide-hydrochloride.json"
+    },
+    "dosulepin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dosulepin-hydrochloride.json"
+    },
+    "doxapram hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxapram-hydrochloride.json"
+    },
+    "doxazosin mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxazosin-mesilate.json"
+    },
+    "doxepin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxepin-hydrochloride.json"
+    },
+    "doxorubicin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxorubicin-hydrochloride.json"
+    },
+    "doxycycline hyclate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxycycline-hyclate.json"
+    },
+    "doxycycline monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxycycline-monohydrate.json"
+    },
+    "doxylamine succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\doxylamine-succinate.json"
+    },
+    "dried aluminium hydroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dried-aluminium-hydroxide.json"
+    },
+    "dried aluminium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dried-aluminium-phosphate.json"
+    },
+    "dried calcium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dried-calcium-sulfate.json"
+    },
+    "dried ferrous sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dried-ferrous-sulfate.json"
+    },
+    "dried magnesium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dried-magnesium-sulfate.json"
+    },
+    "dronedarone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dronedarone-hydrochloride.json"
+    },
+    "droperidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\droperidol.json"
+    },
+    "drospirenone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\drospirenone.json"
+    },
+    "duloxetine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\duloxetine-hydrochloride.json"
+    },
+    "dutasteride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dutasteride.json"
+    },
+    "dydrogesterone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\dydrogesterone.json"
+    },
+    "ebastine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ebastine.json"
+    },
+    "econazole nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\econazole-nitrate.json"
+    },
+    "econazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\econazole.json"
+    },
+    "edetic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\edetic-acid.json"
+    },
+    "edrophonium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\edrophonium-chloride.json"
+    },
+    "emedastine fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\emedastine-fumarate.json"
+    },
+    "emulsifying cetostearyl alcohol (type a)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\emulsifying-cetostearyl-alcohol--type-a-.json"
+    },
+    "emulsifying cetostearyl alcohol (type b)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\emulsifying-cetostearyl-alcohol--type-b-.json"
+    },
+    "enalapril maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\enalapril-maleate.json"
+    },
+    "enalaprilat dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\enalaprilat-dihydrate.json"
+    },
+    "enoxaparin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\enoxaparin-sodium.json"
+    },
+    "enoxolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\enoxolone.json"
+    },
+    "entacapone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\entacapone.json"
+    },
+    "entecavir monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\entecavir-monohydrate.json"
+    },
+    "ephedrine hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ephedrine-hemihydrate.json"
+    },
+    "ephedrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ephedrine-hydrochloride.json"
+    },
+    "ephedrine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ephedrine.json"
+    },
+    "epinastine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\epinastine-hydrochloride.json"
+    },
+    "epirubicin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\epirubicin-hydrochloride.json"
+    },
+    "eplerenone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\eplerenone.json"
+    },
+    "ergocalciferol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ergocalciferol.json"
+    },
+    "ergometrine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ergometrine-maleate.json"
+    },
+    "ergotamine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ergotamine-tartrate.json"
+    },
+    "erythritol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythritol.json"
+    },
+    "erythromycin estolate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythromycin-estolate.json"
+    },
+    "erythromycin ethyl succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythromycin-ethyl-succinate.json"
+    },
+    "erythromycin lactobionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythromycin-lactobionate.json"
+    },
+    "erythromycin stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythromycin-stearate.json"
+    },
+    "erythromycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythromycin.json"
+    },
+    "erythropoietin concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\erythropoietin-concentrated-solution.json"
+    },
+    "escitalopram oxalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\escitalopram-oxalate.json"
+    },
+    "escitalopram": {
+      "bp": "pharmacopoeia_db\\BP\\json\\escitalopram.json"
+    },
+    "esketamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\esketamine-hydrochloride.json"
+    },
+    "esomeprazole magnesium dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\esomeprazole-magnesium-dihydrate.json"
+    },
+    "esomeprazole magnesium trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\esomeprazole-magnesium-trihydrate.json"
+    },
+    "esomeprazole sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\esomeprazole-sodium.json"
+    },
+    "estradiol benzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\estradiol-benzoate.json"
+    },
+    "estradiol hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\estradiol-hemihydrate.json"
+    },
+    "estradiol valerate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\estradiol-valerate.json"
+    },
+    "estriol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\estriol.json"
+    },
+    "etacrynic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etacrynic-acid.json"
+    },
+    "etamsylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etamsylate.json"
+    },
+    "etanercept": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etanercept.json"
+    },
+    "ethacridine lactate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethacridine-lactate-monohydrate.json"
+    },
+    "ethambutol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethambutol-hydrochloride.json"
+    },
+    "ethanol (96 per cent)1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethanol--96-per-cent-1.json"
+    },
+    "ethanol1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethanol1.json"
+    },
+    "ethanolamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethanolamine.json"
+    },
+    "ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ether.json"
+    },
+    "ethinylestradiol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethinylestradiol.json"
+    },
+    "ethionamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethionamide.json"
+    },
+    "ethosuximide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethosuximide.json"
+    },
+    "ethyl acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-acetate.json"
+    },
+    "ethyl cinnamate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-cinnamate.json"
+    },
+    "ethyl gallate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-gallate.json"
+    },
+    "ethyl hydroxybenzoate sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-hydroxybenzoate-sodium.json"
+    },
+    "ethyl hydroxybenzoate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-hydroxybenzoate.json"
+    },
+    "ethyl oleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethyl-oleate.json"
+    },
+    "ethylcellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethylcellulose1.json"
+    },
+    "ethylene glycol monopalmitostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethylene-glycol-monopalmitostearate.json"
+    },
+    "ethylenediamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethylenediamine.json"
+    },
+    "ethylmorphine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ethylmorphine-hydrochloride.json"
+    },
+    "etidronate disodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etidronate-disodium.json"
+    },
+    "etilefrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etilefrine-hydrochloride.json"
+    },
+    "etodolac": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etodolac.json"
+    },
+    "etofenamate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etofenamate.json"
+    },
+    "etomidate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etomidate.json"
+    },
+    "etoposide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etoposide.json"
+    },
+    "etynodiol diacetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\etynodiol-diacetate.json"
+    },
+    "eugenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\eugenol.json"
+    },
+    "everolimus": {
+      "bp": "pharmacopoeia_db\\BP\\json\\everolimus.json"
+    },
+    "exemestane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\exemestane.json"
+    },
+    "famotidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\famotidine.json"
+    },
+    "farmed cod-liver oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\farmed-cod-liver-oil.json"
+    },
+    "farmed salmon oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\farmed-salmon-oil.json"
+    },
+    "felbinac": {
+      "bp": "pharmacopoeia_db\\BP\\json\\felbinac.json"
+    },
+    "felodipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\felodipine.json"
+    },
+    "felypressin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\felypressin.json"
+    },
+    "fenbufen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fenbufen.json"
+    },
+    "fenofibrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fenofibrate.json"
+    },
+    "fenoprofen calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fenoprofen-calcium.json"
+    },
+    "fenoterol hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fenoterol-hydrobromide.json"
+    },
+    "fentanyl citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fentanyl-citrate.json"
+    },
+    "fentanyl": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fentanyl.json"
+    },
+    "fenticonazole nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fenticonazole-nitrate.json"
+    },
+    "ferric chloride hexahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ferric-chloride-hexahydrate.json"
+    },
+    "ferrous fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ferrous-fumarate.json"
+    },
+    "ferrous gluconate hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ferrous-gluconate.json"
+    },
+    "ferrous sulfate heptahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ferrous-sulfate-heptahydrate.json"
+    },
+    "fexofenadine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fexofenadine-hydrochloride.json"
+    },
+    "filgrastim concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\filgrastim-concentrated-solution.json"
+    },
+    "finasteride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\finasteride.json"
+    },
+    "fingolimod hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fingolimod-hydrochloride.json"
+    },
+    "fish oil, rich in omega-3-acids": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fish-oil--rich-in-omega-3-acids.json"
+    },
+    "flavoxate hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flavoxate-hydrochloride.json"
+    },
+    "flecainide acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flecainide-acetate.json"
+    },
+    "flubendazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flubendazole.json"
+    },
+    "flucloxacillin magnesium octahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flucloxacillin-magnesium-octahydrate.json"
+    },
+    "flucloxacillin sodium monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flucloxacillin-sodium.json"
+    },
+    "fluconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluconazole.json"
+    },
+    "flucytosine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flucytosine.json"
+    },
+    "fludarabine phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fludarabine-phosphate.json"
+    },
+    "fludrocortisone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fludrocortisone-acetate.json"
+    },
+    "flumazenil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flumazenil.json"
+    },
+    "flumequine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flumequine.json"
+    },
+    "flumetasone pivalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flumetasone-pivalate.json"
+    },
+    "flunarizine dihydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flunarizine-dihydrochloride.json"
+    },
+    "flunitrazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flunitrazepam.json"
+    },
+    "fluocinolone acetonide dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluocinolone-acetonide-dihydrate.json"
+    },
+    "fluocinolone acetonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluocinolone-acetonide.json"
+    },
+    "fluocinonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluocinonide.json"
+    },
+    "fluocortolone pivalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluocortolone-pivalate.json"
+    },
+    "fluorescein sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluorescein-sodium.json"
+    },
+    "fluorescein": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluorescein.json"
+    },
+    "fluorometholone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluorometholone.json"
+    },
+    "fluorouracil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluorouracil.json"
+    },
+    "fluoxetine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluoxetine-hydrochloride.json"
+    },
+    "flupentixol decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flupentixol-decanoate.json"
+    },
+    "flupentixol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flupentixol-hydrochloride.json"
+    },
+    "fluphenazine decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluphenazine-decanoate.json"
+    },
+    "fluphenazine enantate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluphenazine-enantate.json"
+    },
+    "fluphenazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluphenazine-hydrochloride.json"
+    },
+    "flurazepam monohydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flurazepam-monohydrochloride.json"
+    },
+    "flurbiprofen sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flurbiprofen-sodium.json"
+    },
+    "flurbiprofen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flurbiprofen.json"
+    },
+    "fluspirilene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluspirilene.json"
+    },
+    "flutamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flutamide.json"
+    },
+    "fluticasone furoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluticasone-furoate.json"
+    },
+    "fluticasone propionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluticasone-propionate.json"
+    },
+    "flutrimazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\flutrimazole.json"
+    },
+    "fluvastatin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluvastatin-sodium.json"
+    },
+    "fluvoxamine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fluvoxamine-maleate.json"
+    },
+    "folic acid hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\folic-acid-hydrate.json"
+    },
+    "follitropin concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\follitropin-concentrated-solution.json"
+    },
+    "follitropin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\follitropin.json"
+    },
+    "formaldehyde solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\formaldehyde-solution.json"
+    },
+    "formic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\formic-acid.json"
+    },
+    "formoterol fumarate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\formoterol-fumarate-dihydrate.json"
+    },
+    "foscarnet sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\foscarnet-sodium.json"
+    },
+    "fosfomycin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fosfomycin-calcium.json"
+    },
+    "fosfomycin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fosfomycin-sodium.json"
+    },
+    "fosfomycin trometamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fosfomycin-trometamol.json"
+    },
+    "fosinopril sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fosinopril-sodium.json"
+    },
+    "fractionated palm kernel oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fractionated-palm-kernel-oil.json"
+    },
+    "framycetin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\framycetin-sulfate.json"
+    },
+    "fructose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fructose.json"
+    },
+    "fulvestrant": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fulvestrant.json"
+    },
+    "furosemide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\furosemide.json"
+    },
+    "fusidic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\fusidic-acid.json"
+    },
+    "gabapentin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gabapentin.json"
+    },
+    "gadobutrol monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gadobutrol-monohydrate.json"
+    },
+    "gadodiamide hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gadodiamide-hydrate.json"
+    },
+    "galactose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\galactose.json"
+    },
+    "galantamine hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\galantamine-hydrobromide.json"
+    },
+    "gammadex": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gammadex.json"
+    },
+    "ganciclovir": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ganciclovir.json"
+    },
+    "gefitinib": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gefitinib.json"
+    },
+    "gelatin1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gelatin1.json"
+    },
+    "gemcitabine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gemcitabine-hydrochloride.json"
+    },
+    "gemfibrozil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gemfibrozil.json"
+    },
+    "gentamicin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gentamicin-sulfate.json"
+    },
+    "gestodene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gestodene.json"
+    },
+    "glacial acetic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glacial-acetic-acid.json"
+    },
+    "glibenclamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glibenclamide.json"
+    },
+    "gliclazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gliclazide.json"
+    },
+    "glimepiride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glimepiride.json"
+    },
+    "glipizide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glipizide.json"
+    },
+    "glucosamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glucosamine-hydrochloride.json"
+    },
+    "glucosamine sulfate potassium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glucosamine-sulfate-potassium-chloride.json"
+    },
+    "glucosamine sulfate sodium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glucosamine-sulfate-sodium-chloride.json"
+    },
+    "glucose monohydrate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glucose-monohydrate1.json"
+    },
+    "glucose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glucose1.json"
+    },
+    "glutamic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glutamic-acid.json"
+    },
+    "glutathione": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glutathione.json"
+    },
+    "glycerol (85 per cent)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol--85-per-cent.json"
+    },
+    "glycerol dibehenate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-dibehenate.json"
+    },
+    "glycerol distearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-distearate.json"
+    },
+    "glycerol formal": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-formal.json"
+    },
+    "glycerol mono-oleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-mono-oleate.json"
+    },
+    "glycerol monocaprylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-monocaprylate.json"
+    },
+    "glycerol monocaprylocaprate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-monocaprylocaprate.json"
+    },
+    "glycerol monolinoleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-monolinoleate.json"
+    },
+    "glycerol monostearate 40-55": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol-monostearate-40-55.json"
+    },
+    "glycerol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycerol.json"
+    },
+    "glyceryl trinitrate solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glyceryl-trinitrate-solution.json"
+    },
+    "glycine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycine.json"
+    },
+    "glycopyrronium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\glycopyrronium-bromide.json"
+    },
+    "gonadorelin acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gonadorelin-acetate.json"
+    },
+    "goserelin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\goserelin.json"
+    },
+    "gramicidin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\gramicidin.json"
+    },
+    "granisetron hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\granisetron-hydrochloride.json"
+    },
+    "griseofulvin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\griseofulvin.json"
+    },
+    "guaiacol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\guaiacol.json"
+    },
+    "guaifenesin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\guaifenesin.json"
+    },
+    "guanethidine monosulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\guanethidine-monosulfate.json"
+    },
+    "guar galactomannan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\guar-galactomannan.json"
+    },
+    "guar": {
+      "bp": "pharmacopoeia_db\\BP\\json\\guar.json"
+    },
+    "halofantrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\halofantrine-hydrochloride.json"
+    },
+    "haloperidol decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\haloperidol-decanoate.json"
+    },
+    "haloperidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\haloperidol.json"
+    },
+    "halothane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\halothane.json"
+    },
+    "hard fat with additives": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hard-fat-with-additives.json"
+    },
+    "hard fat": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hard-fat.json"
+    },
+    "hard paraffin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hard-paraffin.json"
+    },
+    "heavy bismuth subnitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heavy-bismuth-subnitrate.json"
+    },
+    "heavy kaolin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heavy-kaolin.json"
+    },
+    "heavy magnesium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heavy-magnesium-carbonate.json"
+    },
+    "heavy magnesium oxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heavy-magnesium-oxide.json"
+    },
+    "helium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\helium.json"
+    },
+    "heparin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heparin-calcium.json"
+    },
+    "heparin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heparin-sodium.json"
+    },
+    "heptaminol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\heptaminol-hydrochloride.json"
+    },
+    "hexachlorophene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hexachlorophene.json"
+    },
+    "hexamidine isetionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hexamidine-isetionate.json"
+    },
+    "hexetidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hexetidine.json"
+    },
+    "hexylresorcinol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hexylresorcinol.json"
+    },
+    "high-molecular-mass macrogols": {
+      "bp": "pharmacopoeia_db\\BP\\json\\high-molecular-mass-macrogols.json"
+    },
+    "histamine dihydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\histamine-dihydrochloride.json"
+    },
+    "histidine hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\histidine-hydrochloride-monohydrate.json"
+    },
+    "histidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\histidine.json"
+    },
+    "homatropine hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\homatropine-hydrobromide.json"
+    },
+    "homatropine methylbromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\homatropine-methylbromide.json"
+    },
+    "honey": {
+      "bp": "pharmacopoeia_db\\BP\\json\\honey.json"
+    },
+    "human glucagon": {
+      "bp": "pharmacopoeia_db\\BP\\json\\human-glucagon.json"
+    },
+    "human insulin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\human-insulin.json"
+    },
+    "hyaluronidase": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hyaluronidase.json"
+    },
+    "hydralazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydralazine-hydrochloride.json"
+    },
+    "hydrated aluminium hydroxide for adsorption": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrated-aluminium-hydroxide-for-adsorption.json"
+    },
+    "hydrated dihydralazine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrated-dihydralazine-sulfate.json"
+    },
+    "hydrated manganese glycerophosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrated-manganese-glycerophosphate.json"
+    },
+    "hydrated sodium glycerophosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrated-sodium-glycerophosphate.json"
+    },
+    "hydrochloric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrochloric-acid.json"
+    },
+    "hydrochlorothiazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrochlorothiazide.json"
+    },
+    "hydrocodone hydrogen tartrate hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrocodone-hydrogen-tartrate-hydrate.json"
+    },
+    "hydrocortisone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrocortisone-acetate.json"
+    },
+    "hydrocortisone hydrogen succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrocortisone-hydrogen-succinate.json"
+    },
+    "hydrocortisone sodium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrocortisone-sodium-phosphate.json"
+    },
+    "hydrocortisone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrocortisone.json"
+    },
+    "hydroflumethiazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroflumethiazide.json"
+    },
+    "hydrogen peroxide solution (3 per cent)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogen-peroxide-solution--3-per-cent-.json"
+    },
+    "hydrogen peroxide solution (30 per cent)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogen-peroxide-solution--30-per-cent-.json"
+    },
+    "hydrogen peroxide solution 6 per cent": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogen-peroxide-solution--6-per-cent-.json"
+    },
+    "hydrogenated arachis oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-arachis-oil.json"
+    },
+    "hydrogenated castor oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-castor-oil.json"
+    },
+    "hydrogenated cottonseed oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-cottonseed-oil.json"
+    },
+    "hydrogenated polyoxyl castor oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-polyoxyl-castor-oil.json"
+    },
+    "hydrogenated soya oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-soya-oil.json"
+    },
+    "hydrogenated vegetable oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-vegetable-oil.json"
+    },
+    "hydrogenated wool fat": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrogenated-wool-fat.json"
+    },
+    "hydromorphone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydromorphone-hydrochloride.json"
+    },
+    "hydrophobic colloidal anhydrous silica": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrophobic-colloidal-anhydrous-silica.json"
+    },
+    "hydroquinone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroquinone.json"
+    },
+    "hydrotalcite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrotalcite.json"
+    },
+    "hydrous benzoyl peroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrous-benzoyl-peroxide.json"
+    },
+    "hydrous wool fat": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydrous-wool-fat.json"
+    },
+    "hydroxocobalamin acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxocobalamin-acetate.json"
+    },
+    "hydroxocobalamin chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxocobalamin-chloride.json"
+    },
+    "hydroxocobalamin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxocobalamin-sulfate.json"
+    },
+    "hydroxycarbamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxycarbamide.json"
+    },
+    "hydroxychloroquine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxychloroquine-sulfate.json"
+    },
+    "hydroxyethyl salicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxyethyl-salicylate.json"
+    },
+    "hydroxyethyl starches": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxyethyl-starches.json"
+    },
+    "hydroxyethylcellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxyethylcellulose.json"
+    },
+    "hydroxyethylmethylcellulose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxyethylmethylcellulose.json"
+    },
+    "hydroxypropyl starch": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxypropyl-starch.json"
+    },
+    "hydroxypropylbetadex": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxypropylbetadex.json"
+    },
+    "hydroxypropylcellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxypropylcellulose1.json"
+    },
+    "hydroxyzine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hydroxyzine-hydrochloride.json"
+    },
+    "hymecromone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hymecromone.json"
+    },
+    "hymenoptera venoms for allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hymenoptera-venoms-for-allergen-products.json"
+    },
+    "hyoscine butylbromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hyoscine-butylbromide.json"
+    },
+    "hyoscine hydrobromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hyoscine-hydrobromide.json"
+    },
+    "hyoscine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hyoscine.json"
+    },
+    "hyoscyamine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hyoscyamine-sulfate.json"
+    },
+    "hypromellose phthalate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hypromellose-phthalate.json"
+    },
+    "hypromellose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\hypromellose1.json"
+    },
+    "ibandronate sodium monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ibandronate-sodium-monohydrate.json"
+    },
+    "ibuprofen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ibuprofen.json"
+    },
+    "ichthammol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ichthammol.json"
+    },
+    "idoxuridine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\idoxuridine.json"
+    },
+    "ifosfamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ifosfamide.json"
+    },
+    "imatinib mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\imatinib-mesilate.json"
+    },
+    "imipenem monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\imipenem-monohydrate.json"
+    },
+    "imipramine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\imipramine-hydrochloride.json"
+    },
+    "indapamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\indapamide.json"
+    },
+    "indinavir sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\indinavir-sulfate.json"
+    },
+    "indometacin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\indometacin.json"
+    },
+    "indoramin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\indoramin-hydrochloride.json"
+    },
+    "industrial methylated spirit ketone free": {
+      "bp": "pharmacopoeia_db\\BP\\json\\industrial-methylated-spirit--ketone-free-.json"
+    },
+    "industrial methylated spirit": {
+      "bp": "pharmacopoeia_db\\BP\\json\\industrial-methylated-spirit.json"
+    },
+    "infliximab concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\infliximab-concentrated-solution.json"
+    },
+    "inositol nicotinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\inositol-nicotinate.json"
+    },
+    "insulin aspart": {
+      "bp": "pharmacopoeia_db\\BP\\json\\insulin-aspart.json"
+    },
+    "insulin glargine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\insulin-glargine.json"
+    },
+    "insulin lispro": {
+      "bp": "pharmacopoeia_db\\BP\\json\\insulin-lispro.json"
+    },
+    "interferon alfa-2 concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\interferon-alfa-2-concentrated-solution.json"
+    },
+    "interferon beta-1a concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\interferon-beta-1a-concentrated-solution.json"
+    },
+    "interferon gamma-1b concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\interferon-gamma-1b-concentrated-solution.json"
+    },
+    "iodinated povidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iodinated-povidone.json"
+    },
+    "iodine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iodine.json"
+    },
+    "iodixanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iodixanol.json"
+    },
+    "iohexol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iohexol.json"
+    },
+    "iopamidol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iopamidol.json"
+    },
+    "iopanoic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iopanoic-acid.json"
+    },
+    "iopromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iopromide.json"
+    },
+    "iotrolan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\iotrolan.json"
+    },
+    "ioxaglic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ioxaglic-acid.json"
+    },
+    "ipratropium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ipratropium-bromide.json"
+    },
+    "irbesartan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\irbesartan.json"
+    },
+    "irinotecan hydrochloride trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\irinotecan-hydrochloride-trihydrate.json"
+    },
+    "isoconazole nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoconazole-nitrate.json"
+    },
+    "isoconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoconazole.json"
+    },
+    "isoflurane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoflurane.json"
+    },
+    "isoleucine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoleucine.json"
+    },
+    "isomalt1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isomalt1.json"
+    },
+    "isoniazid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoniazid.json"
+    },
+    "isoprenaline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoprenaline-hydrochloride.json"
+    },
+    "isoprenaline sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoprenaline-sulfate.json"
+    },
+    "isopropyl alcohol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isopropyl-alcohol.json"
+    },
+    "isopropyl isostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isopropyl-isostearate.json"
+    },
+    "isopropyl myristate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isopropyl-myristate.json"
+    },
+    "isopropyl palmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isopropyl-palmitate.json"
+    },
+    "isotretinoin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isotretinoin.json"
+    },
+    "isoxsuprine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isoxsuprine-hydrochloride.json"
+    },
+    "isradipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\isradipine.json"
+    },
+    "itraconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\itraconazole.json"
+    },
+    "ivermectin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ivermectin.json"
+    },
+    "josamycin propionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\josamycin-propionate.json"
+    },
+    "josamycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\josamycin.json"
+    },
+    "kanamycin acid sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\kanamycin-acid-sulfate.json"
+    },
+    "kanamycin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\kanamycin-sulfate.json"
+    },
+    "ketamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketamine-hydrochloride.json"
+    },
+    "ketobemidone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketobemidone-hydrochloride.json"
+    },
+    "ketoconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketoconazole.json"
+    },
+    "ketoprofen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketoprofen.json"
+    },
+    "ketorolac trometamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketorolac-trometamol.json"
+    },
+    "ketotifen fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ketotifen-fumarate.json"
+    },
+    "labetalol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\labetalol-hydrochloride.json"
+    },
+    "lacidipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lacidipine.json"
+    },
+    "lacosamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lacosamide.json"
+    },
+    "lactic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactic-acid.json"
+    },
+    "lactitol monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactitol-monohydrate.json"
+    },
+    "lactobionic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactobionic-acid.json"
+    },
+    "lactose monohydrate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactose-monohydrate.json"
+    },
+    "lactose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactose.json"
+    },
+    "lactulose solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactulose-solution.json"
+    },
+    "lactulose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lactulose.json"
+    },
+    "lamivudine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lamivudine.json"
+    },
+    "lamotrigine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lamotrigine.json"
+    },
+    "lansoprazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lansoprazole.json"
+    },
+    "latanoprost": {
+      "bp": "pharmacopoeia_db\\BP\\json\\latanoprost.json"
+    },
+    "lauromacrogol 400": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lauromacrogol-400.json"
+    },
+    "lauroyl macrogolglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lauroyl-macrogolglycerides.json"
+    },
+    "leflunomide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\leflunomide.json"
+    },
+    "letrozole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\letrozole.json"
+    },
+    "leucine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\leucine.json"
+    },
+    "leuprorelin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\leuprorelin.json"
+    },
+    "levamisole hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levamisole-hydrochloride.json"
+    },
+    "levetiracetam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levetiracetam.json"
+    },
+    "levobunolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levobunolol-hydrochloride.json"
+    },
+    "levocabastine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levocabastine-hydrochloride.json"
+    },
+    "levocarnitine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levocarnitine.json"
+    },
+    "levocetirizine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levocetirizine-hydrochloride.json"
+    },
+    "levodopa": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levodopa.json"
+    },
+    "levodropropizine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levodropropizine.json"
+    },
+    "levofloxacin hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levofloxacin-hemihydrate.json"
+    },
+    "levomenthol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levomenthol.json"
+    },
+    "levomepromazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levomepromazine-hydrochloride.json"
+    },
+    "levomepromazine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levomepromazine-maleate.json"
+    },
+    "levomethadone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levomethadone-hydrochloride.json"
+    },
+    "levonorgestrel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levonorgestrel.json"
+    },
+    "levothyroxine sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\levothyroxine-sodium.json"
+    },
+    "lidocaine hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lidocaine-hydrochloride.json"
+    },
+    "lidocaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lidocaine.json"
+    },
+    "light kaolin natural": {
+      "bp": "pharmacopoeia_db\\BP\\json\\light-kaolin--natural-.json"
+    },
+    "light kaolin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\light-kaolin.json"
+    },
+    "light liquid paraffin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\light-liquid-paraffin.json"
+    },
+    "light magnesium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\light-magnesium-carbonate.json"
+    },
+    "light magnesium oxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\light-magnesium-oxide.json"
+    },
+    "lincomycin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lincomycin-hydrochloride.json"
+    },
+    "linoleoyl macrogolglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\linoleoyl-macrogolglycerides.json"
+    },
+    "liothyronine sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liothyronine-sodium.json"
+    },
+    "liquefied phenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquefied-phenol.json"
+    },
+    "liquid glucose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-glucose.json"
+    },
+    "liquid maltitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-maltitol.json"
+    },
+    "liquid paraffin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-paraffin.json"
+    },
+    "liquid sorbitol (crystallising)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-sorbitol--crystallising-.json"
+    },
+    "liquid sorbitol (non-crystallising)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-sorbitol--non-crystallising-.json"
+    },
+    "syrup": {
+      "bp": "pharmacopoeia_db\\BP\\json\\liquid-sucrose.json"
+    },
+    "lisinopril dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lisinopril-dihydrate.json"
+    },
+    "lithium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lithium-carbonate.json"
+    },
+    "lithium citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lithium-citrate.json"
+    },
+    "live biotherapeutic products for human use": {
+      "bp": "pharmacopoeia_db\\BP\\json\\live-biotherapeutic-products-for-human-use.json"
+    },
+    "lobeline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lobeline-hydrochloride.json"
+    },
+    "lofepramine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lofepramine-hydrochloride.json"
+    },
+    "lomustine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lomustine.json"
+    },
+    "loperamide hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\loperamide-hydrochloride.json"
+    },
+    "loperamide oxide monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\loperamide-oxide-monohydrate.json"
+    },
+    "lopinavir": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lopinavir.json"
+    },
+    "loprazolam mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\loprazolam-mesilate.json"
+    },
+    "loratadine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\loratadine.json"
+    },
+    "lorazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lorazepam.json"
+    },
+    "lormetazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lormetazepam.json"
+    },
+    "losartan potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\losartan-potassium.json"
+    },
+    "lovastatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lovastatin.json"
+    },
+    "low-molecular-weight heparins": {
+      "bp": "pharmacopoeia_db\\BP\\json\\low-molecular-weight-heparins.json"
+    },
+    "low-oxygen nitrogen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\low-oxygen-nitrogen.json"
+    },
+    "low-substituted carmellose sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\low-substituted-carmellose-sodium.json"
+    },
+    "low-substituted hydroxypropylcellulose 1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\low-substituted-hydroxypropylcellulose1.json"
+    },
+    "lymecycline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lymecycline.json"
+    },
+    "lynestrenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lynestrenol.json"
+    },
+    "lysine acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lysine-acetate.json"
+    },
+    "lysine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\lysine-hydrochloride.json"
+    },
+    "macrogol 15 hydroxystearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-15-hydroxystearate.json"
+    },
+    "macrogol 20 glycerol monostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-20-glycerol-monostearate.json"
+    },
+    "macrogol 30 dipolyhydroxystearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-30-dipolyhydroxystearate.json"
+    },
+    "macrogol 40 sorbitol heptaoleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-40-sorbitol-heptaoleate.json"
+    },
+    "macrogol 6 glycerol caprylocaprate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-6-glycerol-caprylocaprate.json"
+    },
+    "macrogol cetostearyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-cetostearyl-ether.json"
+    },
+    "macrogol glycerol cocoates": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-glycerol-cocoates.json"
+    },
+    "macrogol isotridecyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-isotridecyl-ether.json"
+    },
+    "macrogol lauryl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-lauryl-ether.json"
+    },
+    "macrogol oleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-oleate.json"
+    },
+    "macrogol oleyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-oleyl-ether.json"
+    },
+    "macrogol poly(vinyl alcohol) grafted copolymer": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-poly-vinyl-alcohol--grafted-copolymer.json"
+    },
+    "macrogol stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-stearate.json"
+    },
+    "macrogol stearyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogol-stearyl-ether.json"
+    },
+    "macrogols": {
+      "bp": "pharmacopoeia_db\\BP\\json\\macrogols.json"
+    },
+    "magaldrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magaldrate.json"
+    },
+    "magnesium acetate tetrahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-acetate-tetrahydrate.json"
+    },
+    "magnesium aluminometasilicate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-aluminometasilicate.json"
+    },
+    "magnesium aspartate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-aspartate.json"
+    },
+    "magnesium chloride hexahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-chloride-hexahydrate.json"
+    },
+    "magnesium citrate dodecahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-citrate-dodecahydrate.json"
+    },
+    "magnesium citrate nonahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-citrate-nonahydrate.json"
+    },
+    "magnesium citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-citrate.json"
+    },
+    "magnesium gluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-gluconate.json"
+    },
+    "magnesium glycerophosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-glycerophosphate.json"
+    },
+    "magnesium hydroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-hydroxide.json"
+    },
+    "magnesium lactate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-lactate-dihydrate.json"
+    },
+    "magnesium peroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-peroxide.json"
+    },
+    "magnesium pidolate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-pidolate.json"
+    },
+    "magnesium stearate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-stearate1.json"
+    },
+    "magnesium sulfate heptahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-sulfate-heptahydrate.json"
+    },
+    "magnesium trisilicate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\magnesium-trisilicate.json"
+    },
+    "maize starch1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\maize-starch1.json"
+    },
+    "malathion": {
+      "bp": "pharmacopoeia_db\\BP\\json\\malathion.json"
+    },
+    "maleic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\maleic-acid.json"
+    },
+    "malic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\malic-acid.json"
+    },
+    "maltitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\maltitol.json"
+    },
+    "maltodextrin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\maltodextrin.json"
+    },
+    "manganese gluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\manganese-gluconate.json"
+    },
+    "manganese sulfate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\manganese-sulfate-monohydrate.json"
+    },
+    "manganese sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\manganese-sulfate.json"
+    },
+    "mannitol1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mannitol1.json"
+    },
+    "maprotiline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\maprotiline-hydrochloride.json"
+    },
+    "mebendazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mebendazole.json"
+    },
+    "mebeverine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mebeverine-hydrochloride.json"
+    },
+    "meclozine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meclozine-hydrochloride.json"
+    },
+    "medical air": {
+      "bp": "pharmacopoeia_db\\BP\\json\\medical-air.json"
+    },
+    "medium-chain triglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\medium-chain-triglycerides.json"
+    },
+    "medroxyprogesterone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\medroxyprogesterone-acetate.json"
+    },
+    "mefenamic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mefenamic-acid.json"
+    },
+    "mefloquine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mefloquine-hydrochloride.json"
+    },
+    "megestrol acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\megestrol-acetate.json"
+    },
+    "meglumine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meglumine.json"
+    },
+    "melatonin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\melatonin.json"
+    },
+    "meldonium dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meldonium-dihydrate.json"
+    },
+    "meloxicam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meloxicam.json"
+    },
+    "melphalan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\melphalan.json"
+    },
+    "menadiol sodium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\menadiol-sodium-phosphate.json"
+    },
+    "menadione": {
+      "bp": "pharmacopoeia_db\\BP\\json\\menadione.json"
+    },
+    "menotrophin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\menotrophin.json"
+    },
+    "mepivacaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mepivacaine-hydrochloride.json"
+    },
+    "meptazinol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meptazinol-hydrochloride.json"
+    },
+    "mepyramine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mepyramine-maleate.json"
+    },
+    "mercaptopurine monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mercaptopurine.json"
+    },
+    "mercuric chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mercuric-chloride.json"
+    },
+    "meropenem trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\meropenem-trihydrate.json"
+    },
+    "mesalazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mesalazine.json"
+    },
+    "mesna": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mesna.json"
+    },
+    "mesterolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mesterolone.json"
+    },
+    "mestranol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mestranol.json"
+    },
+    "metacresol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metacresol.json"
+    },
+    "metaraminol tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metaraminol-tartrate.json"
+    },
+    "metformin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metformin-hydrochloride.json"
+    },
+    "methacrylic acid - ethyl acrylate copolymer (1:1) dispersion 30 per cent": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methacrylic-acid---ethyl-acrylate-copolymer--1-1--dispersion-30-.json"
+    },
+    "methacrylic acid - ethyl acrylate copolymer (1:1)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methacrylic-acid---ethyl-acrylate-copolymer--1-1-.json"
+    },
+    "methacrylic acid - methyl methacrylate copolymer (1:1)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methacrylic-acid---methyl-methacrylate-copolymer--1-1-.json"
+    },
+    "methacrylic acid - methyl methacrylate copolymer (1:2)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methacrylic-acid---methyl-methacrylate-copolymer--1-2-.json"
+    },
+    "methadone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methadone-hydrochloride.json"
+    },
+    "methane intermix (2 per cent) in nitrogen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methane-intermix--2-per-cent--in-nitrogen.json"
+    },
+    "methane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methane.json"
+    },
+    "methanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methanol.json"
+    },
+    "methenamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methenamine.json"
+    },
+    "methionine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methionine.json"
+    },
+    "methotrexate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methotrexate.json"
+    },
+    "methyl hydroxybenzoate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methyl-hydroxybenzoate.json"
+    },
+    "methyl nicotinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methyl-nicotinate.json"
+    },
+    "methyl salicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methyl-salicylate.json"
+    },
+    "methylaminolevulinate hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylaminolevulinate-hydrochloride.json"
+    },
+    "methylcellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylcellulose1.json"
+    },
+    "methyldopa": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methyldopa.json"
+    },
+    "methylergometrine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylergometrine-maleate.json"
+    },
+    "methylphenidate hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylphenidate-hydrochloride.json"
+    },
+    "methylphenobarbital": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylphenobarbital.json"
+    },
+    "methylprednisolone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylprednisolone-acetate.json"
+    },
+    "methylprednisolone hydrogen succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylprednisolone-hydrogen-succinate.json"
+    },
+    "methylprednisolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylprednisolone.json"
+    },
+    "methylpyrrolidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylpyrrolidone.json"
+    },
+    "methylrosanilinium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylrosanilinium-chloride.json"
+    },
+    "methyltestosterone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methyltestosterone.json"
+    },
+    "methylthioninium chloride hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\methylthioninium-chloride.json"
+    },
+    "metixene hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metixene-hydrochloride.json"
+    },
+    "metoclopramide hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metoclopramide-hydrochloride-monohydrate.json"
+    },
+    "metoclopramide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metoclopramide.json"
+    },
+    "metolazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metolazone.json"
+    },
+    "metoprolol succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metoprolol-succinate.json"
+    },
+    "metoprolol tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metoprolol-tartrate.json"
+    },
+    "metronidazole benzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metronidazole-benzoate.json"
+    },
+    "metronidazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metronidazole.json"
+    },
+    "metyrapone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\metyrapone.json"
+    },
+    "mexiletine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mexiletine-hydrochloride.json"
+    },
+    "mianserin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mianserin-hydrochloride.json"
+    },
+    "miconazole nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\miconazole-nitrate.json"
+    },
+    "miconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\miconazole.json"
+    },
+    "microcrystalline cellulose and carmellose sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\microcrystalline-cellulose-and-carmellose-sodium.json"
+    },
+    "microcrystalline cellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\microcrystalline-cellulose1.json"
+    },
+    "midazolam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\midazolam.json"
+    },
+    "minocycline hydrochloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\minocycline-hydrochloride-dihydrate.json"
+    },
+    "minoxidil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\minoxidil.json"
+    },
+    "mirabegron": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mirabegron.json"
+    },
+    "mirtazapine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mirtazapine.json"
+    },
+    "misoprostol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\misoprostol.json"
+    },
+    "mites for allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mites-for-allergen-products.json"
+    },
+    "mitobronitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mitobronitol.json"
+    },
+    "mitomycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mitomycin.json"
+    },
+    "mitoxantrone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mitoxantrone-hydrochloride.json"
+    },
+    "modafinil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\modafinil.json"
+    },
+    "molgramostim concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\molgramostim-concentrated-solution.json"
+    },
+    "molsidomine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\molsidomine.json"
+    },
+    "mometasone furoate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mometasone-furoate-monohydrate.json"
+    },
+    "mometasone furoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mometasone-furoate.json"
+    },
+    "montelukast sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\montelukast-sodium.json"
+    },
+    "morphine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\morphine-hydrochloride.json"
+    },
+    "morphine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\morphine-sulfate.json"
+    },
+    "moulds for allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\moulds-for-allergen-products.json"
+    },
+    "moxifloxacin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\moxifloxacin-hydrochloride.json"
+    },
+    "moxisylyte hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\moxisylyte-hydrochloride.json"
+    },
+    "moxonidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\moxonidine.json"
+    },
+    "mupirocin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mupirocin-calcium.json"
+    },
+    "mupirocin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mupirocin.json"
+    },
+    "mycophenolate mofetil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mycophenolate-mofetil.json"
+    },
+    "mycophenolate sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\mycophenolate-sodium.json"
+    },
+    "myo-inositol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\myo-inositol.json"
+    },
+    "nabumetone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nabumetone.json"
+    },
+    "nadolol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nadolol.json"
+    },
+    "nadroparin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nadroparin-calcium.json"
+    },
+    "naftidrofuryl oxalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naftidrofuryl-oxalate.json"
+    },
+    "naloxone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naloxone-hydrochloride.json"
+    },
+    "naltrexone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naltrexone-hydrochloride.json"
+    },
+    "nandrolone decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nandrolone-decanoate.json"
+    },
+    "naphazoline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naphazoline-hydrochloride.json"
+    },
+    "naphazoline nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naphazoline-nitrate.json"
+    },
+    "naproxen sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naproxen-sodium.json"
+    },
+    "naproxen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\naproxen.json"
+    },
+    "nateglinide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nateglinide.json"
+    },
+    "natural camphor": {
+      "bp": "pharmacopoeia_db\\BP\\json\\natural-camphor.json"
+    },
+    "natural vitamin a ester concentrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\natural-vitamin-a-ester-concentrate.json"
+    },
+    "nebivolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nebivolol-hydrochloride.json"
+    },
+    "neohesperidin-dihydrochalcone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\neohesperidin-dihydrochalcone.json"
+    },
+    "neomycin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\neomycin-sulfate.json"
+    },
+    "neostigmine bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\neostigmine-bromide.json"
+    },
+    "neostigmine metilsulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\neostigmine-metilsulfate.json"
+    },
+    "netilmicin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\netilmicin-sulfate.json"
+    },
+    "nevirapine hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nevirapine-hemihydrate.json"
+    },
+    "nevirapine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nevirapine.json"
+    },
+    "nicardipine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicardipine-hydrochloride.json"
+    },
+    "nicergoline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicergoline.json"
+    },
+    "niclosamide monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\niclosamide-monohydrate.json"
+    },
+    "niclosamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\niclosamide.json"
+    },
+    "nicorandil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicorandil.json"
+    },
+    "nicotinamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicotinamide.json"
+    },
+    "nicotine ditartrate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicotine-ditartrate-dihydrate.json"
+    },
+    "nicotine resinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicotine-resinate.json"
+    },
+    "nicotine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicotine.json"
+    },
+    "nicotinic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nicotinic-acid.json"
+    },
+    "nifedipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nifedipine.json"
+    },
+    "niflumic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\niflumic-acid.json"
+    },
+    "nifuroxazide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nifuroxazide.json"
+    },
+    "nikethamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nikethamide.json"
+    },
+    "nilotinib hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nilotinib-hydrochloride-monohydrate.json"
+    },
+    "nilutamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nilutamide.json"
+    },
+    "nimesulide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nimesulide.json"
+    },
+    "nimodipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nimodipine.json"
+    },
+    "nitrazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrazepam.json"
+    },
+    "nitrendipine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrendipine.json"
+    },
+    "nitric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitric-acid.json"
+    },
+    "nitric oxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitric-oxide.json"
+    },
+    "nitrofurantoin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrofurantoin.json"
+    },
+    "nitrofurazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrofurazone.json"
+    },
+    "nitrogen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrogen.json"
+    },
+    "nitrous oxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nitrous-oxide.json"
+    },
+    "nizatidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nizatidine.json"
+    },
+    "nomegestrol acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nomegestrol-acetate.json"
+    },
+    "nonoxinol 9": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nonoxinol-9.json"
+    },
+    "noradrenaline acid tartrate / norepinephrine acid tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\noradrenaline-acid-tartrate---norepinephrine-acid-tartrate.json"
+    },
+    "noradrenaline hydrochloride / norepinephrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\noradrenaline-hydrochloride---norepinephrine-hydrochloride.json"
+    },
+    "norethisterone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norethisterone-acetate.json"
+    },
+    "norethisterone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norethisterone.json"
+    },
+    "norfloxacin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norfloxacin.json"
+    },
+    "norflurane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norflurane.json"
+    },
+    "norgestimate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norgestimate.json"
+    },
+    "norgestrel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\norgestrel.json"
+    },
+    "nortriptyline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nortriptyline-hydrochloride.json"
+    },
+    "noscapine hydrochloride hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\noscapine-hydrochloride-hydrate.json"
+    },
+    "noscapine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\noscapine.json"
+    },
+    "nystatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\nystatin.json"
+    },
+    "octanoic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\octanoic-acid.json"
+    },
+    "octoxinol 10": {
+      "bp": "pharmacopoeia_db\\BP\\json\\octoxinol-10.json"
+    },
+    "octreotide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\octreotide.json"
+    },
+    "octyl gallate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\octyl-gallate.json"
+    },
+    "octyldodecanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\octyldodecanol.json"
+    },
+    "ofloxacin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ofloxacin.json"
+    },
+    "olanzapine embonate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\olanzapine-embonate-monohydrate.json"
+    },
+    "olanzapine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\olanzapine.json"
+    },
+    "oleic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oleic-acid.json"
+    },
+    "oleoyl macrogolglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oleoyl-macrogolglycerides.json"
+    },
+    "oleyl alcohol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oleyl-alcohol.json"
+    },
+    "olmesartan medoxomil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\olmesartan-medoxomil.json"
+    },
+    "olsalazine sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\olsalazine-sodium.json"
+    },
+    "omega-3-acid ethyl esters 60": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omega-3-acid-ethyl-esters-60.json"
+    },
+    "omega-3-acid ethyl esters 90": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omega-3-acid-ethyl-esters-90.json"
+    },
+    "omega-3-marine triglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omega-3-marine-triglycerides.json"
+    },
+    "omeprazole magnesium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omeprazole-magnesium.json"
+    },
+    "omeprazole sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omeprazole-sodium.json"
+    },
+    "omeprazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\omeprazole.json"
+    },
+    "ondansetron hydrochloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ondansetron-hydrochloride-dihydrate.json"
+    },
+    "orciprenaline sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\orciprenaline-sulfate.json"
+    },
+    "orphenadrine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\orphenadrine-citrate.json"
+    },
+    "orphenadrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\orphenadrine-hydrochloride.json"
+    },
+    "oseltamivir phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oseltamivir-phosphate.json"
+    },
+    "ouabain": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ouabain.json"
+    },
+    "oxacillin sodium monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxacillin-sodium-monohydrate.json"
+    },
+    "oxaliplatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxaliplatin.json"
+    },
+    "oxazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxazepam.json"
+    },
+    "oxcarbazepine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxcarbazepine.json"
+    },
+    "oxeladin hydrogen citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxeladin-hydrogen-citrate.json"
+    },
+    "oxetacaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxetacaine.json"
+    },
+    "oxitropium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxitropium-bromide.json"
+    },
+    "oxolinic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxolinic-acid.json"
+    },
+    "oxybuprocaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxybuprocaine-hydrochloride.json"
+    },
+    "oxybutynin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxybutynin-hydrochloride.json"
+    },
+    "oxycodone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxycodone-hydrochloride.json"
+    },
+    "oxygen (93 per cent)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxygen--93-per-cent-.json"
+    },
+    "oxygen": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxygen.json"
+    },
+    "oxymetazoline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxymetazoline-hydrochloride.json"
+    },
+    "oxytetracycline calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxytetracycline-calcium.json"
+    },
+    "oxytetracycline dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxytetracycline-dihydrate.json"
+    },
+    "oxytetracycline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxytetracycline-hydrochloride.json"
+    },
+    "oxytocin concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxytocin-concentrated-solution.json"
+    },
+    "oxytocin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\oxytocin.json"
+    },
+    "paclitaxel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\paclitaxel.json"
+    },
+    "palmitic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\palmitic-acid.json"
+    },
+    "pamidronate disodium pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pamidronate-disodium-pentahydrate.json"
+    },
+    "pancreatic extract": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pancreatic-extract.json"
+    },
+    "pancreatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pancreatin.json"
+    },
+    "pancuronium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pancuronium-bromide.json"
+    },
+    "pantoprazole sodium sesquihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pantoprazole-sodium-sesquihydrate.json"
+    },
+    "papaverine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\papaverine-hydrochloride.json"
+    },
+    "paracetamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\paracetamol.json"
+    },
+    "paraldehyde": {
+      "bp": "pharmacopoeia_db\\BP\\json\\paraldehyde.json"
+    },
+    "parnaparin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\parnaparin-sodium.json"
+    },
+    "paroxetine hydrochloride hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\paroxetine-hydrochloride-hemihydrate.json"
+    },
+    "paroxetine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\paroxetine-hydrochloride.json"
+    },
+    "partially dehydrated liquid sorbitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\partially-dehydrated-liquid-sorbitol.json"
+    },
+    "partially hydrated magnesium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\partially-hydrated-magnesium-chloride.json"
+    },
+    "pea starch": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pea-starch.json"
+    },
+    "pefloxacin mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pefloxacin-mesilate.json"
+    },
+    "pemetrexed disodium 2.5-hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pemetrexed-disodium-2-5-hydrate.json"
+    },
+    "pemetrexed disodium heptahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pemetrexed-disodium-heptahydrate.json"
+    },
+    "penbutolol sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\penbutolol-sulfate.json"
+    },
+    "penicillamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\penicillamine.json"
+    },
+    "pentamidine isetionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentamidine-isetionate.json"
+    },
+    "pentazocine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentazocine-hydrochloride.json"
+    },
+    "pentazocine lactate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentazocine-lactate.json"
+    },
+    "pentazocine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentazocine.json"
+    },
+    "pentobarbital sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentobarbital-sodium.json"
+    },
+    "pentobarbital": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentobarbital.json"
+    },
+    "pentoxifylline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentoxifylline.json"
+    },
+    "pentoxyverine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pentoxyverine-citrate.json"
+    },
+    "pepsin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pepsin.json"
+    },
+    "pergolide mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pergolide-mesilate.json"
+    },
+    "perindopril erbumine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\perindopril-erbumine.json"
+    },
+    "permethrin (25:75)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\permethrin--25-75-.json"
+    },
+    "perphenazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\perphenazine.json"
+    },
+    "pethidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pethidine-hydrochloride.json"
+    },
+    "phenazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenazone.json"
+    },
+    "phenelzine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenelzine-sulfate.json"
+    },
+    "phenindione": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenindione.json"
+    },
+    "pheniramine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pheniramine-maleate.json"
+    },
+    "phenobarbital sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenobarbital-sodium.json"
+    },
+    "phenobarbital": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenobarbital.json"
+    },
+    "phenol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenol.json"
+    },
+    "phenolphthalein": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenolphthalein.json"
+    },
+    "phenolsulfonphthalein": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenolsulfonphthalein.json"
+    },
+    "phenoxybenzamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenoxybenzamine-hydrochloride.json"
+    },
+    "phenoxyethanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenoxyethanol.json"
+    },
+    "phenoxymethylpenicillin (benzathine) tetrahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenoxymethylpenicillin--benzathine--tetrahydrate.json"
+    },
+    "phenoxymethylpenicillin potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenoxymethylpenicillin-potassium.json"
+    },
+    "phenoxymethylpenicillin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenoxymethylpenicillin.json"
+    },
+    "phentolamine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phentolamine-mesilate.json"
+    },
+    "phenylalanine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylalanine.json"
+    },
+    "phenylbutazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylbutazone.json"
+    },
+    "phenylephrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylephrine-hydrochloride.json"
+    },
+    "phenylephrine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylephrine.json"
+    },
+    "phenylmercuric acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylmercuric-acetate.json"
+    },
+    "phenylmercuric borate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylmercuric-borate.json"
+    },
+    "phenylmercuric nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylmercuric-nitrate.json"
+    },
+    "phenylpropanolamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenylpropanolamine-hydrochloride.json"
+    },
+    "phenytoin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenytoin-sodium.json"
+    },
+    "phenytoin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phenytoin.json"
+    },
+    "phloroglucinol dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phloroglucinol-dihydrate.json"
+    },
+    "phloroglucinol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phloroglucinol.json"
+    },
+    "pholcodine monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pholcodine-monohydrate.json"
+    },
+    "phosphoric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phosphoric-acid.json"
+    },
+    "phthalylsulfathiazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phthalylsulfathiazole.json"
+    },
+    "physostigmine salicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\physostigmine-salicylate.json"
+    },
+    "phytosterol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\phytosterol.json"
+    },
+    "picotamide monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\picotamide-monohydrate.json"
+    },
+    "pilocarpine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pilocarpine-hydrochloride.json"
+    },
+    "pilocarpine nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pilocarpine-nitrate.json"
+    },
+    "pimozide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pimozide.json"
+    },
+    "pindolol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pindolol.json"
+    },
+    "pioglitazone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pioglitazone-hydrochloride.json"
+    },
+    "pipemidic acid trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pipemidic-acid-trihydrate.json"
+    },
+    "piperacillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperacillin-sodium.json"
+    },
+    "piperacillin monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperacillin.json"
+    },
+    "piperazine adipate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperazine-adipate.json"
+    },
+    "piperazine citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperazine-citrate.json"
+    },
+    "piperazine hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperazine-hydrate.json"
+    },
+    "piperazine phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piperazine-phosphate.json"
+    },
+    "piracetam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piracetam.json"
+    },
+    "pirenzepine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pirenzepine-hydrochloride.json"
+    },
+    "piretanide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piretanide.json"
+    },
+    "pirfenidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pirfenidone.json"
+    },
+    "piroxicam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\piroxicam.json"
+    },
+    "pivampicillin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pivampicillin.json"
+    },
+    "pivmecillinam hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pivmecillinam-hydrochloride.json"
+    },
+    "pizotifen malate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pizotifen-malate.json"
+    },
+    "podophyllotoxin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\podophyllotoxin.json"
+    },
+    "pollens for allergen products": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pollens-for-allergen-products.json"
+    },
+    "poloxamers": {
+      "bp": "pharmacopoeia_db\\BP\\json\\poloxamers.json"
+    },
+    "poly(vinyl acetate) dispersion 30 per cent": {
+      "bp": "pharmacopoeia_db\\BP\\json\\poly-vinyl-acetate--dispersion-30-per-cent.json"
+    },
+    "poly(vinyl acetate)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\poly-vinyl-acetate-.json"
+    },
+    "poly(vinyl alcohol)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\poly-vinyl-alcohol-.json"
+    },
+    "polyacrylate dispersion (30 per cent)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polyacrylate-dispersion--30-per-cent-.json"
+    },
+    "polymyxin b sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polymyxin-b-sulfate.json"
+    },
+    "polyoxyl castor oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polyoxyl-castor-oil.json"
+    },
+    "polyoxypropylene stearyl ether": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polyoxypropylene-stearyl-ether.json"
+    },
+    "polysorbate 20": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polysorbate-20.json"
+    },
+    "polysorbate 40": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polysorbate-40.json"
+    },
+    "polysorbate 60": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polysorbate-60.json"
+    },
+    "polysorbate 801": {
+      "bp": "pharmacopoeia_db\\BP\\json\\polysorbate-801.json"
+    },
+    "porcine insulin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\porcine-insulin.json"
+    },
+    "potassium acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-acetate.json"
+    },
+    "potassium bicarbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-bicarbonate.json"
+    },
+    "potassium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-bromide.json"
+    },
+    "potassium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-carbonate.json"
+    },
+    "potassium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-chloride.json"
+    },
+    "potassium citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-citrate.json"
+    },
+    "potassium clavulanate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-clavulanate.json"
+    },
+    "potassium dihydrogen phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-dihydrogen-phosphate.json"
+    },
+    "potassium hydrogen aspartate hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-hydrogen-aspartate-hemihydrate.json"
+    },
+    "potassium hydrogen tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-hydrogen-tartrate.json"
+    },
+    "potassium hydroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-hydroxide.json"
+    },
+    "potassium hydroxyquinoline sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-hydroxyquinoline-sulfate.json"
+    },
+    "potassium iodate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-iodate.json"
+    },
+    "potassium iodide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-iodide.json"
+    },
+    "potassium metabisulfite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-metabisulfite.json"
+    },
+    "potassium nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-nitrate.json"
+    },
+    "potassium perchlorate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-perchlorate.json"
+    },
+    "potassium permanganate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-permanganate.json"
+    },
+    "potassium sodium tartrate tetrahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-sodium-tartrate-tetrahydrate.json"
+    },
+    "potassium sorbate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-sorbate.json"
+    },
+    "potassium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potassium-sulfate.json"
+    },
+    "potato starch1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\potato-starch1.json"
+    },
+    "povidone1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\povidone1.json"
+    },
+    "powdered cellulose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\powdered-cellulose1.json"
+    },
+    "pramipexole dihydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pramipexole-dihydrochloride-monohydrate.json"
+    },
+    "prasugrel hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prasugrel-hydrochloride.json"
+    },
+    "pravastatin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pravastatin-sodium.json"
+    },
+    "prazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prazepam.json"
+    },
+    "praziquantel": {
+      "bp": "pharmacopoeia_db\\BP\\json\\praziquantel.json"
+    },
+    "prazosin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prazosin-hydrochloride.json"
+    },
+    "prednicarbate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednicarbate.json"
+    },
+    "prednisolone acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednisolone-acetate.json"
+    },
+    "prednisolone pivalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednisolone-pivalate.json"
+    },
+    "prednisolone sodium phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednisolone-sodium-phosphate.json"
+    },
+    "prednisolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednisolone.json"
+    },
+    "prednisone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prednisone.json"
+    },
+    "pregabalin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pregabalin.json"
+    },
+    "pregelatinised hydroxypropyl starch": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pregelatinised-hydroxypropyl-starch.json"
+    },
+    "pregelatinised starch": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pregelatinised-starch.json"
+    },
+    "prilocaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prilocaine-hydrochloride.json"
+    },
+    "prilocaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prilocaine.json"
+    },
+    "primaquine phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\primaquine-phosphate.json"
+    },
+    "primidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\primidone.json"
+    },
+    "probenecid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\probenecid.json"
+    },
+    "procainamide hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\procainamide-hydrochloride.json"
+    },
+    "benzylpenicillin (procaine) monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\procaine-benzylpenicillin.json"
+    },
+    "procaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\procaine-hydrochloride.json"
+    },
+    "prochlorperazine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prochlorperazine-maleate.json"
+    },
+    "prochlorperazine mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\prochlorperazine-mesilate.json"
+    },
+    "procyclidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\procyclidine-hydrochloride.json"
+    },
+    "products of fermentation": {
+      "bp": "pharmacopoeia_db\\BP\\json\\products-of-fermentation.json"
+    },
+    "products of recombinant dna technology": {
+      "bp": "pharmacopoeia_db\\BP\\json\\products-of-recombinant-dna-technology.json"
+    },
+    "products with risk of transmitting agents of animal spongiform encephalopathies": {
+      "bp": "pharmacopoeia_db\\BP\\json\\products-with-risk-of-transmitting-agents-of-animal-spongiform-e.json"
+    },
+    "progesterone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\progesterone.json"
+    },
+    "proguanil hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\proguanil-hydrochloride.json"
+    },
+    "proline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\proline.json"
+    },
+    "promazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\promazine-hydrochloride.json"
+    },
+    "promethazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\promethazine-hydrochloride.json"
+    },
+    "promethazine teoclate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\promethazine-teoclate.json"
+    },
+    "propacetamol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propacetamol-hydrochloride.json"
+    },
+    "propafenone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propafenone-hydrochloride.json"
+    },
+    "propanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propanol.json"
+    },
+    "propantheline bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propantheline-bromide.json"
+    },
+    "propofol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propofol.json"
+    },
+    "propranolol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propranolol-hydrochloride.json"
+    },
+    "propyl gallate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propyl-gallate.json"
+    },
+    "propyl hydroxybenzoate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propyl-hydroxybenzoate.json"
+    },
+    "propylene glycol dicaprylocaprate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol-dicaprylocaprate.json"
+    },
+    "propylene glycol dilaurate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol-dilaurate.json"
+    },
+    "propylene glycol monocaprylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol-monocaprylate.json"
+    },
+    "propylene glycol monolaurate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol-monolaurate.json"
+    },
+    "propylene glycol monopalmitostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol-monopalmitostearate.json"
+    },
+    "propylene glycol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylene-glycol.json"
+    },
+    "propylthiouracil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propylthiouracil.json"
+    },
+    "propyphenazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\propyphenazone.json"
+    },
+    "protamine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\protamine-sulfate.json"
+    },
+    "protirelin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\protirelin.json"
+    },
+    "protriptyline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\protriptyline-hydrochloride.json"
+    },
+    "proxymetacaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\proxymetacaine-hydrochloride.json"
+    },
+    "proxyphylline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\proxyphylline.json"
+    },
+    "pseudoephedrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pseudoephedrine-hydrochloride.json"
+    },
+    "pullulan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pullulan.json"
+    },
+    "purified talc1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\purified-talc.json"
+    },
+    "purified water": {
+      "bp": "pharmacopoeia_db\\BP\\json\\purified-water.json"
+    },
+    "pyrantel embonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyrantel-embonate.json"
+    },
+    "pyrazinamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyrazinamide.json"
+    },
+    "pyridostigmine bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyridostigmine-bromide.json"
+    },
+    "pyridoxine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyridoxine-hydrochloride.json"
+    },
+    "pyrimethamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyrimethamine.json"
+    },
+    "pyroxylin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyroxylin.json"
+    },
+    "pyrrolidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\pyrrolidone.json"
+    },
+    "quetiapine fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quetiapine-fumarate.json"
+    },
+    "quinapril hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinapril-hydrochloride.json"
+    },
+    "quinidine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinidine-sulfate.json"
+    },
+    "quinine bisulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinine-bisulfate.json"
+    },
+    "quinine dihydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinine-dihydrochloride.json"
+    },
+    "quinine hydrochloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinine-hydrochloride.json"
+    },
+    "quinine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\quinine-sulfate.json"
+    },
+    "rabeprazole sodium hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rabeprazole-sodium-hydrate.json"
+    },
+    "rabeprazole sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rabeprazole-sodium.json"
+    },
+    "racecadotril": {
+      "bp": "pharmacopoeia_db\\BP\\json\\racecadotril.json"
+    },
+    "racementhol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\racementhol.json"
+    },
+    "racemic camphor": {
+      "bp": "pharmacopoeia_db\\BP\\json\\racemic-camphor.json"
+    },
+    "phytomenadione": {
+      "bp": "pharmacopoeia_db\\BP\\json\\racemic-phytomenadione.json"
+    },
+    "racephedrine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\racephedrine-hydrochloride.json"
+    },
+    "raloxifene hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\raloxifene-hydrochloride.json"
+    },
+    "raltegravir potassium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\raltegravir-potassium.json"
+    },
+    "ramipril": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ramipril.json"
+    },
+    "ranitidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ranitidine-hydrochloride.json"
+    },
+    "refined almond oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-almond-oil.json"
+    },
+    "refined borage oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-borage-oil.json"
+    },
+    "refined castor oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-castor-oil.json"
+    },
+    "refined evening primrose oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-evening-primrose-oil.json"
+    },
+    "refined maize oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-maize-oil.json"
+    },
+    "refined olive oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-olive-oil.json"
+    },
+    "refined rapeseed oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-rapeseed-oil.json"
+    },
+    "refined safflower oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-safflower-oil.json"
+    },
+    "refined sesame oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-sesame-oil.json"
+    },
+    "refined soya oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-soya-oil.json"
+    },
+    "refined sunflower oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-sunflower-oil.json"
+    },
+    "refined wheat-germ oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\refined-wheat-germ-oil.json"
+    },
+    "regorafenib monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\regorafenib-monohydrate.json"
+    },
+    "remifentanil hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\remifentanil-hydrochloride.json"
+    },
+    "repaglinide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\repaglinide.json"
+    },
+    "reserpine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\reserpine.json"
+    },
+    "resorcinol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\resorcinol.json"
+    },
+    "ribavirin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ribavirin.json"
+    },
+    "riboflavin sodium phosphate hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\riboflavin-sodium-phosphate.json"
+    },
+    "riboflavin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\riboflavin.json"
+    },
+    "rice starch1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rice-starch1.json"
+    },
+    "rifabutin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rifabutin.json"
+    },
+    "rifampicin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rifampicin.json"
+    },
+    "rifamycin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rifamycin-sodium.json"
+    },
+    "rifaximin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rifaximin.json"
+    },
+    "rilmenidine dihydrogen phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rilmenidine-dihydrogen-phosphate.json"
+    },
+    "riociguat": {
+      "bp": "pharmacopoeia_db\\BP\\json\\riociguat.json"
+    },
+    "risedronate sodium 2.5-hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\risedronate-sodium-2-5-hydrate.json"
+    },
+    "risperidone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\risperidone.json"
+    },
+    "ritonavir": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ritonavir.json"
+    },
+    "rivaroxaban": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rivaroxaban.json"
+    },
+    "rivastigmine hydrogen tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rivastigmine-hydrogen-tartrate.json"
+    },
+    "rivastigmine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rivastigmine.json"
+    },
+    "rizatriptan benzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rizatriptan-benzoate.json"
+    },
+    "rocuronium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rocuronium-bromide.json"
+    },
+    "ropinirole hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ropinirole-hydrochloride.json"
+    },
+    "ropivacaine hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ropivacaine-hydrochloride-monohydrate.json"
+    },
+    "rosuvastatin calcium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rosuvastatin-calcium.json"
+    },
+    "rotigotine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rotigotine.json"
+    },
+    "roxithromycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\roxithromycin.json"
+    },
+    "rrr-alpha-tocopherol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rrr-alpha-tocopherol.json"
+    },
+    "rrr-alpha-tocopheryl acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rrr-alpha-tocopheryl-acetate.json"
+    },
+    "rrr-alpha-tocopheryl hydrogen succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rrr-alpha-tocopheryl-hydrogen-succinate.json"
+    },
+    "rupatadine fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rupatadine-fumarate.json"
+    },
+    "rutoside trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\rutoside-trihydrate.json"
+    },
+    "saccharin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\saccharin-sodium1.json"
+    },
+    "saccharin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\saccharin1.json"
+    },
+    "salbutamol sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\salbutamol-sulfate.json"
+    },
+    "salbutamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\salbutamol.json"
+    },
+    "salicylic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\salicylic-acid.json"
+    },
+    "salmeterol xinafoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\salmeterol-xinafoate.json"
+    },
+    "saquinavir mesilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\saquinavir-mesilate.json"
+    },
+    "saxagliptin monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\saxagliptin-monohydrate.json"
+    },
+    "selegiline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\selegiline-hydrochloride.json"
+    },
+    "selenium sulfide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\selenium-sulfide.json"
+    },
+    "self emulsifying glyceryl monostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\self-emulsifying-glyceryl-monostearate.json"
+    },
+    "serine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\serine.json"
+    },
+    "sertaconazole nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sertaconazole-nitrate.json"
+    },
+    "sertraline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sertraline-hydrochloride.json"
+    },
+    "sevoflurane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sevoflurane.json"
+    },
+    "shellac": {
+      "bp": "pharmacopoeia_db\\BP\\json\\shellac.json"
+    },
+    "sildenafil citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sildenafil-citrate.json"
+    },
+    "silver nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\silver-nitrate.json"
+    },
+    "simeticone for oral use": {
+      "bp": "pharmacopoeia_db\\BP\\json\\simeticone-for-oral-use.json"
+    },
+    "simeticone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\simeticone.json"
+    },
+    "simvastatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\simvastatin.json"
+    },
+    "sitagliptin phosphate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sitagliptin-phosphate-monohydrate.json"
+    },
+    "soda lime": {
+      "bp": "pharmacopoeia_db\\BP\\json\\soda-lime.json"
+    },
+    "sodium (s)-lactate solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium--s--lactate-solution.json"
+    },
+    "sodium acetate trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-acetate-trihydrate.json"
+    },
+    "sodium acid citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-acid-citrate.json"
+    },
+    "sodium alendronate trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-alendronate-trihydrate.json"
+    },
+    "sodium alginate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-alginate.json"
+    },
+    "sodium amidotrizoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-amidotrizoate.json"
+    },
+    "sodium aminosalicylate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-aminosalicylate-dihydrate.json"
+    },
+    "sodium ascorbate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-ascorbate.json"
+    },
+    "sodium aurothiomalate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-aurothiomalate.json"
+    },
+    "sodium benzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-benzoate.json"
+    },
+    "sodium bicarbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-bicarbonate.json"
+    },
+    "sodium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-bromide.json"
+    },
+    "sodium butyl hydroxybenzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-butyl-hydroxybenzoate.json"
+    },
+    "sodium calcium edetate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-calcium-edetate.json"
+    },
+    "sodium caprylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-caprylate.json"
+    },
+    "sodium carbonate decahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-carbonate-decahydrate.json"
+    },
+    "sodium carbonate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-carbonate-monohydrate.json"
+    },
+    "sodium carbonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-carbonate.json"
+    },
+    "sodium cetostearyl sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-cetostearyl-sulfate.json"
+    },
+    "sodium chloride1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-chloride1.json"
+    },
+    "sodium citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-citrate.json"
+    },
+    "sodium clodronate tetrahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-clodronate-tetrahydrate.json"
+    },
+    "sodium cromoglicate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-cromoglicate.json"
+    },
+    "sodium cyclamate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-cyclamate.json"
+    },
+    "sodium dihydrogen phosphate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-dihydrogen-phosphate-dihydrate.json"
+    },
+    "sodium dihydrogen phosphate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-dihydrogen-phosphate-monohydrate.json"
+    },
+    "sodium dihydrogen phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-dihydrogen-phosphate.json"
+    },
+    "sodium feredetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-feredetate.json"
+    },
+    "sodium fluoride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-fluoride.json"
+    },
+    "sodium fusidate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-fusidate.json"
+    },
+    "sodium hyaluronate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-hyaluronate.json"
+    },
+    "sodium hydroxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-hydroxide.json"
+    },
+    "sodium iodide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-iodide.json"
+    },
+    "sodium lactate solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-lactate-solution.json"
+    },
+    "sodium lauroylsarcosinate for external use": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-lauroylsarcosinate-for-external-use.json"
+    },
+    "sodium lauryl sulfate1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-lauryl-sulfate1.json"
+    },
+    "sodium metabisulfite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-metabisulfite.json"
+    },
+    "sodium methyl hydroxybenzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-methyl-hydroxybenzoate.json"
+    },
+    "sodium molybdate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-molybdate-dihydrate.json"
+    },
+    "sodium nitrite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-nitrite.json"
+    },
+    "sodium nitroprusside": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-nitroprusside.json"
+    },
+    "sodium perborate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-perborate.json"
+    },
+    "sodium phenylbutyrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-phenylbutyrate.json"
+    },
+    "sodium picosulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-picosulfate.json"
+    },
+    "sodium polystyrene sulfonate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-polystyrene-sulfonate.json"
+    },
+    "sodium propionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-propionate.json"
+    },
+    "sodium propyl hydroxybenzoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-propyl-hydroxybenzoate.json"
+    },
+    "sodium salicylate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-salicylate.json"
+    },
+    "sodium selenite pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-selenite-pentahydrate.json"
+    },
+    "sodium selenite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-selenite.json"
+    },
+    "sodium starch glycolate (type a)1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-starch-glycolate--type-a-1.json"
+    },
+    "sodium starch glycolate (type b)1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-starch-glycolate--type-b-1.json"
+    },
+    "sodium starch glycolate (type c)1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-starch-glycolate--type-c-1.json"
+    },
+    "sodium stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-stearate.json"
+    },
+    "sodium stearyl fumarate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-stearyl-fumarate.json"
+    },
+    "sodium stibogluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-stibogluconate.json"
+    },
+    "sodium sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-sulfate.json"
+    },
+    "sodium sulfite heptahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-sulfite-heptahydrate.json"
+    },
+    "sodium sulfite": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-sulfite.json"
+    },
+    "sodium tetradecyl sulfate concentrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-tetradecyl-sulfate-concentrate.json"
+    },
+    "sodium thiosulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-thiosulfate.json"
+    },
+    "sodium valproate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sodium-valproate.json"
+    },
+    "soft soap": {
+      "bp": "pharmacopoeia_db\\BP\\json\\soft-soap.json"
+    },
+    "solifenacin succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\solifenacin-succinate.json"
+    },
+    "somatostatin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\somatostatin.json"
+    },
+    "somatropin concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\somatropin-concentrated-solution.json"
+    },
+    "somatropin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\somatropin.json"
+    },
+    "sorafenib tosilate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorafenib-tosilate.json"
+    },
+    "sorbic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbic-acid.json"
+    },
+    "sorbitan laurate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-laurate.json"
+    },
+    "sorbitan oleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-oleate.json"
+    },
+    "sorbitan palmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-palmitate.json"
+    },
+    "sorbitan sesquioleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-sesquioleate.json"
+    },
+    "sorbitan stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-stearate.json"
+    },
+    "sorbitan trioleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitan-trioleate.json"
+    },
+    "sorbitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sorbitol.json"
+    },
+    "sotalol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sotalol-hydrochloride.json"
+    },
+    "spectinomycin dihydrochloride pentahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\spectinomycin-dihydrochloride-pentahydrate.json"
+    },
+    "spirapril hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\spirapril-hydrochloride-monohydrate.json"
+    },
+    "spironolactone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\spironolactone.json"
+    },
+    "acacia, dried dispersion": {
+      "bp": "pharmacopoeia_db\\BP\\json\\spray-dried-acacia.json"
+    },
+    "spray-dried liquid glucose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\spray-dried-liquid-glucose.json"
+    },
+    "squalane": {
+      "bp": "pharmacopoeia_db\\BP\\json\\squalane.json"
+    },
+    "squalene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\squalene.json"
+    },
+    "stannous chloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stannous-chloride-dihydrate.json"
+    },
+    "stanozolol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stanozolol.json"
+    },
+    "stavudine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stavudine.json"
+    },
+    "stearic acid1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stearic-acid1.json"
+    },
+    "stearoyl macrogolglycerides": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stearoyl-macrogolglycerides.json"
+    },
+    "stearyl alcohol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\stearyl-alcohol.json"
+    },
+    "streptokinase concentrated solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\streptokinase-concentrated-solution.json"
+    },
+    "streptomycin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\streptomycin-sulfate.json"
+    },
+    "strong ammonia solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\strong-ammonia-solution.json"
+    },
+    "strong cetrimide solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\strong-cetrimide-solution.json"
+    },
+    "strong glutaraldehyde solution": {
+      "bp": "pharmacopoeia_db\\BP\\json\\strong-glutaraldehyde-solution.json"
+    },
+    "substances for pharmaceutical use": {
+      "bp": "pharmacopoeia_db\\BP\\json\\substances-for-pharmaceutical-use.json"
+    },
+    "sucralfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sucralfate.json"
+    },
+    "sucralose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sucralose.json"
+    },
+    "sucrose monopalmitate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sucrose-monopalmitate.json"
+    },
+    "sucrose stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sucrose-stearate.json"
+    },
+    "sucrose1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sucrose1.json"
+    },
+    "sufentanil citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sufentanil-citrate.json"
+    },
+    "sufentanil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sufentanil.json"
+    },
+    "sugar spheres": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sugar-spheres.json"
+    },
+    "sulbactam sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulbactam-sodium.json"
+    },
+    "sulfacetamide sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfacetamide-sodium.json"
+    },
+    "sulfadiazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfadiazine.json"
+    },
+    "sulfadimethoxin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfadimethoxin.json"
+    },
+    "sulfadoxine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfadoxine.json"
+    },
+    "sulfafurazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfafurazole.json"
+    },
+    "sulfaguanidine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfaguanidine.json"
+    },
+    "sulfamethizole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfamethizole.json"
+    },
+    "sulfamethoxazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfamethoxazole.json"
+    },
+    "sulfasalazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfasalazine.json"
+    },
+    "sulfathiazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfathiazole.json"
+    },
+    "sulfinpyrazone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfinpyrazone.json"
+    },
+    "sulfobutylbetadex sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfobutylbetadex-sodium.json"
+    },
+    "sulfur": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfur-for-external-use.json"
+    },
+    "sulfuric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulfuric-acid.json"
+    },
+    "sulindac": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulindac.json"
+    },
+    "sulpiride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sulpiride.json"
+    },
+    "sultamicillin tosilate dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sultamicillin-tosilate-dihydrate.json"
+    },
+    "sultamicillin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sultamicillin.json"
+    },
+    "sumatriptan succinate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sumatriptan-succinate.json"
+    },
+    "sumatriptan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\sumatriptan.json"
+    },
+    "suxamethonium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\suxamethonium-chloride.json"
+    },
+    "suxibuzone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\suxibuzone.json"
+    },
+    "synthetic air": {
+      "bp": "pharmacopoeia_db\\BP\\json\\synthetic-air.json"
+    },
+    "synthetic retinol concentrate (oily form)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\synthetic-retinol-concentrate--oily-form-.json"
+    },
+    "synthetic retinol concentrate (powder form)": {
+      "bp": "pharmacopoeia_db\\BP\\json\\synthetic-retinol-concentrate--powder-form-.json"
+    },
+    "synthetic retinol concentrate, solubilisate/emulsion": {
+      "bp": "pharmacopoeia_db\\BP\\json\\synthetic-retinol-concentrate--solubilisate-emulsion.json"
+    },
+    "tacalcitol monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tacalcitol-monohydrate.json"
+    },
+    "tacrolimus monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tacrolimus-monohydrate.json"
+    },
+    "tadalafil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tadalafil.json"
+    },
+    "tamoxifen citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tamoxifen-citrate.json"
+    },
+    "tamsulosin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tamsulosin-hydrochloride.json"
+    },
+    "tannic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tannic-acid.json"
+    },
+    "tapentadol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tapentadol-hydrochloride.json"
+    },
+    "tapioca starch": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tapioca-starch.json"
+    },
+    "tar": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tar.json"
+    },
+    "tartaric acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tartaric-acid.json"
+    },
+    "teicoplanin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\teicoplanin.json"
+    },
+    "telmisartan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\telmisartan.json"
+    },
+    "temazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\temazepam.json"
+    },
+    "temozolomide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\temozolomide.json"
+    },
+    "tenoxicam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tenoxicam.json"
+    },
+    "terazosin hydrochloride dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terazosin-hydrochloride-dihydrate.json"
+    },
+    "terbinafine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terbinafine-hydrochloride.json"
+    },
+    "terbutaline sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terbutaline-sulfate.json"
+    },
+    "terconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terconazole.json"
+    },
+    "terfenadine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terfenadine.json"
+    },
+    "teriflunomide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\teriflunomide.json"
+    },
+    "teriparatide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\teriparatide.json"
+    },
+    "terlipressin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terlipressin.json"
+    },
+    "terpin monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terpin-monohydrate.json"
+    },
+    "terpineol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\terpineol.json"
+    },
+    "testosterone decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\testosterone-decanoate.json"
+    },
+    "testosterone enantate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\testosterone-enantate.json"
+    },
+    "testosterone isocaproate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\testosterone-isocaproate.json"
+    },
+    "testosterone propionate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\testosterone-propionate.json"
+    },
+    "testosterone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\testosterone.json"
+    },
+    "tetracaine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetracaine-hydrochloride.json"
+    },
+    "tetracaine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetracaine.json"
+    },
+    "tetracosactide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetracosactide.json"
+    },
+    "tetracycline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetracycline-hydrochloride.json"
+    },
+    "tetracycline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetracycline.json"
+    },
+    "tetrazepam": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetrazepam.json"
+    },
+    "tetryzoline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tetryzoline-hydrochloride.json"
+    },
+    "theophylline hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\theophylline-hydrate.json"
+    },
+    "theophylline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\theophylline.json"
+    },
+    "thiamazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiamazole.json"
+    },
+    "thiamine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiamine-hydrochloride.json"
+    },
+    "thiamine nitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiamine-nitrate.json"
+    },
+    "thiamphenicol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiamphenicol.json"
+    },
+    "thiocolchicoside crystallised from ethanol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiocolchicoside-crystallised-from-ethanol.json"
+    },
+    "thiocolchicoside hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiocolchicoside-hydrate.json"
+    },
+    "thioctic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thioctic-acid.json"
+    },
+    "thiomersal": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiomersal.json"
+    },
+    "thiopental sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiopental-sodium.json"
+    },
+    "thioridazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thioridazine-hydrochloride.json"
+    },
+    "thioridazine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thioridazine.json"
+    },
+    "thiotepa": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thiotepa.json"
+    },
+    "threonine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\threonine.json"
+    },
+    "thymol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\thymol.json"
+    },
+    "tiabendazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tiabendazole.json"
+    },
+    "tianeptine sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tianeptine-sodium.json"
+    },
+    "tiapride hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tiapride-hydrochloride.json"
+    },
+    "tiaprofenic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tiaprofenic-acid.json"
+    },
+    "tibolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tibolone.json"
+    },
+    "ticagrelor": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ticagrelor.json"
+    },
+    "ticarcillin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ticarcillin-sodium.json"
+    },
+    "ticlopidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ticlopidine-hydrochloride.json"
+    },
+    "tigecycline": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tigecycline.json"
+    },
+    "tilidine hydrochloride hemihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tilidine-hydrochloride-hemihydrate.json"
+    },
+    "timolol maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\timolol-maleate.json"
+    },
+    "tinidazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tinidazole.json"
+    },
+    "tinzaparin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tinzaparin-sodium.json"
+    },
+    "tioconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tioconazole.json"
+    },
+    "tioguanine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tioguanine.json"
+    },
+    "tiotropium bromide monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tiotropium-bromide-monohydrate.json"
+    },
+    "titanium dioxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\titanium-dioxide.json"
+    },
+    "tizanidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tizanidine-hydrochloride.json"
+    },
+    "tobramycin sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tobramycin-sulfate.json"
+    },
+    "tobramycin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tobramycin.json"
+    },
+    "tolbutamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tolbutamide.json"
+    },
+    "tolfenamic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tolfenamic-acid.json"
+    },
+    "tolnaftate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tolnaftate.json"
+    },
+    "tolterodine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tolterodine-tartrate.json"
+    },
+    "topiramate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\topiramate.json"
+    },
+    "torasemide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\torasemide.json"
+    },
+    "tosylchloramide sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tosylchloramide-sodium.json"
+    },
+    "tragacanth": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tragacanth.json"
+    },
+    "tramadol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tramadol-hydrochloride.json"
+    },
+    "tramazoline hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tramazoline-hydrochloride-monohydrate.json"
+    },
+    "trandolapril": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trandolapril.json"
+    },
+    "tranexamic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tranexamic-acid.json"
+    },
+    "tranylcypromine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tranylcypromine-sulfate.json"
+    },
+    "trapidil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trapidil.json"
+    },
+    "trazodone hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trazodone-hydrochloride.json"
+    },
+    "trehalose dihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trehalose-dihydrate.json"
+    },
+    "tretinoin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tretinoin.json"
+    },
+    "triacetin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triacetin.json"
+    },
+    "triamcinolone acetonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triamcinolone-acetonide.json"
+    },
+    "triamcinolone hexacetonide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triamcinolone-hexacetonide.json"
+    },
+    "triamcinolone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triamcinolone.json"
+    },
+    "triamterene": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triamterene.json"
+    },
+    "tribenoside": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tribenoside.json"
+    },
+    "tributyl acetylcitrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tributyl-acetylcitrate.json"
+    },
+    "tributyl phosphate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tributyl-phosphate.json"
+    },
+    "trichloroacetic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trichloroacetic-acid.json"
+    },
+    "triclofos sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triclofos-sodium.json"
+    },
+    "triethanolamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triethanolamine.json"
+    },
+    "triethyl citrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triethyl-citrate.json"
+    },
+    "trifluoperazine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trifluoperazine-hydrochloride.json"
+    },
+    "trifluridine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trifluridine.json"
+    },
+    "triflusal": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triflusal.json"
+    },
+    "triglycerol diisostearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triglycerol-diisostearate.json"
+    },
+    "trimebutine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trimebutine-maleate.json"
+    },
+    "trimetazidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trimetazidine-hydrochloride.json"
+    },
+    "trimethadione": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trimethadione.json"
+    },
+    "trimethoprim": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trimethoprim.json"
+    },
+    "trimipramine maleate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trimipramine-maleate.json"
+    },
+    "triprolidine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\triprolidine-hydrochloride.json"
+    },
+    "trometamol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trometamol.json"
+    },
+    "tropicamide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tropicamide.json"
+    },
+    "tropisetron hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tropisetron-hydrochloride.json"
+    },
+    "trospium chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trospium-chloride.json"
+    },
+    "troxerutin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\troxerutin.json"
+    },
+    "trypsin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\trypsin.json"
+    },
+    "tryptophan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tryptophan.json"
+    },
+    "tyrosine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tyrosine.json"
+    },
+    "tyrothricin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\tyrothricin.json"
+    },
+    "ubidecarenone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ubidecarenone.json"
+    },
+    "undecenoic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\undecenoic-acid.json"
+    },
+    "urea": {
+      "bp": "pharmacopoeia_db\\BP\\json\\urea.json"
+    },
+    "urofollitropin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\urofollitropin.json"
+    },
+    "urokinase": {
+      "bp": "pharmacopoeia_db\\BP\\json\\urokinase.json"
+    },
+    "ursodeoxycholic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ursodeoxycholic-acid.json"
+    },
+    "valaciclovir hydrochloride hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valaciclovir-hydrochloride--hydrated.json"
+    },
+    "valaciclovir hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valaciclovir-hydrochloride.json"
+    },
+    "valganciclovir hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valganciclovir-hydrochloride.json"
+    },
+    "valine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valine.json"
+    },
+    "valproic acid": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valproic-acid.json"
+    },
+    "valsartan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\valsartan.json"
+    },
+    "vancomycin hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vancomycin-hydrochloride.json"
+    },
+    "vanillin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vanillin.json"
+    },
+    "vardenafil hydrochloride trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vardenafil-hydrochloride-trihydrate.json"
+    },
+    "vecuronium bromide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vecuronium-bromide.json"
+    },
+    "vegetable fatty oils": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vegetable-fatty-oils.json"
+    },
+    "venlafaxine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\venlafaxine-hydrochloride.json"
+    },
+    "verapamil hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\verapamil-hydrochloride.json"
+    },
+    "vigabatrin": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vigabatrin.json"
+    },
+    "vinblastine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vinblastine-sulfate.json"
+    },
+    "vincamine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vincamine.json"
+    },
+    "vincristine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vincristine-sulfate.json"
+    },
+    "vindesine sulfate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vindesine-sulfate.json"
+    },
+    "vinorelbine tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vinorelbine-tartrate.json"
+    },
+    "vinpocetine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vinpocetine.json"
+    },
+    "virgin almond oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\virgin-almond-oil.json"
+    },
+    "virgin castor oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\virgin-castor-oil.json"
+    },
+    "virgin linseed oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\virgin-linseed-oil.json"
+    },
+    "virgin olive oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\virgin-olive-oil.json"
+    },
+    "virgin wheat-germ oil": {
+      "bp": "pharmacopoeia_db\\BP\\json\\virgin-wheat-germ-oil.json"
+    },
+    "vitamin a": {
+      "bp": "pharmacopoeia_db\\BP\\json\\vitamin-a.json"
+    },
+    "voriconazole": {
+      "bp": "pharmacopoeia_db\\BP\\json\\voriconazole.json"
+    },
+    "warfarin sodium clathrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\warfarin-sodium-clathrate.json"
+    },
+    "warfarin sodium": {
+      "bp": "pharmacopoeia_db\\BP\\json\\warfarin-sodium.json"
+    },
+    "water for injections": {
+      "bp": "pharmacopoeia_db\\BP\\json\\water-for-injections.json"
+    },
+    "water for preparation of extracts": {
+      "bp": "pharmacopoeia_db\\BP\\json\\water-for-preparation-of-extracts.json"
+    },
+    "wheat starch1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\wheat-starch1.json"
+    },
+    "white beeswax": {
+      "bp": "pharmacopoeia_db\\BP\\json\\white-beeswax.json"
+    },
+    "white soft paraffin1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\white-soft-paraffin.json"
+    },
+    "wool alcohols": {
+      "bp": "pharmacopoeia_db\\BP\\json\\wool-alcohols.json"
+    },
+    "wool fat": {
+      "bp": "pharmacopoeia_db\\BP\\json\\wool-fat.json"
+    },
+    "xanthan gum": {
+      "bp": "pharmacopoeia_db\\BP\\json\\xanthan-gum.json"
+    },
+    "xylitol": {
+      "bp": "pharmacopoeia_db\\BP\\json\\xylitol.json"
+    },
+    "xylometazoline hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\xylometazoline-hydrochloride.json"
+    },
+    "xylose": {
+      "bp": "pharmacopoeia_db\\BP\\json\\xylose.json"
+    },
+    "yellow beeswax": {
+      "bp": "pharmacopoeia_db\\BP\\json\\yellow-beeswax.json"
+    },
+    "yellow soft paraffin1": {
+      "bp": "pharmacopoeia_db\\BP\\json\\yellow-soft-paraffin.json"
+    },
+    "yohimbine hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\yohimbine-hydrochloride.json"
+    },
+    "zanamivir hydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zanamivir-hydrate.json"
+    },
+    "zidovudine": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zidovudine.json"
+    },
+    "zinc acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-acetate.json"
+    },
+    "zinc acexamate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-acexamate.json"
+    },
+    "zinc chloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-chloride.json"
+    },
+    "zinc gluconate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-gluconate.json"
+    },
+    "zinc oxide": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-oxide.json"
+    },
+    "zinc stearate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-stearate.json"
+    },
+    "zinc sulfate heptahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-sulfate-heptahydrate.json"
+    },
+    "zinc sulfate hexahydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-sulfate-hexahydrate.json"
+    },
+    "zinc sulfate monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-sulfate-monohydrate.json"
+    },
+    "zinc undecenoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zinc-undecenoate.json"
+    },
+    "ziprasidone hydrochloride monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ziprasidone-hydrochloride-monohydrate.json"
+    },
+    "ziprasidone mesilate trihydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\ziprasidone-mesilate-trihydrate.json"
+    },
+    "zoledronic acid monohydrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zoledronic-acid-monohydrate.json"
+    },
+    "zolmitriptan": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zolmitriptan.json"
+    },
+    "zolpidem tartrate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zolpidem-tartrate.json"
+    },
+    "zopiclone": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zopiclone.json"
+    },
+    "zuclopenthixol acetate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zuclopenthixol-acetate.json"
+    },
+    "zuclopenthixol decanoate": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zuclopenthixol-decanoate.json"
+    },
+    "zuclopenthixol hydrochloride": {
+      "bp": "pharmacopoeia_db\\BP\\json\\zuclopenthixol-hydrochloride.json"
+    }
+  }
+}

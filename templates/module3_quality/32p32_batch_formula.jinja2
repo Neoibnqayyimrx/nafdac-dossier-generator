@@ -1,0 +1,26 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Telmisartan 40mg
+  Module: module3_quality
+  Vars  : 3
+#}
+
+## 3.2.P.3.2 	{{ batch_number }}
+
+{{ batch_number }}: 50,{{ storage.pack_size }}.
+
+{# TABLE #}
+| Ingredient | Specification | Qty/Tab in mg | Qty/ Batch (50,000 Tabs) |
+| --- | --- | --- | --- |
+| {{ drug.molecular_formula }} |  |  |  |
+| {{ drug.name }} {{ drug.strength }} | B. P. | {{ drug.strength }} | 2.000 Kg |
+| {{ drug.molecular_formula }} – {{ drug.molecular_formula }} |  |  |  |
+| Starch | B.P | {{ drug.strength }} | 0.500 kg |
+| Lactose | B.P | 50.{{ drug.strength }} | 2.500 kg |
+| {{ drug.molecular_formula }} | B.P. | 40.{{ drug.strength }} | 2.000 kg |
+| P.V.P.K30 | B.P | 6.{{ drug.strength }} | 0.300 Kg |
+| Isopropyl Alcohol | B.P | 40.{{ drug.strength }} | 2.000 Kg |
+| Magnesium Stearate | B.P. | 1.{{ drug.strength }} | 0.050 Kg. |
+| Talcum | B.P. | 2.{{ drug.strength }} | 0.100 Kg |
+| Colloidal Silicone Dioxide | B.P. | 0.{{ drug.strength }} | 0.025 Kg |
+| Sodium Starch Glycolate | B.P. | 3.{{ drug.strength }} | 0.150 Kg |

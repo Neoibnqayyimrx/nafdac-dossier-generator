@@ -1,0 +1,24 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Amlodipine 5mg
+  Module: unclassified
+  Vars  : 0
+#}
+
+## Arms and Interventions
+
+{# TABLE #}
+| Arm | Intervention/treatment |
+| --- | --- |
+| Experimental: {{ drug.molecular_formula }} {{ drug.strength }}
+- {{ drug.name }} {{ drug.strength }}, once a day for 8 weeks | Drug: {{ drug.name }} {{ drug.strength }}
+- Daily {{ drug.route_of_administration }} administration for 8 weeks
+Other Name: Novarsc {{ drug.strength }} |
+| Experimental: {{ drug.molecular_formula }} {{ drug.strength }} / CC {{ drug.strength }}
+- {{ drug.name }} {{ drug.strength }} and Candesartan cilexetil {{ drug.strength }}, once a day for 8 weeks | Drug: {{ drug.name }} {{ drug.strength }}, Candesartan cilexetil {{ drug.strength }}
+- Daily {{ drug.route_of_administration }} administration {{ drug.name }} {{ drug.strength }} for 8 weeks
+Other Name: Novarsc {{ drug.strength }}, Atacand {{ drug.strength }} |
+| Experimental: {{ drug.molecular_formula }} {{ drug.strength }} / CC {{ drug.strength }}
+- After 8 weeks of treatment period, {{ drug.name }} {{ drug.strength }} and Candesartan ceilexetil {{ drug.strength }}, once a day for 8 weeks | Drug: {{ drug.name }} {{ drug.strength }}, Candesartan cilexetil {{ drug.strength }}
+- After 8 weeks of administration, {{ drug.name }} {{ drug.strength }} and Candesartan cilexetil {{ drug.strength }} once a day for 8 weeks
+Other Name: Novarsc {{ drug.strength }}, Atacand {{ drug.strength }} |

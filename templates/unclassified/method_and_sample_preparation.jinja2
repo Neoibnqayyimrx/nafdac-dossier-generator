@@ -1,0 +1,42 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Telmisartan 40mg
+  Module: unclassified
+  Vars  : 34
+#}
+
+#### Method and Sample Preparation
+
+In both studies, {{ drug.name }} plasma levels were determined by using a {{ drug.molecular_formula }} method developed and validated by personnel of Biokinetics in Mexico City, Mexico. The method included the following: 250 μl of plasma, 10 μl of internal standard (naproxen, {{ drug.strength }}/ml) and 750 μl of acetonitrile. These components were vortexed in a 2.0-ml conical tube (Sarstedt AG & Co.) for 1 minute. The tube was centrifuged at 5000 rpm for 12 minutes at room temperature ({{ storage.temperature }}). The supernatant was separated and injected (volume of {{ drug.dosage_form }} = 20 μl) into the chromatographic system ({{ drug.molecular_formula }}, Agilent Technologies, model 1100, Palo Alto, California).
+
+Chromatographic conditions
+
+In both studies, {{ drug.name }} concentrations were determined with a 150 × 4.6-mm internal-diameter column of 5-μm particle size (Zorbax®{{ drug.molecular_formula }} –C18, Agilent Technologies, Palo Alto, California) equipped with a pre-column (12.5 × 4.6-mm internal-diameter column, 5-μm particle size, Zorbax® {{ drug.molecular_formula }} –C18, Agilent Technologies) and eluted with a mobile phase consisting of a mixture (40:60 v/v) of an aqueous buffer {{ drug.dosage_form }} (ammonium acetate, 10 mM; pH 3.0 ± 0.1) and acetonitrile. The column temperature was {{ storage.temperature }}. Flow rate was maintained at {{ drug.strength }}/minute and {{ drug.name }} detection was carried out using a fluorescence detector set at excitation and emission wavelengths of 300 nm and 385 nm, respectively. Typical retention times for {{ drug.name }} and the internal standard were 3.8 and 2.7 minutes, respectively. The peak area was measured for calculation of the peak area ratio of {{ drug.name }} with respect to the internal standard, and the concentration was calculated.
+
+Method validation
+
+The method was validated in accordance with Mexican [9] and international guidelines [10]. The selectivity of the method was tested by the analysis of blank human plasma for six different subjects; blank human (hemolyzed and lipemic) plasma samples, as well as anticoagulants (heparin), xanthines (caffeine and theobromine), and other drug substances commonly used as analgesics (ibuprofen, diclofenac, paracetamol and acetylsalicylic acid). No interferences were observed in the resulting chromatograms.
+
+The range of the method was 0.005 to 0.{{ drug.strength }}/ml, with lower limits of quantification and detection of 0.005 and 0.{{ drug.strength }}/ml, respectively. The method was found to be linear within this range of concentrations with a coefficient of determination of 0.9969. The intra-assay %CV and accuracy (relative error) for {{ drug.name }} were 3.30% to 9.16% and -2.59% to -1.19%, respectively, while the inter-assay %CV and accuracy were 3.44% to 6.73% and -1.4% to 3.96%. The absolute recovery was above 95%.
+
+{{ drug.name }} in plasma was found to be stable after 24 hours at room temperature ({{ storage.temperature }}), after three freeze-thaw cycles and after 16 weeks at -75 ± {{ storage.temperature }}. Quality control samples were prepared at three different concentration levels (designated as low (0.{{ drug.strength }}/ml), medium (0.{{ drug.strength }}/ml) and high (0.{{ drug.strength }}/ml)) of {{ drug.name }} independent of the calibration curve. This method was considered suitable by the investigators for both bioequivalence studies.
+
+Tolerability
+
+In both studies, tolerability was determined using clinical assessment, monitoring of vital signs (blood pressure, heart rate, armpit body temperature) at baseline, after the drug administration, during hospitalization, and at the end of the clinical stage of the studies. In addition, heart rate and blood pressure were measured after each blood sample was obtained. The subjects were interviewed (using open-ended questions) by the investigators during hospitalization and at the end of the clinical stage of the studies, concerning the occurrence of AEs. Subjects were asked to spontaneously report any AE to the investigators at any time during the studies, including the washout periods. Data for all AEs were recorded on a case report form. AEs that were life–threatening, led to death, hospitalization, disability, and/ or medical intervention to prevent permanent impairment or damage were to be considered serious.
+
+Pharmacokinetic and statistical analyses
+
+Individual plasma concentration-time curves were constructed; Cmax (maximum plasma drug concentration) and Tmax(time to reach Cmax after the administration of the drug) were directly obtained from these curves; the area under the plasma concentration-time curve from baseline to the last measurable concentration ({{ drug.molecular_formula }}–t) was calculated according to the non-compartmental method using the trapezoidal rule. From the terminal log-decay phase, the elimination constant (ke) was estimated using linear regression, and the apparent t1/2 was estimated using the following equation .
+
+t1/2 = ln2/ke, where ln was defined as the natural logarithm. Extrapolation of {{ drug.molecular_formula }} from baseline to infinity ({{ drug.molecular_formula }}–∞) was calculated as follows:
+
+{{ drug.molecular_formula }}–∞= {{ drug.molecular_formula }}–t + Ct/ke, where Ct was the last measurable plasma concentration.
+
+In both studies, to assess the bioequivalence between the test and reference formulations, Cmax, {{ drug.molecular_formula }}–t andAUC0–∞were considered as the primary variables. {{ drug.molecular_formula }} for a 2 × 2 crossover design using log-transformed data for these parameters was carried out at the 5% significance level (α = 0.05).
+
+The 90% CIs (confidence intervals) of the geometric means ratios (test/reference) of Cmax, UC0–t andAUC0–∞were calculated using logtransformed data. The test and the reference formulations were to be considered bioequivalent if the 90% CIs of UC0–t andAUC0–∞ fell within the predetermined range of 80% to 125%; for Cmax if the 90% CI fell within the predetermined range of 75% to 133% (because {{ drug.name }} was regarded as a highly variable drug and if the probability of exceeding all of these acceptance limits was <0.05.
+
+In both studies, sample size calculation  was based on the intrasubject variability of {{ drug.name }} Cmax with an intra-subject %CV of 31% .This calculation was performed considering the following values: 1-β=0.8, α=0.05, and an equivalence range of 75% to 133%, which yielded a sample size of 24 subjects for each study. Thus, the plan was to recruit 32 subjects in order to account for greater intra-subject %CV and potential subject dropouts.
+
+All pharmacokinetic and statistical analyses were performed using WinNonlin version 5 (Pharsight, Mountain View, California).

@@ -1,0 +1,5205 @@
+{
+  "source_drug": "Telmisartan 40mg",
+  "source_file": "drafts\\TELMISARTAN 40\\MODULE 1 - Admin & Prescb Info\\1.0 COVER LETTER\\1.0 COVER LETTER.docx",
+  "templates_root": "templates",
+  "total_variables": 2588,
+  "entries": [
+    {
+      "filename": "unclassified\\preamble.jinja2",
+      "module": "unclassified",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 8,
+      "variable_categories": [
+        "molecular_formula",
+        "manufacturer_name",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "drug_name",
+        "dosage_form",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\preamble_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 16,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module1_admin\\telmisartan_tablets_40mg.jinja2",
+      "module": "module1_admin",
+      "original_heading": "(Telmisartan Tablets 40Mg)",
+      "variable_count": 22,
+      "variable_categories": [
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\table_of_contents_of_module_5.jinja2",
+      "module": "unclassified",
+      "original_heading": "TABLE OF CONTENTS OF MODULE 5",
+      "variable_count": 14,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\12_application_information.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.2 \tApplication Information",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\approved_inn_generic_name_in_relation_to_a_drug_te.jinja2",
+      "module": "unclassified",
+      "original_heading": "Approved/ INN/ Generic Name in relation to a drug:  TELMISARTAN BP 40MG TABLETS.",
+      "variable_count": 12,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "strength",
+        "dosage_form",
+        "drug_name_strength",
+        "dosage_form",
+        "dosage_form",
+        "pack_size",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\1210_evidence_of_trademark_registration.jinja2",
+      "module": "unclassified",
+      "original_heading": "1.2.10 Evidence of Trademark Registration",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\122_registration_form.jinja2",
+      "module": "unclassified",
+      "original_heading": "1.2.2 Registration form:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\123_certificate_of_incorporation.jinja2",
+      "module": "unclassified",
+      "original_heading": "1.2.3 Certificate of Incorporation:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\124_power_of_attorney.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.2.4   Power of Attorney:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\125_notarized_declaration_of_applicant.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.2.5 Notarized declaration of Applicant:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\127_certificate_of_pharmaceutical_product.jinja2",
+      "module": "unclassified",
+      "original_heading": "1.2.7 Certificate of Pharmaceutical Product",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\129_manufacturing_authorization.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.2.9 Manufacturing Authorization",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_pil_smpc\\13_product_information.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "1.3 Product Information",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\name_of_the_medicinal_product.jinja2",
+      "module": "unclassified",
+      "original_heading": "NAME OF THE MEDICINAL PRODUCT",
+      "variable_count": 15,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\qualitative_and_quantitative_composition.jinja2",
+      "module": "unclassified",
+      "original_heading": "QUALITATIVE AND QUANTITATIVE COMPOSITION",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\composition.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Composition:",
+      "variable_count": 6,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\41_therapeutic_indication.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.1 Therapeutic Indication:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_pil_smpc\\42_posology_and_method_of_administration.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.2 Posology and method of administration",
+      "variable_count": 17,
+      "variable_categories": [
+        "strength",
+        "strength",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "dosage_form",
+        "route_of_administration"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc\\43_contraindications.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.3 Contraindications",
+      "variable_count": 3,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\special_warnings_and_precautions_for_use.jinja2",
+      "module": "unclassified",
+      "original_heading": "Special warnings and precautions for use",
+      "variable_count": 21,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\45_interaction_with_other_medicinal_products_and_o.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.5 Interaction with other medicinal products and other forms of interaction",
+      "variable_count": 21,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\46_fertility_pregnancy_and_lactation.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.6 Fertility, pregnancy and lactation",
+      "variable_count": 5,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\47_effects_on_ability_to_drive_and_use_machines.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.7 Effects on ability to drive and use machines",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc\\48_undesirable_effects.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.8 Undesirable effects",
+      "variable_count": 6,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\49_overdose.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.9 Overdose",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\51_pharmacodynamic_properties.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.1 Pharmacodynamic properties",
+      "variable_count": 79,
+      "variable_categories": [
+        "molecular_formula",
+        "atc_code",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\52_pharmacokinetic_properties.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "5.2 Pharmacokinetic properties",
+      "variable_count": 30,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "route_of_administration",
+        "route_of_administration",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\53_preclinical_safety_data.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "5.3 Preclinical safety data",
+      "variable_count": 2,
+      "variable_categories": [
+        "route_of_administration",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\61_list_of_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "6.1 List of excipients",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\62_incompatibilities.jinja2",
+      "module": "unclassified",
+      "original_heading": "6.2 Incompatibilities",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\63_shelf_life.jinja2",
+      "module": "unclassified",
+      "original_heading": "6.3 Shelf life",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\64_special_precautions_for_storage.jinja2",
+      "module": "unclassified",
+      "original_heading": "6.4 Special precautions for storage",
+      "variable_count": 1,
+      "variable_categories": [
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\65_nature_and_contents_of_container.jinja2",
+      "module": "unclassified",
+      "original_heading": "6.5 Nature and contents of container",
+      "variable_count": 2,
+      "variable_categories": [
+        "pack_size",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\66_special_precautions_for_disposal_and_other_hand.jinja2",
+      "module": "unclassified",
+      "original_heading": "6.6 Special precautions for disposal and other handling",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\administrative_data.jinja2",
+      "module": "module1_admin",
+      "original_heading": "Administrative Data",
+      "variable_count": 1,
+      "variable_categories": [
+        "manufacturer_name"
+      ]
+    },
+    {
+      "filename": "module1_admin\\9_date_of_first_authorizationrenewal_of_the_author.jinja2",
+      "module": "module1_admin",
+      "original_heading": "9. Date of first authorization/renewal of the authorization",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\10_date_of_revision_of_the_text.jinja2",
+      "module": "unclassified",
+      "original_heading": "10. Date of revision of the text",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_efficacy\\14_regional_summaries.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "1.4 Regional Summaries",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module2_quality\\142_quality_information_summary.jinja2",
+      "module": "module2_quality",
+      "original_heading": "1.4.2 Quality Information Summary",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\administrative_summary.jinja2",
+      "module": "module1_admin",
+      "original_heading": "Administrative Summary:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\indicate_which_option_applies_for_the_submission_o.jinja2",
+      "module": "unclassified",
+      "original_heading": "Indicate which option applies for the submission of API information:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23s21_manufacturers_name_manufacturer.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.2.1 Manufacturer(s) (name, manufacturer)",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\api_specifications_of_the_fpp_manufacturer.jinja2",
+      "module": "module3_quality",
+      "original_heading": "API specifications of the FPP manufacturer:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\api.jinja2",
+      "module": "unclassified",
+      "original_heading": "API:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\packing_procedure.jinja2",
+      "module": "unclassified",
+      "original_heading": "Packing Procedure",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "batch_number",
+        "batch_number",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "unclassified\\c_proposed_storage_conditions_and_re-test_period_o.jinja2",
+      "module": "unclassified",
+      "original_heading": "(c)\tProposed storage conditions and re-test period (or shelf-life, as appropriate):",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p1_description_and_composition_of_the_fpp.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.1 Description and Composition of the FPP",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\ii_composition_of_all_components_purchased_as_mixt.jinja2",
+      "module": "unclassified",
+      "original_heading": "(ii) \tComposition of all components purchased as mixtures (e.g. colourants, coatings, capsule shells, imprinting inks):",
+      "variable_count": 1,
+      "variable_categories": [
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p221_formulation_development.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.2.2.1 Formulation Development",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\summary_of_batch_numbers.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Summary of batch numbers:",
+      "variable_count": 1,
+      "variable_categories": [
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p31_manufacturers.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.3.1 Manufacturer(s)",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\23p32_batch_formula.jinja2",
+      "module": "unclassified",
+      "original_heading": "2.3.P.3.2 Batch Formula",
+      "variable_count": 8,
+      "variable_categories": [
+        "batch_number",
+        "batch_number",
+        "pack_size",
+        "batch_number",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "unclassified\\processing.jinja2",
+      "module": "unclassified",
+      "original_heading": "PROCESSING",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\sifting.jinja2",
+      "module": "unclassified",
+      "original_heading": "SIFTING",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\mixing_and_milling.jinja2",
+      "module": "module3_quality",
+      "original_heading": "MIXING AND MILLING",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\compression.jinja2",
+      "module": "unclassified",
+      "original_heading": "COMPRESSION",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\inspection.jinja2",
+      "module": "unclassified",
+      "original_heading": "INSPECTION",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "dosage_form",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\equipment_type_and_working_capacity.jinja2",
+      "module": "unclassified",
+      "original_heading": "EQUIPMENT TYPE AND WORKING CAPACITY",
+      "variable_count": 5,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_summary_of_controls_performed_at_the_critical_st.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSummary of controls performed at the critical steps of the manufacturing process and on isolated intermediates:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23p35_process_validation_andor_evaluation.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.3.5 Process Validation and/or Evaluation",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\see_attached_process_validation_protocol_for_me_cu.jinja2",
+      "module": "module3_quality",
+      "original_heading": "See attached Process Validation Protocol for Me Cure\u2019s Telmisartan 40 mg BP.",
+      "variable_count": 5,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "pharmacopoeia_ref",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_specifications_for_the_fpp.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSpecification(s) for the FPP:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_description_of_the_container_closure_systems_inc.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tDescription of the container closure systems, including unit count or fill size, container size or volume:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\c_proposed_storage_statement_and_shelf-life_and_in.jinja2",
+      "module": "unclassified",
+      "original_heading": "(c)\tProposed storage statement and shelf-life (and in-use storage conditions and in-use period, if applicable):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23p82_post-approval_stability_protocol_and_stabili.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.8.2 Post-approval Stability Protocol and Stability Commitment",
+      "variable_count": 5,
+      "variable_categories": [
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "unclassified\\not_available.jinja2",
+      "module": "unclassified",
+      "original_heading": "Not available",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_pil_smpc\\written_commitments_of_the_manufacturer_for_who_us.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "WRITTEN COMMITMENTS OF THE MANUFACTURER \u2013 for W.H.O use",
+      "variable_count": 10,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\if_applicable_primary_stability_study_commitment.jinja2",
+      "module": "module1_admin",
+      "original_heading": "If applicable (primary stability study commitment):",
+      "variable_count": 5,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\if_applicable_commitment_stability_studies.jinja2",
+      "module": "module3_quality",
+      "original_heading": "If applicable (commitment stability studies):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\api_option_2_cep.jinja2",
+      "module": "module1_admin",
+      "original_heading": "API option 2 \u2013 CEP",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\api_option_3_full_details_in_the_pd_ongoing_stabil.jinja2",
+      "module": "module1_admin",
+      "original_heading": "API option 3 \u2013 full details in the PD (ongoing stability study commitment)",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\if_applicable_primary_stability_study_commitment_2.jinja2",
+      "module": "module1_admin",
+      "original_heading": "If applicable (primary stability study commitment):",
+      "variable_count": 5,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module1_admin\\if_applicable_commitment_stability_studies_2.jinja2",
+      "module": "module1_admin",
+      "original_heading": "If applicable (commitment stability studies):",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\if_applicable_when_the_proposed_largest_commercial.jinja2",
+      "module": "module1_admin",
+      "original_heading": "If applicable (when the proposed largest commercial batch size is 200 000 units (x units) or less)",
+      "variable_count": 1,
+      "variable_categories": [
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module1_admin\\ongoing_stability_study_commitment.jinja2",
+      "module": "module1_admin",
+      "original_heading": "Ongoing stability study commitment",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\if_applicable_validation_of_production_batches.jinja2",
+      "module": "module3_quality",
+      "original_heading": "If applicable (validation of production batches)",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module2_quality\\preamble_3.jinja2",
+      "module": "module2_quality",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\preamble_4.jinja2",
+      "module": "unclassified",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\ctd_table_of_content_of_module_2_-_5.jinja2",
+      "module": "unclassified",
+      "original_heading": "CTD TABLE OF CONTENT OF MODULE 2 - 5",
+      "variable_count": 13,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\table_of_contents_of_module_5_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "TABLE OF CONTENTS OF MODULE 5",
+      "variable_count": 14,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module2_quality\\22_introduction.jinja2",
+      "module": "module2_quality",
+      "original_heading": "2.2   Introduction",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc\\product_information.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "PRODUCT INFORMATION",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module2_quality\\quality_overall_summary_product_dossier_qos-pd.jinja2",
+      "module": "module2_quality",
+      "original_heading": "QUALITY OVERALL SUMMARY \u2013 Product Dossier (QOS-PD)",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "date",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc\\a_summary_of_product_information.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "(a)\tSummary of product information:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\b_other_introductory_information.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tOther Introductory information:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\identify_available_literature_references_for_the_a.jinja2",
+      "module": "unclassified",
+      "original_heading": "Identify available literature references for the API and FPP:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\complete_the_following_table_for_the_option_that_a.jinja2",
+      "module": "unclassified",
+      "original_heading": "Complete the following table for the option that applies for the submission of API information:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\b_compendial_name_if_relevant_telmisartan.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tCompendial name, if relevant: Telmisartan",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\e_other_non-proprietary_names_eg_national_name_usa.jinja2",
+      "module": "unclassified",
+      "original_heading": "(e)\tOther non-proprietary name(s) (e.g. national name, USAN, BAN): Telmisartan",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\structural_formula_including_relative_and_absolute.jinja2",
+      "module": "unclassified",
+      "original_heading": "Structural formula, including relative and absolute stereochemistry:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_weight"
+      ]
+    },
+    {
+      "filename": "unclassified\\a_physical_description_eg_appearance_colour_physic.jinja2",
+      "module": "unclassified",
+      "original_heading": "(a)\tPhysical description (e.g. appearance, colour, physical state):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\b_solubility.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tSolubility:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\c_physical_form_eg_polymorphic_forms_solvate_and_h.jinja2",
+      "module": "unclassified",
+      "original_heading": "(c)\tPhysical form (e.g. polymorphic form(s), solvate, and hydrate):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23s21_manufacturers_name_manufacturer_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.2.1 Manufacturer(s) (name, manufacturer)",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23s22_description_of_manufacturing_process_and_pro.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.2.2 Description of Manufacturing Process and Process Controls (name, manufacturer)",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\summary_of_the_quality_and_controls_of_the_startin.jinja2",
+      "module": "unclassified",
+      "original_heading": "Summary of the quality and controls of the starting materials used in the manufacture of the API:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module1_admin\\name_and_manufacturing_site_address_of_starting_ma.jinja2",
+      "module": "module1_admin",
+      "original_heading": "Name and manufacturing site address of starting material manufacturer(s):",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_summary_of_the_controls_performed_at_critical_st.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSummary of the controls performed at critical steps of the manufacturing process and on intermediates:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23s26_manufacturing_process_development_name_manuf.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.2.6 Manufacturing Process Development (name, manufacturer)",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23s31_elucidation_of_structure_and_other_character.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.3.1 Elucidation of Structure and other Characteristics (name, manufacturer)",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\na.jinja2",
+      "module": "unclassified",
+      "original_heading": "N/A",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\api_specifications_of_the_fpp_manufacturer_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "API specifications of the FPP manufacturer:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\a_summary_of_the_analytical_procedures_eg_key_meth.jinja2",
+      "module": "unclassified",
+      "original_heading": "(a)\tSummary of the analytical procedures (e.g. key method parameters, conditions, system suitability testing):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\summary.jinja2",
+      "module": "unclassified",
+      "original_heading": "SUMMARY:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\results_evaluation.jinja2",
+      "module": "unclassified",
+      "original_heading": "RESULTS & EVALUATION:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\manufacturing_parameters.jinja2",
+      "module": "unclassified",
+      "original_heading": "MANUFACTURING PARAMETERS",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\description_of_the_batches.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Description of the batches:",
+      "variable_count": 2,
+      "variable_categories": [
+        "batch_number",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23s45_justification_of_specification_name_manufact.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.4.5 Justification of Specification (name, manufacturer)",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\us_amino_private_limited.jinja2",
+      "module": "module3_quality",
+      "original_heading": "US AMINO PRIVATE LIMITED",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23s6_container_closure_system_name_manufacturer.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.6 Container Closure System (name, manufacturer)",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\packing_procedure_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "Packing Procedure",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\other_information_on_the_container_closure_systems.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Other information on the container closure system(s) (e.g. suitability studies):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\a_summary_of_stress_testing_eg_heat_humidity_oxida.jinja2",
+      "module": "unclassified",
+      "original_heading": "(a)\tSummary of stress testing (e.g. heat, humidity, oxidation, photolysis, acid/base): and results:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\b_summary_of_accelerated_and_long-term_testing_par.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tSummary of accelerated and long-term testing parameters (e.g. studies conducted):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\c_proposed_storage_statement_and_re-test_period_or.jinja2",
+      "module": "unclassified",
+      "original_heading": "(c)\tProposed storage statement and re-test period (or shelf-life, as appropriate):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23s72_post-approval_stability_protocol_and_stabili.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.S.7.2 Post-approval Stability Protocol and Stability Commitment (name, manufacturer)",
+      "variable_count": 5,
+      "variable_categories": [
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_the_actual_stability_results_should_be_provided.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a) The actual stability results should be provided in Module 3.",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\a_description_of_the_fpp.jinja2",
+      "module": "unclassified",
+      "original_heading": "(a)\tDescription of the FPP:",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\b_composition_of_the_fpp.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tComposition of the FPP:",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\23p211_active_pharmaceutical_ingredient.jinja2",
+      "module": "unclassified",
+      "original_heading": "2.3.P.2.1.1 Active Pharmaceutical Ingredient",
+      "variable_count": 4,
+      "variable_categories": [
+        "manufacturer_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\company_or_laboratory_code.jinja2",
+      "module": "unclassified",
+      "original_heading": "Company or laboratory code:",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\structural_formula_including_relative_and_absolute_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "Structural formula, including relative and absolute stereochemistry:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_weight"
+      ]
+    },
+    {
+      "filename": "unclassified\\physical_description_eg_appearance_colour_physical.jinja2",
+      "module": "unclassified",
+      "original_heading": "Physical description (e.g. appearance, colour, physical state):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\physical_form_eg_polymorphic_forms_solvate_hydrate.jinja2",
+      "module": "unclassified",
+      "original_heading": "Physical form (e.g. polymorphic form(s), solvate, hydrate):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\pharmacological_properties.jinja2",
+      "module": "unclassified",
+      "original_heading": "Pharmacological Properties:",
+      "variable_count": 5,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module4_safety\\pharmacokinetics.jinja2",
+      "module": "module4_safety",
+      "original_heading": "Pharmacokinetics:",
+      "variable_count": 5,
+      "variable_categories": [
+        "drug_name",
+        "route_of_administration",
+        "route_of_administration",
+        "temperature",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\i_compatibility_of_the_apis_with_excipients_listed.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(i)\tCompatibility of the API(s) with excipients listed in 2.3.P.1:",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\iii_for_fixed-dose_combinations_compatibility_of_a.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(iii)\tFor fixed-dose combinations, compatibility of APIs with each other:",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p212_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.2.1.2 Excipients",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\steps_involved_in_the_development_of_the_product.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Steps involved in the development of the product:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\summary_of_batch_numbers_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "Summary of batch numbers:",
+      "variable_count": 1,
+      "variable_categories": [
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\summary_of_formulations_and_discussion_of_any_diff.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Summary of formulations and discussion of any differences:",
+      "variable_count": 1,
+      "variable_categories": [
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "unclassified\\d_summary_of_results_for_comparative_in_vitro_stud.jinja2",
+      "module": "unclassified",
+      "original_heading": "(d)\tSummary of results for comparative in vitro studies (e.g. dissolution):",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\f_for_scored_tablets_provide_the_rationalejustific.jinja2",
+      "module": "unclassified",
+      "original_heading": "(f)\tFor scored tablets, provide the rationale/justification for scoring:",
+      "variable_count": 1,
+      "variable_categories": [
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\justification_of_overages_in_the_formulations_desc.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Justification of overages in the formulation(s) described in 2.3.P.1:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\23p223_physicochemical_and_biological_properties.jinja2",
+      "module": "unclassified",
+      "original_heading": "2.3.P.2.2.3 Physicochemical and Biological Properties",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p23_manufacturing_process_development.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.2.3 Manufacturing Process Development",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\manufacturing_process.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Manufacturing process",
+      "variable_count": 2,
+      "variable_categories": [
+        "dosage_form",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p24_container_closure_system.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.2.4 Container Closure System",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\discussion_of_microbiological_attributes_of_the_fp.jinja2",
+      "module": "unclassified",
+      "original_heading": "Discussion of microbiological attributes of the FPP (e.g. preservative effectiveness studies):",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\23p26_compatibility.jinja2",
+      "module": "unclassified",
+      "original_heading": "2.3.P.2.6 Compatibility",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p31_manufacturers_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.3.1 Manufacturer(s)",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p32_batch_formula_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.3.2 Batch Formula",
+      "variable_count": 3,
+      "variable_categories": [
+        "batch_number",
+        "molecular_formula",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\manufacturing_flowchart_of_telmisartan_40mg_tablet.jinja2",
+      "module": "module3_quality",
+      "original_heading": "MANUFACTURING FLOWCHART OF TELMISARTAN 40MG TABLET",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name_strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\special_instructions.jinja2",
+      "module": "unclassified",
+      "original_heading": "SPECIAL INSTRUCTIONS",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\product_specific_instructions.jinja2",
+      "module": "unclassified",
+      "original_heading": "PRODUCT SPECIFIC INSTRUCTIONS:",
+      "variable_count": 64,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "pack_size"
+      ]
+    },
+    {
+      "filename": "module3_quality\\control_on_in-process_critical_parameter.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Control on In-Process Critical Parameter:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23p35_process_validation_andor_evaluation_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.3.5 Process Validation and/or Evaluation",
+      "variable_count": 3,
+      "variable_categories": [
+        "dosage_form",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p41_specifications.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.4.1 Specifications",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name_strength",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_summary_of_the_analytical_procedures_for_supplem.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSummary of the analytical procedures for supplementary tests:",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name_strength",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality\\summary_of_the_validation_information_for_the_anal.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Summary of the validation information for the analytical procedures for supplementary tests (where applicable):",
+      "variable_count": 3,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p44_justification_of_specifications.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.4.4 Justification of Specifications",
+      "variable_count": 1,
+      "variable_categories": [
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module1_admin\\23p45_excipients_of_human_or_animal_origin.jinja2",
+      "module": "module1_admin",
+      "original_heading": "2.3.P.4.5 Excipients of Human or Animal Origin",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p46_novel_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.4.6 Novel Excipients",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\specifications_for_the_fpp.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Specification(s) for the FPP:",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\description.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Description",
+      "variable_count": 11,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\identification.jinja2",
+      "module": "unclassified",
+      "original_heading": "Identification :",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\assay.jinja2",
+      "module": "unclassified",
+      "original_heading": "ASSAY:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\mobile_phase.jinja2",
+      "module": "unclassified",
+      "original_heading": "Mobile phase :",
+      "variable_count": 4,
+      "variable_categories": [
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\standard_preparation.jinja2",
+      "module": "unclassified",
+      "original_heading": "Standard preparation:",
+      "variable_count": 10,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\assay_preparation.jinja2",
+      "module": "unclassified",
+      "original_heading": "Assay preparation :",
+      "variable_count": 11,
+      "variable_categories": [
+        "pack_size",
+        "dosage_form",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\procedure.jinja2",
+      "module": "unclassified",
+      "original_heading": "Procedure:",
+      "variable_count": 5,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "dosage_form",
+        "drug_name",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\uniformity_of_weight_variation.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Uniformity of weight variation:",
+      "variable_count": 1,
+      "variable_categories": [
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_summary_of_the_validation_information_eg_validat.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSummary of the validation information (e.g. validation parameters and results):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\a_description_of_the_batches.jinja2",
+      "module": "unclassified",
+      "original_heading": "(a)\tDescription of the batches:",
+      "variable_count": 4,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form",
+        "manufacturer_name",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "unclassified\\b_basis_for_setting_the_acceptance_criteria_for_im.jinja2",
+      "module": "unclassified",
+      "original_heading": "(b)\tBasis for setting the acceptance criteria for impurities:",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\data_on_observed_impurities_for_relevant_batches_e.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Data on observed impurities for relevant batches (e.g. comparative bioavailability or biowaiver):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\justification_of_proposed_acceptance_criteria_for.jinja2",
+      "module": "unclassified",
+      "original_heading": "Justification of proposed acceptance criteria for impurities:",
+      "variable_count": 1,
+      "variable_categories": [
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p56_justification_of_specifications.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.5.6 Justification of Specification(s)",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23p6_reference_standards_or_materials.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.6 Reference Standards or Materials",
+      "variable_count": 15,
+      "variable_categories": [
+        "batch_number",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "expiry_date",
+        "drug_name",
+        "molecular_formula",
+        "date",
+        "date",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_description_of_the_container_closure_systems_inc_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tDescription of the container closure systems, including unit count or fill size, container size or volume:",
+      "variable_count": 3,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form",
+        "pack_size"
+      ]
+    },
+    {
+      "filename": "module3_quality\\b_summary_of_specifications_of_each_primary_and_fu.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(b)\tSummary of specifications of each primary and functional secondary (e.g. foil pouches) packaging components:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\other_information_on_the_container_closure_systems_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Other information on the container closure system(s): Not Applicable",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_summary_of_stress_testing_and_results_eg_photost.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tSummary of stress testing and results (e.g. photostability studies, cyclic studies, freeze-thaw studies):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\c_proposed_storage_statement_and_shelf-life_and_in_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "(c)\tProposed storage statement and shelf-life (and in-use storage conditions and in-use period, if applicable):",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23p82_post-approval_stability_protocol_and_stabili_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.P.8.2 Post-approval Stability Protocol and Stability Commitment",
+      "variable_count": 6,
+      "variable_categories": [
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\a_the_actual_stability_results_should_be_provided_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "(a)\tThe actual stability results should be provided in Module 3.,section 3.2.P.8.3",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23a1_facilities_and_equipment_name_manufacturer.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.A.1 Facilities and Equipment (name, manufacturer)",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23a2_adventitious_agents_safety_evaluation_name_do.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.A.2 Adventitious Agents Safety Evaluation (name, dosage form, manufacturer)",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\23a3_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.A.3 Excipients",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_efficacy\\23r11_executed_production_documents.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "2.3.R.1.1 Executed Production Documents",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\23r12_master_production_documents.jinja2",
+      "module": "unclassified",
+      "original_heading": "2.3.R.1.2 Master Production Documents",
+      "variable_count": 2,
+      "variable_categories": [
+        "batch_number",
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\23r2_analytical_procedures_and_validation_informat.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2.3.R.2 Analytical Procedures and Validation Information",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\critical_parameters.jinja2",
+      "module": "module1_admin",
+      "original_heading": "CRITICAL PARAMETERS",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\critical_parameters_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "CRITICAL PARAMETERS",
+      "variable_count": 7,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "drug_name",
+        "dosage_form",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\critical_parameters_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "CRITICAL PARAMETERS",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\vo_unsettled_apparent_vol_vf_final_tapped_vol.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Vo= unsettled apparent vol., Vf= final tapped vol.",
+      "variable_count": 16,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "strength",
+        "dosage_form",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "strength",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\quality_data.jinja2",
+      "module": "unclassified",
+      "original_heading": "QUALITY DATA",
+      "variable_count": 5,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p1_description_and_composition_of_drug_product.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.1 Description and Composition of drug product",
+      "variable_count": 2,
+      "variable_categories": [
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\composition_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Composition:",
+      "variable_count": 5,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "strength",
+        "batch_number",
+        "pack_size"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p21_components_of_drug_product.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.1 \tComponents of Drug Product",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\telmisartan.jinja2",
+      "module": "unclassified",
+      "original_heading": "Telmisartan",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p212_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.1.2 \tExcipients",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p221_formulation_development_report.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.2.1 \tFormulation development report",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p221_overages.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.2.1 \tOverages",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\telmisartan_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "Telmisartan",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\biological_activity.jinja2",
+      "module": "unclassified",
+      "original_heading": "Biological Activity",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\therapeutic_indication.jinja2",
+      "module": "unclassified",
+      "original_heading": "Therapeutic indication:",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p23_manufacturing_process_development.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.3  Manufacturing Process Development",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p24_container_closure_system.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.4 \tContainer Closure System",
+      "variable_count": 1,
+      "variable_categories": [
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p25_microbiological_attributes.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.2.5 \tMicrobiological Attributes",
+      "variable_count": 2,
+      "variable_categories": [
+        "temperature",
+        "temperature"
+      ]
+    },
+    {
+      "filename": "module3_quality\\no_evidence_of_physical_change_was_observed_due_to.jinja2",
+      "module": "module3_quality",
+      "original_heading": "No evidence of physical change was observed due to presence of the listed excipients.",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\formulation_development_report.jinja2",
+      "module": "module3_quality",
+      "original_heading": "FORMULATION DEVELOPMENT REPORT:",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\microbial_attributes.jinja2",
+      "module": "unclassified",
+      "original_heading": "MICROBIAL ATTRIBUTES:",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p31_manufacturer.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.3.1 \tManufacturer",
+      "variable_count": 1,
+      "variable_categories": [
+        "manufacturer_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p32_batch_formula.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.3.2 \tBatch formula",
+      "variable_count": 3,
+      "variable_categories": [
+        "batch_number",
+        "batch_number",
+        "pack_size"
+      ]
+    },
+    {
+      "filename": "module3_quality\\composition_3.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Composition:",
+      "variable_count": 3,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "strength"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p33_description_of_manufacturing_process_process.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.3.3 \tDescription of Manufacturing Process & Process Controls",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\facility_details.jinja2",
+      "module": "unclassified",
+      "original_heading": "Facility Details:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\description_of_manufacturing_area.jinja2",
+      "module": "unclassified",
+      "original_heading": "Description of Manufacturing Area:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module1_admin\\the_types_of_buildings_in_the_premises.jinja2",
+      "module": "module1_admin",
+      "original_heading": "The types of buildings in the premises:",
+      "variable_count": 2,
+      "variable_categories": [
+        "dosage_form",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module1_admin\\administrative_block.jinja2",
+      "module": "module1_admin",
+      "original_heading": "Administrative block:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\liquid_factory.jinja2",
+      "module": "unclassified",
+      "original_heading": "Liquid factory:",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\tablets_and_capsules_factory.jinja2",
+      "module": "unclassified",
+      "original_heading": "Tablets and capsules factory:",
+      "variable_count": 8,
+      "variable_categories": [
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\precautions.jinja2",
+      "module": "unclassified",
+      "original_heading": "PRECAUTIONS:",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\precautions_to_be_taken_during_manufacturing.jinja2",
+      "module": "unclassified",
+      "original_heading": "PRECAUTIONS TO BE TAKEN DURING MANUFACTURING",
+      "variable_count": 7,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\manufacturing_process_2.jinja2",
+      "module": "module3_quality",
+      "original_heading": "MANUFACTURING PROCESS",
+      "variable_count": 7,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\preparation_of_paste.jinja2",
+      "module": "unclassified",
+      "original_heading": "PREPARATION OF  PASTE",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\granulation.jinja2",
+      "module": "unclassified",
+      "original_heading": "GRANULATION",
+      "variable_count": 16,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\compression_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "COMPRESSION",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "pack_size",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\packing.jinja2",
+      "module": "unclassified",
+      "original_heading": "PACKING",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\13_sampling.jinja2",
+      "module": "module3_quality",
+      "original_heading": "13.\tSAMPLING",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\process_validation_protocol.jinja2",
+      "module": "module3_quality",
+      "original_heading": "PROCESS VALIDATION PROTOCOL",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\preamble_5.jinja2",
+      "module": "unclassified",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 430,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "batch_number",
+        "pack_size",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "manufacturer_name",
+        "molecular_formula",
+        "molecular_formula",
+        "manufacturer_name",
+        "molecular_formula",
+        "molecular_formula",
+        "date",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "batch_number",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pack_size",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p41_specification.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.4.1 Specification",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\for_excipients_used_in_this_formulation_comply_as.jinja2",
+      "module": "module3_quality",
+      "original_heading": "For Excipients used in this formulation comply as per British Pharmacopoeias.",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\for_excipients_used_as_per_in-_house_specification.jinja2",
+      "module": "module3_quality",
+      "original_heading": "For Excipients used as per IN- House Specification.",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p43_validation_of_analytical_procedures.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.4.3 \tValidation of analytical procedures",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p44_justification_of_specification.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.4.4 \tJustification of specification",
+      "variable_count": 3,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p45_excipients_of_human_or_animal_origin.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.4.5 \tExcipients of Human or Animal Origin",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p46_novel_excipients.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.4.6 \tNovel excipients",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\colloidal_silicon_dioxide_aerosil.jinja2",
+      "module": "unclassified",
+      "original_heading": "COLLOIDAL SILICON DIOXIDE (AEROSIL )",
+      "variable_count": 9,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\standards.jinja2",
+      "module": "unclassified",
+      "original_heading": "STANDARDS",
+      "variable_count": 33,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\isopropyl_alcohol.jinja2",
+      "module": "unclassified",
+      "original_heading": "Isopropyl Alcohol",
+      "variable_count": 5,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\structural_formula.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Structural Formula",
+      "variable_count": 46,
+      "variable_categories": [
+        "route_of_administration",
+        "route_of_administration",
+        "batch_number",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "pharmacopoeia_ref",
+        "dosage_form",
+        "strength",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "route_of_administration",
+        "route_of_administration",
+        "route_of_administration",
+        "strength",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "route_of_administration",
+        "route_of_administration",
+        "route_of_administration",
+        "strength",
+        "route_of_administration",
+        "strength",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\handling_precautions.jinja2",
+      "module": "unclassified",
+      "original_heading": "Handling Precautions",
+      "variable_count": 25,
+      "variable_categories": [
+        "route_of_administration",
+        "molecular_formula",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "route_of_administration",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "molecular_formula",
+        "molecular_formula",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "molecular_formula",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\references.jinja2",
+      "module": "module3_quality",
+      "original_heading": "References",
+      "variable_count": 7,
+      "variable_categories": [
+        "dosage_form",
+        "route_of_administration",
+        "route_of_administration",
+        "route_of_administration",
+        "molecular_formula",
+        "date",
+        "manufacturer_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\lactose_anhydrous.jinja2",
+      "module": "unclassified",
+      "original_heading": "Lactose, Anhydrous",
+      "variable_count": 50,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "strength",
+        "strength",
+        "strength",
+        "temperature",
+        "dosage_form",
+        "temperature",
+        "molecular_formula",
+        "dosage_form",
+        "temperature",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "strength",
+        "route_of_administration",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "route_of_administration",
+        "route_of_administration",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "dosage_form",
+        "dosage_form",
+        "route_of_administration",
+        "route_of_administration",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "route_of_administration",
+        "manufacturer_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\specific_references.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Specific References",
+      "variable_count": 14,
+      "variable_categories": [
+        "dosage_form",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "manufacturer_name",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "date",
+        "date",
+        "manufacturer_name",
+        "date"
+      ]
+    },
+    {
+      "filename": "unclassified\\magnesium_stearate.jinja2",
+      "module": "unclassified",
+      "original_heading": "MAGNESIUM STEARATE",
+      "variable_count": 8,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "molecular_formula",
+        "strength",
+        "molecular_formula",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\standards_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "STANDARDS",
+      "variable_count": 75,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\storage.jinja2",
+      "module": "unclassified",
+      "original_heading": "STORAGE",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\polyvinylpyrrolidone_k30.jinja2",
+      "module": "unclassified",
+      "original_heading": "Polyvinylpyrrolidone K30",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\medical.jinja2",
+      "module": "unclassified",
+      "original_heading": "Medical",
+      "variable_count": 10,
+      "variable_categories": [
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "route_of_administration",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\technical.jinja2",
+      "module": "unclassified",
+      "original_heading": "Technical",
+      "variable_count": 34,
+      "variable_categories": [
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "route_of_administration",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\sodium_starch_glycollate.jinja2",
+      "module": "unclassified",
+      "original_heading": "SODIUM STARCH GLYCOLLATE",
+      "variable_count": 5,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\standards_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "STANDARDS",
+      "variable_count": 53,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\maize_starch.jinja2",
+      "module": "unclassified",
+      "original_heading": "Maize Starch",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\definition.jinja2",
+      "module": "unclassified",
+      "original_heading": "DEFINITION",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\characters.jinja2",
+      "module": "unclassified",
+      "original_heading": "CHARACTERS",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\description_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "DESCRIPTION",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\identification_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "IDENTIFICATION",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\tests.jinja2",
+      "module": "unclassified",
+      "original_heading": "TESTS",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "temperature",
+        "temperature",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\storage_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "STORAGE",
+      "variable_count": 2,
+      "variable_categories": [
+        "molecular_formula",
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\purified_talc_talcum.jinja2",
+      "module": "unclassified",
+      "original_heading": "Purified Talc; Talcum",
+      "variable_count": 1,
+      "variable_categories": [
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "unclassified\\standards_4.jinja2",
+      "module": "unclassified",
+      "original_heading": "STANDARDS",
+      "variable_count": 35,
+      "variable_categories": [
+        "molecular_formula",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\telmisartan_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "TELMISARTAN",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\action_and_use.jinja2",
+      "module": "unclassified",
+      "original_heading": "Action and use",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\definition_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "DEFINITION",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\content.jinja2",
+      "module": "unclassified",
+      "original_heading": "Content",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\appearance.jinja2",
+      "module": "unclassified",
+      "original_heading": "Appearance",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\solubility.jinja2",
+      "module": "unclassified",
+      "original_heading": "Solubility",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\identification_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "IDENTIFICATION",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\appearance_of_solution.jinja2",
+      "module": "unclassified",
+      "original_heading": "Appearance of solution",
+      "variable_count": 5,
+      "variable_categories": [
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\related_substances.jinja2",
+      "module": "unclassified",
+      "original_heading": "Related substances",
+      "variable_count": 47,
+      "variable_categories": [
+        "strength",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "strength",
+        "dosage_form",
+        "strength",
+        "dosage_form",
+        "temperature",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "dosage_form",
+        "drug_name",
+        "molecular_formula",
+        "dosage_form",
+        "drug_name",
+        "dosage_form",
+        "dosage_form",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\loss_on_drying_2232.jinja2",
+      "module": "unclassified",
+      "original_heading": "Loss on drying (2.2.32)",
+      "variable_count": 2,
+      "variable_categories": [
+        "strength",
+        "temperature"
+      ]
+    },
+    {
+      "filename": "unclassified\\sulphated_ash_2414.jinja2",
+      "module": "unclassified",
+      "original_heading": "Sulphated ash (2.4.14)",
+      "variable_count": 1,
+      "variable_categories": [
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\assay_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "ASSAY",
+      "variable_count": 7,
+      "variable_categories": [
+        "molecular_formula",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "strength",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\impurities.jinja2",
+      "module": "unclassified",
+      "original_heading": "IMPURITIES",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p56_justification_of_specification.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.5.6 \tJustification of specification",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\the_specifications_for_drug_product_as_described_u.jinja2",
+      "module": "module3_quality",
+      "original_heading": "The specifications for drug product as described under \u201cFinished Product Specification, Analytical",
+      "variable_count": 1,
+      "variable_categories": [
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\spec_moa_coa.jinja2",
+      "module": "unclassified",
+      "original_heading": "SPEC., MOA, COA",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p6_reference_standard_material.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.6   Reference standard material",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p7_container_closure_system.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.7    Container closure system",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\moa_spec_coa.jinja2",
+      "module": "unclassified",
+      "original_heading": "MOA, SPEC, COA:",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32p81_stability_summary_and_conclusions.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.8.1 \tStability summary and conclusions",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p82_post_approval_stability_protocol_and_stabili.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.8.2 \tPost approval stability protocol and stability commitment",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32p83_stability_data.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.8.3 \tStability data",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32s11_nomenclature_telmisartan.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.1.1 Nomenclature: Telmisartan",
+      "variable_count": 3,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\chemical_abstracts_service_cas.jinja2",
+      "module": "unclassified",
+      "original_heading": "Chemical Abstracts Service (CAS):",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\telmisartan_4.jinja2",
+      "module": "unclassified",
+      "original_heading": "Telmisartan",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\telmisartan_5.jinja2",
+      "module": "unclassified",
+      "original_heading": "Telmisartan",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32s26_manufacturing_process_development.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.2.6 Manufacturing process development",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32s31_elucidation_of_structure_and_other_character.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.3.1 \tElucidation of structure and other characteristics  3.2.S.3.2 \tImpurities",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32s44_batch_analysis.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.4.4 \tBatch analysis",
+      "variable_count": 1,
+      "variable_categories": [
+        "batch_number"
+      ]
+    },
+    {
+      "filename": "module3_quality\\32s5_reference_standards_or_materials.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.5  Reference standards or materials",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32s6_container_closure_system.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.6  Container closure system",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\32s73_stability_data.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.7.3 \tStability data",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\32a_appendices.jinja2",
+      "module": "unclassified",
+      "original_heading": "3.2.A APPENDICES",
+      "variable_count": 1,
+      "variable_categories": [
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\preamble_6.jinja2",
+      "module": "unclassified",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 4,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\4214_pharmacodynamic_drug_interactions.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "4.2.1.4 Pharmacodynamic Drug Interactions",
+      "variable_count": 13,
+      "variable_categories": [
+        "drug_name",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\4227_other_pharmacokinetic_studies.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "4.2.2.7 Other pharmacokinetic studies",
+      "variable_count": 13,
+      "variable_categories": [
+        "drug_name",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\4237_other_toxicity_studies.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "4.2.3.7 Other toxicity studies",
+      "variable_count": 13,
+      "variable_categories": [
+        "drug_name",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\43_literatures_references.jinja2",
+      "module": "unclassified",
+      "original_heading": "4.3 Literatures References",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\table_of_contents_of_module_5_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "TABLE OF CONTENTS OF MODULE 5",
+      "variable_count": 13,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\52_tabular_listing_of_all_clinical_studies.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "5.2 Tabular Listing of all clinical studies",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\531_reports_of_biopharmaceutic_studies.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.1  Reports of Biopharmaceutic Studies",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module3_quality\\bioavailability_of_two_different_tablet_formulatio.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Bioavailability of Two Different Tablet Formulations of Telmisartan of Two Different Strengths (40 mg and 80 mg) in Healthy Male Mexican Volunteers",
+      "variable_count": 4,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\corresponding_author.jinja2",
+      "module": "unclassified",
+      "original_heading": "*Corresponding Author:",
+      "variable_count": 6,
+      "variable_categories": [
+        "dosage_form",
+        "drug_name",
+        "strength",
+        "strength",
+        "dosage_form",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\abstract.jinja2",
+      "module": "unclassified",
+      "original_heading": "Abstract",
+      "variable_count": 17,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\keywords.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Keywords",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module2_quality\\introduction.jinja2",
+      "module": "module2_quality",
+      "original_heading": "Introduction",
+      "variable_count": 26,
+      "variable_categories": [
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "dosage_form",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "strength",
+        "route_of_administration",
+        "drug_name",
+        "route_of_administration",
+        "drug_name",
+        "strength",
+        "strength",
+        "dosage_form",
+        "drug_name",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified\\subjects_materials_and_methods.jinja2",
+      "module": "unclassified",
+      "original_heading": "Subjects, Materials and Methods",
+      "variable_count": 60,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "batch_number",
+        "strength",
+        "drug_name",
+        "batch_number",
+        "expiry_date",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "batch_number",
+        "strength",
+        "drug_name",
+        "batch_number",
+        "expiry_date",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "strength",
+        "strength",
+        "strength",
+        "temperature",
+        "temperature",
+        "temperature",
+        "temperature",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "batch_number",
+        "batch_number",
+        "pharmacopoeia_ref",
+        "strength",
+        "strength",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\method_and_sample_preparation.jinja2",
+      "module": "unclassified",
+      "original_heading": "Method and Sample Preparation",
+      "variable_count": 34,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "temperature",
+        "dosage_form",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "dosage_form",
+        "temperature",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "temperature",
+        "temperature",
+        "strength",
+        "strength",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\results.jinja2",
+      "module": "unclassified",
+      "original_heading": "Results",
+      "variable_count": 54,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength"
+      ]
+    },
+    {
+      "filename": "module3_quality\\discussion.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Discussion",
+      "variable_count": 8,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\limitations.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Limitations",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module3_quality\\conclusion.jinja2",
+      "module": "module3_quality",
+      "original_heading": "Conclusion",
+      "variable_count": 3,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\acknowledgements.jinja2",
+      "module": "unclassified",
+      "original_heading": "Acknowledgements",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\references_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "References",
+      "variable_count": 6,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\clinical_effectiveness_of_telmisartan_alone_or_in.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Clinical effectiveness of telmisartan alone or in combination therapy for controlling blood pressure and vascular risk in the elderly",
+      "variable_count": 12,
+      "variable_categories": [
+        "drug_name",
+        "date",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\defining_the_antihypertensive_properties_of_the_an.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Defining the antihypertensive properties of the angiotensin receptor blocker telmisartan by a practice-based clinical trial",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "date"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\abstract_2.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Abstract",
+      "variable_count": 14,
+      "variable_categories": [
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "strength",
+        "strength",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "strength",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "unclassified\\topic.jinja2",
+      "module": "unclassified",
+      "original_heading": "Topic:",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\original_contributions.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "ORIGINAL CONTRIBUTIONS",
+      "variable_count": 10,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "molecular_formula",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\investigators.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Investigators",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\patients.jinja2",
+      "module": "unclassified",
+      "original_heading": "Patients",
+      "variable_count": 5,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\protocol.jinja2",
+      "module": "unclassified",
+      "original_heading": "Protocol",
+      "variable_count": 7,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "strength"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\bp_measurements.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Bp measurements",
+      "variable_count": 3,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\statistics.jinja2",
+      "module": "unclassified",
+      "original_heading": "Statistics",
+      "variable_count": 3,
+      "variable_categories": [
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\patients_2.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Patients",
+      "variable_count": 2,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\table_1.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Table 1",
+      "variable_count": 8,
+      "variable_categories": [
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\figure_1.jinja2",
+      "module": "unclassified",
+      "original_heading": "Figure 1.",
+      "variable_count": 7,
+      "variable_categories": [
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\dose_titration.jinja2",
+      "module": "unclassified",
+      "original_heading": "Dose titration",
+      "variable_count": 15,
+      "variable_categories": [
+        "drug_name",
+        "strength",
+        "pharmacopoeia_ref",
+        "strength",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "strength",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "unclassified\\table_2.jinja2",
+      "module": "unclassified",
+      "original_heading": "Table 2",
+      "variable_count": 6,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "pharmacopoeia_ref",
+        "strength"
+      ]
+    },
+    {
+      "filename": "unclassified\\table_3.jinja2",
+      "module": "unclassified",
+      "original_heading": "Table 3",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\safety.jinja2",
+      "module": "unclassified",
+      "original_heading": "Safety",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_efficacy\\discussion_2.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "Discussion",
+      "variable_count": 44,
+      "variable_categories": [
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "strength",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\preamble_7.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "[PREAMBLE]",
+      "variable_count": 320,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "date",
+        "date",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "drug_name",
+        "strength",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "strength",
+        "drug_name",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "strength",
+        "strength",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "strength",
+        "strength",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "pharmacopoeia_ref",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "pharmacopoeia_ref",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "drug_name",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\5323_reports_of_studies_using_other_human_biomater.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.2.3 Reports of Studies Using Other Human Biomaterials",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\5335_population_pk_study_reports.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.3.5 Population PK Study Reports",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\5342_patient_pd_and_pkpd_study_reports.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.4.2 Patient PD and PK/PD Study Reports",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "module5_efficacy\\5352_study_reports_of_uncontrolled_clinical_studie.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "5.3.5.2 Study Reports of Uncontrolled Clinical Studies References",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "module5_efficacy\\5354_other_clinical_study_reports.jinja2",
+      "module": "module5_efficacy",
+      "original_heading": "5.3.5.4 Other Clinical Study Reports",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\536_reports_of_post_marketing_experience.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.6 Reports of Post Marketing Experience",
+      "variable_count": 0,
+      "variable_categories": []
+    },
+    {
+      "filename": "unclassified\\537_case_report_forms_and_individual_patient_listi.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.3.7 Case report forms and individual patient listings",
+      "variable_count": 11,
+      "variable_categories": [
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    },
+    {
+      "filename": "unclassified\\54_literature_references.jinja2",
+      "module": "unclassified",
+      "original_heading": "5.4 Literature references",
+      "variable_count": 13,
+      "variable_categories": [
+        "drug_name",
+        "molecular_formula",
+        "strength",
+        "dosage_form",
+        "molecular_formula",
+        "drug_name",
+        "temperature",
+        "drug_name",
+        "drug_name",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula",
+        "molecular_formula"
+      ]
+    }
+  ]
+}

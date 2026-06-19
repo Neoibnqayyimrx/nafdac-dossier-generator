@@ -1,0 +1,15 @@
+{#
+  Source: sample_dossier.docx
+  Drug  : Amoxicillin 500mg
+  Module: module1_admin
+  Vars  : 6
+#}
+
+## 1.2 Application Form
+
+Application Type: New Product Registration
+Product Name: {{ drug.name }} {{ drug.strength }} {{ drug.dosage_form }}
+Dosage Form: {{ drug.dosage_form }}
+Strength: {{ drug.strength }}
+Applicant: {{ manufacturer.name }}
+Date of Submission: {{ submission_date }}

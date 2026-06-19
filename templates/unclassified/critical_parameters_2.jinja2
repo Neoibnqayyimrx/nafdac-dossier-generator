@@ -1,0 +1,28 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Telmisartan 40mg
+  Module: unclassified
+  Vars  : 7
+#}
+
+## {{ drug.molecular_formula }} {{ drug.molecular_formula }}
+
+{{ drug.molecular_formula }}: The drying time of 20 minutes/ Trolley at {{ storage.temperature }} temperature was found to be suitable drying time for the granules of {{ drug.name }}  {{ drug.dosage_form }}   {{ drug.strength }}  because at this time final moisture content of the granules was found to be uniform (3.0 – 3.5%).
+
+{# TABLE #}
+| BATCH NO | DATE | DRYING TIME (mins) | DRYING TEMPERATURE (0C) | % MOISTURE CONTENT | % YIELD |
+| --- | --- | --- | --- | --- | --- |
+| TS 01- Trial 1 | {{ submission_date }} | 10 mins(Semi Drying) | {{ storage.temperature }} | 6.5 | 98.65 |
+| TS 01- Trial 1 | {{ submission_date }} | 10 mins(Final Drying) | {{ storage.temperature }} | 3.1 | 98.65 |
+| TS 01 –Trial 2 | {{ submission_date }} | 10 mins(Semi Drying) | {{ storage.temperature }} | 5.0 | 98.77 |
+| TS 01 –Trial 2 | {{ submission_date }} | 10 mins(Final Drying) | {{ storage.temperature }} | 3.0 | 98.77 |
+| TS 01 – Trial 3 | {{ submission_date }} | 10 mins(Semi Drying) | {{ storage.temperature }} | 4.8 | 98.76 |
+| TS 01 – Trial 3 | {{ submission_date }} | 10 mins(Final Drying) | {{ storage.temperature }} | 3.2 | 98.76 |
+
+{# TABLE #}
+| BMR DOC.  No.:        ME / MFT054/2018 | Date:     26/10/18 |
+| --- | --- |
+| Manufacturing Step:   {{ drug.molecular_formula }} | Product: {{ drug.name }} {{ drug.pharmacopoeia_standard }} {{ drug.strength }} {{ drug.dosage_form }} |
+| Machine:  {{ drug.molecular_formula }} {{ drug.molecular_formula }} {{ drug.molecular_formula }}/ {{ drug.molecular_formula }} {{ drug.molecular_formula }} | Code No.:                GL/PR/{{ drug.molecular_formula }} |
+| {{ drug.molecular_formula }}:- {{ drug.molecular_formula }} {{ drug.molecular_formula }}
+%RH=50±5%. {{ drug.molecular_formula }} {{ storage.temperature }} = 45±{{ storage.temperature }} |  |

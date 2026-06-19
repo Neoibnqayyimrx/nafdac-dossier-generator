@@ -1,0 +1,20 @@
+{#
+  Source: sample_dossier.docx
+  Drug  : Amoxicillin 500mg
+  Module: module3_quality
+  Vars  : 2
+#}
+
+### 3.2.S.4 Control of Drug Substance
+
+The drug substance {{ drug.name }} complies with the specifications of the {{ drug.pharmacopoeia_standard }}. Specification limits are as follows:
+
+{# TABLE #}
+| Test | Specification | Method |
+| --- | --- | --- |
+| Description | White or almost white crystalline powder | Visual |
+| Identification | Complies with {{ drug.pharmacopoeia_standard }} identification tests A and B | {{ drug.pharmacopoeia_standard }} |
+| Assay | 95.0% – 102.0% (dried basis) | {{ drug.molecular_formula }} |
+| Water content | {{ drug.molecular_formula }} 15.0% | Karl Fischer |
+| Related substances | Any individual impurity: {{ drug.molecular_formula }} 2.0% | {{ drug.molecular_formula }} |
+| Microbial limit | Complies with {{ drug.pharmacopoeia_standard }} limits | {{ drug.pharmacopoeia_standard }} |

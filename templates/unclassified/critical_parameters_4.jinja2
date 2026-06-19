@@ -1,0 +1,35 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Glibenclamide 5mg
+  Module: unclassified
+  Vars  : 2
+#}
+
+## {{ drug.molecular_formula }} {{ drug.molecular_formula }}
+
+{# TABLE #}
+| Batch No. | Date | Mixing time (minutes) | Sample | VALIDATION TESTING POINTS
+Speed               Content                                        COMPRESSIBILITY                                                                                     
+(RPM)               (% assay)	                                            INDEX  
+                                                                                = 100 (V0-Vf)/vo |
+| --- | --- | --- | --- | --- |
+| GB 01
+Trial 1
+Spot 1
+Spot 2
+Spot 3 | {{ submission_date }} | 5  Mins. | 1L1       
+1L2       
+1L3 | {{ drug.name }} {{ drug.pharmacopoeia_standard }} – 99.28%                      11.28                                                                     
+                 {{ drug.name }}  {{ drug.pharmacopoeia_standard }}-  100.17%                    13.05                                        
+                 {{ drug.name }}  {{ drug.pharmacopoeia_standard }}-  99.83%                      11.95                                         
+constant |
+| GB 01
+Trial 2
+Spot 1
+Spot 2
+Spot 3 | {{ submission_date }} | 5 Mins. | 1L1
+1L2
+1L3 | {{ drug.name }} {{ drug.pharmacopoeia_standard }} – 99.07%                      10.05                                                              
+  {{ drug.name }} {{ drug.pharmacopoeia_standard }} -  99.48%                      10.13                                 
+  {{ drug.name }} {{ drug.pharmacopoeia_standard }} – 99.80%                      11.15                                 
+Constant |

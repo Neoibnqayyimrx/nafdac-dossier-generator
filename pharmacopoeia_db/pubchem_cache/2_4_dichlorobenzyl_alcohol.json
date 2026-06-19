@@ -1,0 +1,28 @@
+{
+  "drug_name": "2,4-Dichlorobenzyl Alcohol",
+  "cid": 15684,
+  "molecular_formula": "C7H6Cl2O",
+  "molecular_weight": "177.02",
+  "iupac_name": "(2,4-dichlorophenyl)methanol",
+  "smiles": "C1=CC(=C(C=C1Cl)Cl)CO",
+  "inchikey": "DBHODFSFBXJZNY-UHFFFAOYSA-N",
+  "logp": 2.5,
+  "melting_point": "55-58 ºC",
+  "solubility": "Slightly Soluble",
+  "pka": null,
+  "synonyms": [
+    "2,4-Dichlorobenzyl alcohol",
+    "1777-82-8",
+    "(2,4-Dichlorophenyl)methanol",
+    "Dybenal",
+    "Dichlorobenzyl alcohol",
+    "Rapidosept",
+    "2,4-Dichlorobenzenemethanol",
+    "Benzyl alcohol, 2,4-dichloro-",
+    "DTXSID9041362",
+    "NSC-15635"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/15684",
+  "query_status": "found",
+  "cached": false
+}

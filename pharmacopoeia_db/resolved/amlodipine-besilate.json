@@ -1,0 +1,168 @@
+{
+  "drug_name": "amlodipine besilate",
+  "fields": {
+    "drug_name": {
+      "value": "Amlodipine Besilate",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "molecular_formula": {
+      "value": "C26H31ClN2O8S 567.1 111470-99-6",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "molecular_weight": {
+      "value": 567.1,
+      "source": "BP",
+      "confidence": "high"
+    },
+    "iupac_name": {
+      "value": "benzenesulfonic acid;3-O-ethyl 5-O-methyl 2-(2-aminoethoxymethyl)-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "smiles": {
+      "value": "CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN.C1=CC=C(C=C1)S(=O)(=O)O",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "inchikey": {
+      "value": "ZPBWCRDSRKPIDG-UHFFFAOYSA-N",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "description": {
+      "value": "White or almost white powder.",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "melting_point": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "solubility": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "logp": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "pka": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "assay": {
+      "value": {
+        "method": "HPLC",
+        "limits": {
+          "min": 97.0,
+          "max": 102.0
+        },
+        "units": "%w/w",
+        "raw": "ASSAY Liquid chromatography (2.2.29) as described in the test for related substances with the following modification. Injection Test solution (b) and reference solution (e). Calculate the percentage content of C26H31ClN2O8S taking into account the assigned content of amlodipine besilate CRS."
+      },
+      "source": "BP",
+      "confidence": "high"
+    },
+    "identification": {
+      "value": [
+        {
+          "test": "?",
+          "method": "IR spectrophotometry",
+          "criterion": "Infrared absorption spectrophotometry (2.2.24)."
+        }
+      ],
+      "source": "BP",
+      "confidence": "high"
+    },
+    "related_substances": {
+      "value": [
+        {
+          "name": "Related substances Liquid chromatography (2.2.29). Carry out the test protected ",
+          "limit": 0.3,
+          "limit_unit": "%",
+          "rrt": null,
+          "method": "HPLC"
+        }
+      ],
+      "source": "BP",
+      "confidence": "high"
+    },
+    "loss_on_drying": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "water_content": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "storage": {
+      "value": "STORAGE In an airtight container, protected from light.",
+      "source": "BP",
+      "confidence": "high"
+    },
+    "dissolution": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "uniformity": {
+      "value": null,
+      "source": "unresolved",
+      "confidence": "none"
+    },
+    "microbial_limits": {
+      "value": {
+        "TAMC": null,
+        "TYMC": null,
+        "pathogens": [],
+        "method": null,
+        "raw": null
+      },
+      "source": "BP",
+      "confidence": "high"
+    },
+    "structure_image_path": {
+      "value": "pharmacopoeia_db\\structures\\amlodipine-besilate.png",
+      "source": "local",
+      "confidence": "high"
+    }
+  },
+  "summary": {
+    "total": 21,
+    "filled": 13,
+    "empty": 8,
+    "empty_fields": [
+      "melting_point",
+      "solubility",
+      "logp",
+      "pka",
+      "loss_on_drying",
+      "water_content",
+      "dissolution",
+      "uniformity"
+    ],
+    "by_source": {
+      "BP": 12,
+      "unresolved": 8,
+      "local": 1
+    }
+  },
+  "warnings": [
+    "Field 'melting_point' could not be resolved from any source.",
+    "Field 'solubility' could not be resolved from any source.",
+    "Field 'logp' could not be resolved from any source.",
+    "Field 'pka' could not be resolved from any source.",
+    "Field 'loss_on_drying' could not be resolved from any source.",
+    "Field 'water_content' could not be resolved from any source.",
+    "Field 'dissolution' could not be resolved from any source.",
+    "Field 'uniformity' could not be resolved from any source."
+  ]
+}

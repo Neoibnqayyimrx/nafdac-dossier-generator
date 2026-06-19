@@ -1,0 +1,20 @@
+{
+  "drug_name": "amlodipine besilate",
+  "query_status": "not_found",
+  "source": "OpenFDA (api.fda.gov)",
+  "openfda_url": "https://api.fda.gov/drug/label.json",
+  "brand_names": [],
+  "generic_name": "",
+  "manufacturer": "",
+  "mechanism_of_action": "",
+  "indications_and_usage": "",
+  "clinical_pharmacology": "",
+  "pharmacokinetics": {},
+  "drug_interactions": "",
+  "warnings": "",
+  "contraindications": "",
+  "dosage_forms_strengths": "",
+  "fda_application_number": "",
+  "cached": false,
+  "_cached_at": "2026-06-16T20:14:38.621306"
+}

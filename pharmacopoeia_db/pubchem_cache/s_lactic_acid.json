@@ -1,0 +1,28 @@
+{
+  "drug_name": "(S)-Lactic Acid",
+  "cid": 107689,
+  "molecular_formula": "C3H6O3",
+  "molecular_weight": "90.08",
+  "iupac_name": "(2S)-2-hydroxypropanoic acid",
+  "smiles": "C[C@@H](C(=O)O)O",
+  "inchikey": "JVTAAEKCZFNVCJ-REOHCLBHSA-N",
+  "logp": -0.7,
+  "melting_point": "16.8 °C",
+  "solubility": null,
+  "pka": "3.861",
+  "synonyms": [
+    "L-Lactic acid",
+    "79-33-4",
+    "L-(+)-Lactic acid",
+    "(S)-Lactic acid",
+    "(S)-2-Hydroxypropanoic acid",
+    "(2S)-2-hydroxypropanoic acid",
+    "Sarcolactic acid",
+    "(S)-2-Hydroxypropionic acid",
+    "(+)-Lactic acid",
+    "Paralactic acid"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/107689",
+  "query_status": "found",
+  "cached": false
+}

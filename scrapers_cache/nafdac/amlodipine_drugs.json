@@ -1,0 +1,11 @@
+{
+  "drug_name": "amlodipine",
+  "query_status": "not_found",
+  "registration_status": "not_registered",
+  "listings": [],
+  "total": 0,
+  "source": "live",
+  "cached": false,
+  "note": "No listings found. The Greenbook server may be temporarily unreachable — verify manually at greenbook.nafdac.gov.ng",
+  "_cached_at": "2026-06-16T18:15:38.529221"
+}

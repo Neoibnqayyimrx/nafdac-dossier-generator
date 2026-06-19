@@ -1,0 +1,22 @@
+﻿# Pharmacopoeia databases (too large for GitHub)
+pharmacopoeia_db/BP/
+pharmacopoeia_db/USP/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Outputs / generated dossiers
+output/
+generated/
+*.docx
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db

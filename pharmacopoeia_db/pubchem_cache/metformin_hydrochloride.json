@@ -1,0 +1,28 @@
+{
+  "drug_name": "metformin hydrochloride",
+  "cid": 14219,
+  "molecular_formula": "C4H12ClN5",
+  "molecular_weight": "165.62",
+  "iupac_name": "3-(diaminomethylidene)-1,1-dimethylguanidine;hydrochloride",
+  "smiles": "CN(C)C(=N)N=C(N)N.Cl",
+  "inchikey": "OETHQSJEHLVLGH-UHFFFAOYSA-N",
+  "logp": null,
+  "melting_point": "232 °C",
+  "solubility": null,
+  "pka": "pKa = 12.4 /Metformin hydrochloride/",
+  "synonyms": [
+    "Metformin hydrochloride",
+    "1115-70-4",
+    "Metformin HCL",
+    "1,1-Dimethylbiguanide hydrochloride",
+    "Glucophage",
+    "Diabefagos",
+    "Riomet",
+    "Siamformet",
+    "Benofomin",
+    "Walaphage"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/14219",
+  "query_status": "found",
+  "cached": false
+}

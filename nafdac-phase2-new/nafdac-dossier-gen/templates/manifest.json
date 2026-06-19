@@ -1,0 +1,134 @@
+{
+  "source_drug": "Amoxicillin 500mg",
+  "source_file": "tests/sample_dossier.docx",
+  "templates_root": "templates",
+  "total_variables": 46,
+  "entries": [
+    {
+      "filename": "module1_admin/11_cover_letter.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.1 Cover Letter",
+      "variable_count": 7,
+      "variable_categories": [
+        "manufacturer_name",
+        "drug_name_strength",
+        "dosage_form",
+        "molecular_formula",
+        "molecular_formula",
+        "date",
+        "date"
+      ]
+    },
+    {
+      "filename": "module1_admin/12_application_form.jinja2",
+      "module": "module1_admin",
+      "original_heading": "1.2 Application Form",
+      "variable_count": 6,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "manufacturer_name",
+        "date"
+      ]
+    },
+    {
+      "filename": "module3_quality/32s1_general_information.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.1 General Information",
+      "variable_count": 8,
+      "variable_categories": [
+        "molecular_formula",
+        "manufacturer_name",
+        "molecular_formula",
+        "molecular_weight",
+        "cas_number",
+        "pharmacopoeia_ref",
+        "pharmacopoeia_ref",
+        "storage_condition"
+      ]
+    },
+    {
+      "filename": "module3_quality/32s4_control_of_drug_substance.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.S.4 Control of Drug Substance",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name",
+        "pharmacopoeia_ref"
+      ]
+    },
+    {
+      "filename": "module3_quality/32p1_description_and_composition.jinja2",
+      "module": "module3_quality",
+      "original_heading": "3.2.P.1 Description and Composition",
+      "variable_count": 10,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form",
+        "dosage_form",
+        "dosage_form",
+        "strength",
+        "drug_name",
+        "shelf_life",
+        "temperature",
+        "pack_size",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "unclassified/1_name_of_the_medicinal_product.jinja2",
+      "module": "unclassified",
+      "original_heading": "1. Name of the Medicinal Product",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module3_quality/2_qualitative_and_quantitative_composition.jinja2",
+      "module": "module3_quality",
+      "original_heading": "2. Qualitative and Quantitative Composition",
+      "variable_count": 4,
+      "variable_categories": [
+        "dosage_form",
+        "strength",
+        "drug_name",
+        "drug_name"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc/41_therapeutic_indications.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.1 Therapeutic Indications",
+      "variable_count": 2,
+      "variable_categories": [
+        "drug_name_strength",
+        "dosage_form"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc/42_posology_and_method_of_administration.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.2 Posology and Method of Administration",
+      "variable_count": 4,
+      "variable_categories": [
+        "strength",
+        "strength",
+        "strength",
+        "route_of_administration"
+      ]
+    },
+    {
+      "filename": "module5_pil_smpc/43_contraindications.jinja2",
+      "module": "module5_pil_smpc",
+      "original_heading": "4.3 Contraindications",
+      "variable_count": 1,
+      "variable_categories": [
+        "drug_name"
+      ]
+    }
+  ]
+}

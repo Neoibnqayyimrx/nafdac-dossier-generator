@@ -1,0 +1,30 @@
+{
+  "drug_name": "amlodipine",
+  "query_status": "found",
+  "source": "OpenFDA (api.fda.gov)",
+  "openfda_url": "https://api.fda.gov/drug/label.json",
+  "brand_names": [
+    "Amlodipine Besylate"
+  ],
+  "generic_name": "AMLODIPINE BESYLATE",
+  "manufacturer": "Lupin Pharmaceuticals, Inc.",
+  "mechanism_of_action": "12.1 Mechanism of Action Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. Amlodipine inhibits calcium ion influx across cell membranes selectively, with a ",
+  "indications_and_usage": "1 INDICATIONS AND USAGE Amlodipine besylate tablets are calcium channel blocker and may be used alone or in combination with other antihypertensive and antianginal agents for the treatment of: •Hypertension ( 1.1 ) о Amlodipine besylate tablets are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular eve",
+  "clinical_pharmacology": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells. Negative inotropic effects can be detected in vitro but such effects have not been seen in intact ",
+  "pharmacokinetics": {
+    "half_life": "50 hours",
+    "protein_binding": "",
+    "volume_of_distribution": "",
+    "clearance": "",
+    "bioavailability": "",
+    "tmax": "",
+    "absorption": "absorption produces peak plasma concentrations between 6 and 12 hours."
+  },
+  "drug_interactions": "7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. ( 7.2 ) 7.1 Impact of Other Drugs on Amlodipine CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see CLINICAL PHARMACOLOGY ( 12.3 )] . CYP3A Inducers No information is available on the quantitative effects of CYP3A inducers on amlodipine. Blood pressure shou",
+  "warnings": "5 WARNINGS AND PRECAUTIONS Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. ( 5.1 ) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease. ( 5.2 ) Titrate slowly in patients with severe",
+  "contraindications": "4 CONTRAINDICATIONS Known sensitivity to amlodipine ( 4 ) Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine.",
+  "dosage_forms_strengths": "3 DOSAGE FORMS AND STRENGTHS Tablets: 2.5 mg, 5 mg, and 10 mg ( 3 ) Tablets: 2.5 mg Pink color mottled, round, flat-faced, beveled edged tablets debossed with \"1\" on one side and \"U\" on the other side. Tablets: 5 mg White to off white capsule shaped tablets debossed with \"2\" on one side and \"U\" on t",
+  "fda_application_number": "ANDA203245",
+  "cached": false,
+  "_cached_at": "2026-06-16T18:15:48.049178"
+}

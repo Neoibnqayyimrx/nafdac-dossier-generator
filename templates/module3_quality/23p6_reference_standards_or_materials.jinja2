@@ -1,0 +1,66 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Telmisartan 40mg
+  Module: module3_quality
+  Vars  : 15
+#}
+
+## 2.3.P.6 Reference Standards or Materials
+
+Source (including {{ batch_number }}) of primary reference standards or reference materials (e.g. {{ drug.pharmacopoeia_standard }}., Ph.Eur., {{ drug.pharmacopoeia_standard }}, {{ drug.pharmacopoeia_standard }}, in-house) not discussed in 3.2.S.5:
+
+Information on the reference standards or reference materials used for testing of the drug
+
+product, if not previously provided:
+
+Source: US Amino {{ drug.molecular_formula }}. Ltd.
+
+Name: {{ drug.name }} B.P.
+
+Batch No.: US/{{ drug.molecular_formula }}/201806005
+
+{{ expiry_date }}: Valid
+
+Characterization and evaluation of non-official (e.g. not from an officially recognized  pharmacopoeia) primary reference standards or reference materials (e.g. elucidation of structure, certificate of analysis) not discussed in 3.2.S.5:
+
+Not applicable
+
+Description of the process controls of the secondary reference standard (comparative certificate of analysis and IR spectra against primary standard) not discussed in 3.2.S.5: Working standard details are enclosed in Module 3,section 3.2.P.6
+
+Name of WS		: {{ drug.name }} B.P.
+
+Batch No. 		: US/{{ drug.molecular_formula }}/201806007
+
+WS Code No		: WS/63
+
+Mfg. Date		: 06/2018
+
+Exp. Date			: 05/2023
+
+Analysis Date		: {{ submission_date }}
+
+Date of Preparation	: {{ submission_date }}
+
+Ref. Std. & Lot No.	: US/{{ drug.molecular_formula }}/201806005
+
+Sample Qty.			: 50.0 gm
+
+Valid up to			: Oct. 31, 2019
+
+Qualification of working standard of {{ drug.name }} {{ drug.pharmacopoeia_standard }} is performed and the supporting documents are attached in module 3.2.P.6.
+
+{# TABLE #}
+| TEST | SPECIFICATION | RESULTS |
+| --- | --- | --- |
+| Description | White or slightly yellowish, crystalline powder. | A white, crystalline powder. |
+| Identification | Liquid chromatography : 
+The spectrum obtained with the test {{ drug.dosage_form }} corresponds with that obtained with the reference {{ drug.dosage_form }}. | Complies. |
+| Related substances | Limits :
+- Impurities C and D : For each impurity, not more than twice the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.2%) 
+- Impurity A and B : Not more than 1.5 times the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.15%) 
+- Any other impurity : For each impurity not more than the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.1%)
+- Total : Not more than 10 times the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (a) (1.0%)
+- Disregard limit: 0.5 times the area of the principal peak in the chromatogram obtained with reference {{ drug.dosage_form }} (a) (0.05%) | Complies. |
+| Loss on drying | Maximum 0.5% | 0.14 % |
+| Assay | 99.0% to 101.0% (dry basis) | 99.26 %   as it is basis
+99.40 %   dry basis |

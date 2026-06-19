@@ -1,0 +1,28 @@
+{
+  "drug_name": "paracetamol",
+  "cid": 1983,
+  "molecular_formula": "C8H9NO2",
+  "molecular_weight": "151.16",
+  "iupac_name": "N-(4-hydroxyphenyl)acetamide",
+  "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+  "inchikey": "RZVAJINKPMORJF-UHFFFAOYSA-N",
+  "logp": 0.5,
+  "melting_point": "336 to 342 °F (NTP, 1992)",
+  "solubility": "1 to 5 mg/mL at 72 °F (NTP, 1992)",
+  "pka": "pKa = 9.38",
+  "synonyms": [
+    "acetaminophen",
+    "Paracetamol",
+    "4-Acetamidophenol",
+    "103-90-2",
+    "N-(4-Hydroxyphenyl)acetamide",
+    "Tylenol",
+    "APAP",
+    "4'-Hydroxyacetanilide",
+    "Datril",
+    "Panadol"
+  ],
+  "pubchem_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+  "query_status": "found",
+  "cached": false
+}

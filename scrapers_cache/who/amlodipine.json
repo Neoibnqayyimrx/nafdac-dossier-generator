@@ -1,0 +1,11 @@
+{
+  "drug_name": "amlodipine",
+  "fpp_prequalified": false,
+  "api_prequalified": false,
+  "fpp_listings": [],
+  "api_listings": [],
+  "who_prequal_url": "https://extranet.who.int/prequal/medicines/prequalified-lists-medicines",
+  "note": "WHO extranet may require a session/login, or returned no results. Verify manually at extranet.who.int/prequal — note: most cardiovascular drugs (e.g. amlodipine) are NOT WHO-prequalified as WHO PQ focuses on HIV/TB/malaria/NTD medicines.",
+  "cached": false,
+  "_cached_at": "2026-06-16T18:15:43.499737"
+}

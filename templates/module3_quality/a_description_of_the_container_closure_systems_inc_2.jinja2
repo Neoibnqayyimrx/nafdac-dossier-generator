@@ -1,0 +1,18 @@
+{#
+  Source: 1.0 COVER LETTER.docx
+  Drug  : Telmisartan 40mg
+  Module: module3_quality
+  Vars  : 3
+#}
+
+## (a)	Description of the container closure systems, including unit count or fill size, container size or volume:
+
+{{ drug.name }} {{ drug.strength }} {{ drug.dosage_form }} is packed in a plastic jar containing {{ storage.pack_size }}.
+
+{# TABLE #}
+| Description (including materials of construction) | Strength | Unit count or fill size  (e.g. 60s, 100s etc.) | Container size    (e.g. 5 ml, 100 ml etc.) |
+| --- | --- | --- | --- |
+| Plastic Jar | {{ drug.name }} {{ drug.strength }} {{ drug.dosage_form }} | Jar {{ storage.pack_size }} {{ drug.dosage_form }} | Diameter : 62mm
+Height :90mm |
+| Insert | {{ drug.name }} {{ drug.strength }} {{ drug.dosage_form }} | Jar {{ storage.pack_size }} {{ drug.dosage_form }} | Length: 147mm
+Height: 102mm |
